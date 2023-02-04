@@ -13,10 +13,8 @@ Release Of This Bot Coming Soon...
 # Setup For Deployment 👇
 
 ## `Scan QR Code For Session`
-https://replit.com/@yureshkav/QUEEN-X-QR-CODE
+Coming... 
 
-## `Qr 2`
-https://replit.com/@DGXeon/Cheems-Bot-Multi-Device-Qr-Code-Generator?output%20only=1&lite=1#index.js
 
 අර Qr එකෙන් ස්කැන් කරන්න අමාරු අයට👆
 
