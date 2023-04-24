@@ -1,13 +1,13 @@
-# ♕King♛ 👑 MD V1
+# ♕ King ♛  MD V1
 
 World Best WhatsApp Bot
 Made By Naveed Dogar 💕😍
 
 # 𝒞𝑜𝓂𝒾𝓃𝑔 𝒮𝑜𝑜𝓃...
 
-<h1 align="center">ꪶFriends-MDꫂ<br></h1>
+<h1 align="center">ꪶKing-MDꫂ<br></h1>
 <p align="center">
-<img src="https://telegra.ph/file/8aa9717b7235bf8f0dcbc.jpg?ccb=11-4&oh=01_AdT066V_4JbuGq_E5Pdrf03hnVMDxto71BqS_aThh9WLGw&oe=63E1CB9F" alt="animated" width="540" height="280" />
+<img src="https://ibb.co/D4LLrD6" alt="animated" width="540" height="280" />
 </p>
 
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
