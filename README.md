@@ -7,7 +7,7 @@ Made By Naveed Dogar 💕😍
 
 <h1 align="center">ꪶKing-MDꫂ<br></h1>
 <p align="center">
-<img src="https://ibb.co/D4LLrD6" width="300" height="300"/>
+<img src= "https://ibb.co/D4LLrD6" width="300" height="300"/>
 </p>
 
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
