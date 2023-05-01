@@ -7,7 +7,7 @@ Made By Naveed Dogar 💕😍
 
 <h1 align="center">ꪶKing-MDꫂ<br></h1>
 <p align="center">
-<img src="https://ibb.co/D4LLrD6" alt="animated" width="540" height="280" />
+<img src= "https://github.com/technical-naveed/King-MD/blob/80e95f163d87f97b75ac746ca47e71e9666208ac/IMG_20230430_185307.jpg" width="300" height="300"/>
 </p>
 
  <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -33,6 +33,6 @@ Frist Scan QR Than Click On Deploy
 [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)
 
 
- 
+
 
 ●. ***[SCAN QR CODE SERVER 1](https://github.com/shafiqdogar1002/King-MD/blob/08be7103769ba94db1c095be1fca8c820d586aed/qrcode.png)***
