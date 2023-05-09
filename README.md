@@ -26,7 +26,7 @@ Frist Scan QR Than Click On Deploy
 
 [![Deploy on Mogenius](https://telegra.ph/file/946d83b461457a3c1598c.png)]
 
-[![Deploy on Railway](https://railway.app/button.svg)
+[![Deploy on Railway](https://railway.app/button.svg)].
 
 [![Deploy on Koyeb](https://telegra.ph/file/48228bbb836479f7a2863.png)]
 
