@@ -41,11 +41,11 @@
       OWNER_NUMBER="92xxxxxxxxxx"
       MONGODB_URI="mongodb+srv://*************"
       SESSION_ID = "Put Session Id Here"
-      THUMB_IMAGE = "https://telegra.ph/file/8f6f537cc4103b48f3783.jpg"
+      THUMB_IMAGE = "https://telegra.ph/file/8d4f15423e13a8203dadd.jpg"
       port = 5000
       email = "xxxxxxxxxxxxx@gmail.com"
       global_url = "www.instagram.com/sla.sher_"
-      OWNER_NAME = "SALMAN"
+      OWNER_NAME = "NAVEED"
       AUTO_REACTION = false
       FAKE_COUNTRY_CODE = 354
       READ_MESSAGE = false
@@ -57,7 +57,7 @@
       WELCOME_MESSAGE =  "*Hi,* @user \n*Welcome in* @gname \n*Member count* : @count th"
       THEME= GOJO
       WORKTYPE = public
-      PACK_INFO = "Ahil;ProfileCorruptedError"
+      PACK_INFO = "Naveed;ProfileCorruptedError"
       ANTILINK_VALUES = "chat.whatsapp.com"
       
       ```
