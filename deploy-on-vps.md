@@ -26,7 +26,7 @@
    5. Clone Repo and install required packages
       ```
       git clone https://github.com/naveeddogar/KING-MD
-      cd XLICON-MD
+      cd KING-MD
       yarn install --network-concurrency 1
       ```
 
