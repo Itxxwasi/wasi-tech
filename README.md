@@ -9,7 +9,7 @@
  ! I am a WhatsApp bot create by Naveed Dogar and recode by Team KINGMD to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
 
   <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Impact&size=50&pause=1000&color=AF0000FF&center=true&width=910&height=100&lines=THIS IS+KING-MD ;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+NAVEED+DOGAR ;PUBLIC+RELESED; COMING+SOON...;TEAM KING-MD." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BFFDAFF&center=true&width=910&height=100&lines=THIS IS+KING-MD ;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+NAVEED+DOGAR ;PUBLIC+RELESED; COMING+SOON...;TEAM KING-MD." alt="Typing SVG" /></a>
   </p>
   <br>
 
