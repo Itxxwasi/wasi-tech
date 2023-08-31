@@ -1,7 +1,7 @@
 
 {
     "_JSON_": true,
-    "AUTHOR": "SALMAN AHMAD",
+    "AUTHOR": "NAVEED DOGAR",
     "LANGUAGE": "English",
     "LANGCODE": "en",
     "STRINGS": {
@@ -14,9 +14,9 @@
             "botName": " GOJO SATURO ",
             "body": " SUKAAMUNAA!! ",
             "greet2" : "Hey Baka! I'm the strongest",
-            "pic1": "https://telegra.ph/file/1ee748eead4fe9efadd1e.jpg",
-            "pic2": "https://telegra.ph/file/8192328287664bf2caeb7.jpg",
-            "pic3": "https://i.ibb.co/7yh3nd6/images.jpg",
+            "pic1": "https://telegra.ph/file/9f8f9cc205e35e71f5ab8.jpg",
+            "pic2": "https://telegra.ph/file/9f8f9cc205e35e71f5ab8.jpg",
+            "pic3": "https://telegra.ph/file/9f8f9cc205e35e71f5ab8.jpg",
             "pic4": "https://i.ibb.co/zGhQ4b3/20230812-161923.jpg",
             "pic5": "https://telegra.ph/file/cf06946ae14195ff60ae9.jpg",
             "pic6": "https://telegra.ph/file/05d06f59fcf4a4c86a732.jpg",
@@ -36,7 +36,7 @@
             "mention": " Please mention any user Baka!",
             "title": "GOJO SATURO",
             "footer": "Baka! I'm Here!",
-            "by": "Made by: Xlicon Team",
+            "by": "Made by: King Team",
             "chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
             "success": "Success ✓",
             "dot": "Baka!, Why don't you try .help",
