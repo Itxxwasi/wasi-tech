@@ -1,5 +1,5 @@
 {
-               "name": "xlicon-md",
+               "name": "king-md",
                "version": "0.0.7",
                "description": "Multi device whatsapp bot by Samanytofficial.",
                "main": "lib/client.js",
