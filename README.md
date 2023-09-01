@@ -6,7 +6,7 @@
 <h1 align="center"> KING-MULTIDEVICE (Beta)
 </h1>
 <p align="center"> 
- ! I Am A Whatsapp Bot Create By Naveed Dogar and recode by Team KING-MD To Do Everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
+ ! I Am A Whatsapp Bot Create By Naveed Dogar and recode by Team KING-MD To Do Everything That Is Possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
 
   <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BFFDAFF&center=true&width=910&height=100&lines=THIS IS+KING-MD ;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+NAVEED+DOGAR ;PUBLIC+RELESED; COMING+SOON...;TEAM KING-MD." alt="Typing SVG" /></a>
