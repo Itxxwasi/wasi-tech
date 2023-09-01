@@ -15,6 +15,22 @@
 
 </p>
 
+<p align="center">
+  <a href="" target="_blank">
+    <img alt="Forks" src="https://img.shields.io/github/forks/naveeddogar/KING-MD" />
+  </a>
+  
+  
+
+</p>
+<p align="center"><img src="https://profile-counter.glitch.me/{naveeddogar}/count.svg" alt="naveeddogar :: Visitor's Count" /></p>
+<p align="center">
+ <a href="https://chat.whatsapp.com/JIJplkiYyrFE4dyFGade43" target="_blank">
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Group -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
+
+---
 # ```Scan QR Code```
 
 1. ***Get [SESSION-ID](https://replit.com/@naveeddogar/KING-MD-QR?output%20only=1&lite=1#index.js) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
