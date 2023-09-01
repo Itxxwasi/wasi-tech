@@ -19,3 +19,6 @@
 
 2. ***Click [FORK](https://github.com/naveeddogar/KING-MD/fork)***
  
+---
+## Deployments Method
+coming Soon...
