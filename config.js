@@ -17,7 +17,7 @@ global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/3c34182
 module.exports = {
   sessionName:  process.env.SESSION_ID ||  " ",  //PUT Session Id Here, 
   author:  process.env.PACK_AUTHER ||  'XLICON BOT',
-  packname:  process.env.PACK_NAME || 'MADE BY SALMAN AHMAD',
+  packname:  process.env.PACK_NAME || 'MADE BY NAVEED',
   
   botname:   process.env.BOT_NAME === undefined ? "King-Md" : process.env.BOT_NAME,
   ownername: process.env.OWNER_NAME === undefined ? 'salmanytofficial' : process.env.OWNER_NAME,  
