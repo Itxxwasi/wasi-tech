@@ -57,7 +57,7 @@
       WELCOME_MESSAGE =  "*Hi,* @user \n*Welcome in* @gname \n*Member count* : @count th"
       THEME= GOJO
       WORKTYPE = public
-      PACK_INFO = "Naveed;ProfileCorruptedError"
+      PACK_INFO = "Naveed;Dogar"
       ANTILINK_VALUES = "chat.whatsapp.com"
       
       ```
