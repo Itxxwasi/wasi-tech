@@ -1,16 +1,16 @@
-var surl = 'https://github.com/salmanytofficial/XLICON-MD' // Source URL
-const number = '8801853262586'
-var name = 'Ahil Kumer'
-var body = 'PʀᴏꜰɪʟᴇCᴏʀʀᴜᴘᴛᴇᴅEʀʀᴏʀ'
+var surl = 'https://github.com/naveeddogar/KING-MD' // Source URL
+const number = '923096566451'
+var name = 'naveed dogar'
+var body = 'naveeddogar'
 var image = 'https://telegra.ph/file/a5b414e4f93e89d0fb25e.jpg'
 var thumb = 'https://telegra.ph/file/a5b414e4f93e89d0fb25e.jpg'
 let text = `0ཻུ۪۪ꦽꦼ̷⸙━━━━━•❃°•°❀°•°❃•━━━━━᭄
 │       *「 Owner 」*
-│ *Name      :* ProfileCorruptedError
+│ *Name      :* NaveedDogar 
 │ *Place       :* Bangladesh
 │ *Gender   :*  ᴍᴀʟᴇ
-│ *Age          :* 15_
-│ *Phone     :* wa.me/880xxxxx
+│ *Age          :* 17_
+│ *Phone     :* wa.me/923096566451
 │ *IG ID        :* instagram.com/sla.sher_
 │ *Status     :* Sleeping._
 ╰━•❃°•°❀°•°❃•━ꪶ ཻུ۪۪ꦽꦼ̷⸙ ━ ━ ━ ━ ꪶ ཻུ۪۪ꦽꦼ̷⸙`
