@@ -4,7 +4,7 @@
  You may not use this file except in compliance with the License.
  It is supplied in the hope that it may be useful.
  * @project_name : KING-MD
- * @author : naveeddogar <https://github.com/salmanytofficial/XLICON-MD>
+ * @author : naveeddogar <https://github.com/naveeddogar/KING-MD>
  * @description : KING,A Multi-functional whatsapp bot.
  * @version 0.0.6
  **/
