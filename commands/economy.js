@@ -5,7 +5,7 @@
  It is supplied in the hope that it may be useful.
  * @project_name : KING-MD
  * @author : naveeddogar <https://github.com/jayjay-ops>
- * @modified by : @salmanytofficial <https://github.com/salmanytofficial/XLICON-MD>
+ * @modified by : @naveeddogar <https://github.com/naveeddogar/KING-MD>
  * @description : XLICON,A Multi-functional whatsapp bot.
  * @version 0.0.6
  **/
