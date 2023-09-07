@@ -2,13 +2,13 @@
   "name": "KING MD",
   "description": "A Whatsapp md bot built in NodeJs to make experience better",
   "logo": "https://telegra.ph/file/9f8f9cc205e35e71f5ab8.jpg",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "Zero-Two", "King Bot", "King","King MD","theme bot","multi device","baileys","Profilecorruptederror"],
+  "keywords": ["nodejs", "bot", "whatsapp bot", "Zero-Two", "King Bot", "King","King MD","theme bot","multi device","baileys","naveeddogar"],
   "success_url": "/",
   "stack": "container",
 "env": {
   "OWNER_NAME": {
   "description": "BOT OWNER NAME",
-      "value": "naveeddogar"
+      "value": "Naveed Dogar"
   },
   "ALIVE_MESSAGE": {
     "description": " SET YOUR ALIVE MESSAGE FOR THE BOT",
