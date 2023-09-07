@@ -1,5 +1,5 @@
 while true
 do
-echo "Starting Xlicon-Md..."
+echo "Starting King-Md..."
 node lib/client.js
 done
