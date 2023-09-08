@@ -31,6 +31,7 @@
 </p>
 
 ---
+# 𝒞𝑜𝓂𝒾𝓃𝑔 𝒮𝑜𝑜𝓃...
 # ```Scan QR Code```
 
 1. ***Get [SESSION-ID](https://replit.com/@naveeddogar/KING-MD-QR?output%20only=1&lite=1#index.js) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
