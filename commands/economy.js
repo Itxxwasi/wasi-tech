@@ -6,7 +6,7 @@
  * @project_name : KING-MD
  * @author : naveeddogar <https://github.com/jayjay-ops>
  * @modified by : @naveeddogar <https://github.com/naveeddogar/KING-MD>
- * @description : XLICON,A Multi-functional whatsapp bot.
+ * @description : KING,A Multi-functional whatsapp bot.
  * @version 0.0.6
  **/
 
