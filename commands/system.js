@@ -3,9 +3,9 @@
  Licensed under the  GPL-3.0 License;
  You may not use this file except in compliance with the License.
  It is supplied in the hope that it may be useful.
- * @project_name : Secktor-Md
- * @author : SamPandey001 <https://github.com/SamPandey001>
- * @description : Secktor,A Multi-functional whatsapp bot.
+ * @project_name : KING-MD
+ * @author : naveeddogar <https://github.com/naveeddogar>
+ * @description : KingMd,A Multi-functional whatsapp bot.
  * @version 0.0.6
  **/
 
@@ -48,7 +48,7 @@ cmd({
                 headerType: 4,
                 contextInfo: {
                     externalAdReply: {
-                        title: 'Secktor Session',
+                        title: 'KingMd Session',
                         body: 'Get you Session ID',
                         thumbnail: log0,
                         mediaType: 2,
@@ -243,20 +243,20 @@ cmd({
             desc: "is bot alive??"
         },
         async(Void, citel, text, isAdmins) => {
-            let alivemessage = Config.ALIVE_MESSAGE || `*A bot developed by SamPandey001.*`
+            let alivemessage = Config.ALIVE_MESSAGE || `*A bot developed by naveeddogar.*`
             const alivtxt = `
 *Hello, ${citel.pushName},*
 _This is  ${tlang().title}._
 ${alivemessage}
 
-*Version:-* _0.0.7_
-*Uptime:-* _${runtime(process.uptime())}_
-*Owner:-* _${Config.ownername}_
-*Branch:-* _${Config.BRANCH}_
+*💮Version:-* _0.0.7_
+*💠Uptime:-* _${runtime(process.uptime())}_
+*👨‍💻Owner:-* _иανєє∂ ∂οgαя_
+*🪢Branch:-* _${Config.BRANCH}_
 
-_Type ${prefix}menu for my command list._
+_Type ${prefix}menu for kingMd command list_
 
-_Powered by ${Config.ownername}_
+_💙Powered by ${Config.ownername}_
 `;
             let aliveMessage = {
                 image: {
