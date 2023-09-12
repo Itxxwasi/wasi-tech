@@ -56,17 +56,17 @@ Secktor.cmd({
                 let str = `╭────《 ` + fancytext(Config.ownername.split(' ')[0], 58) + ` 》─────⊷\n`
                 str +=
                     '```' + `│ ╭──────────────◆
-│ │ User:- ${citel.pushName}
-│ │ Theme:- ${tlang().title}
-│ │ Prefix:- [ ${prefix} ]
-│ │ Owner:- Nᴀᴠᴇᴇᴅ Dᴏɢᴀʀ
-│ │ Plugins:- ${commands.length}
-│ │ Uptime:- ${runtime(process.uptime())}
-│ │ Mem:- ${formatp(os.totalmem() - os.freemem())}/${formatp(os.totalmem())}
-│ │ Time:- ${time}
-│ │ Date:- ${date}
-│ ╰──────────────◆
-╰───────────────⊷\n
+┃ ⛥┃ User:- ${citel.pushName}
+┃ ⛥┃ Theme:- ${tlang().title}
+┃ ⛥┃ Prefix:- [ ${prefix} ]
+┃ ⛥┃ Owner:- Naveed Dogar
+┃ ⛥┃ Plugins:- ${commands.length}
+┃ ⛥┃ Uptime:- ${runtime(process.uptime())}
+┃ ⛥┃ Mem:- ${formatp(os.totalmem() - os.freemem())}/${formatp(os.totalmem())}
+┃ ⛥┃ Time:- ${time}
+┃ ⛥┃ Date:- ${date}
+┃ ⛥╰──────────────◆
+╰━━━━━━━━━━━──⊷\n
 ` + '```'
                 for (const category in cmds) 
                 {
