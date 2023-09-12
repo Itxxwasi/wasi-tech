@@ -243,6 +243,14 @@ cmd({
             desc: "is bot alive??"
         },
         async(Void, citel, text, isAdmins) => {
+         Void.sendMessage(citel.chat, { 
+              react: { 
+                  text: "🤗", 
+                  key: citel.key 
+              } 
+          }) 
+          await Void.sendPresenceUpdate('recording', citel.chat);
+          await Void.sendMessage(citel.chat, { audio: {url : 'https://telegra.ph/file/43e72b3755d184fd6506f.mp4',}, mimetype: 'audio/mpeg', ptt: true }, { quoted: citel, });
             let alivemessage = Config.ALIVE_MESSAGE || `*A bot developed by naveeddogar.*`
             const alivtxt = `
 *Hello, ${citel.pushName},*
@@ -257,6 +265,7 @@ ${alivemessage}
 _Type ${prefix}menu for kingMd command list_
 
 _💙Powered by ${Config.ownername}_
+_⧉κιиg-м∂_
 `;
             let aliveMessage = {
                 image: {
