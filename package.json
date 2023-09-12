@@ -1,15 +1,15 @@
 {
-               "name": "secktor-md",
+               "name": "king-md",
                "version": "0.0.7",
-               "description": "Multi device whatsapp bot by SamPandey001.",
+               "description": "Multi device whatsapp bot by naveeddogar.",
                "main": "lib/client.js",
                "type": "commonjs",
                "license": "GPL-3.0",
    "scripts": {
-                "start": "pm2 start lib/client.js --deep-monitoring --attach --name secktor",
-                "stop": "pm2 stop secktor"
+                "start": "pm2 start lib/client.js --deep-monitoring --attach --name king",
+                "stop": "pm2 stop king"
                 },
-               "author": "SamPandey001",
+               "author": "naveeddogar",
               "dependencies": {
                        "@sampandey001/baileys": "latest", 
                        "@adiwajshing/keyed-db": "^0.2.4",
@@ -68,10 +68,10 @@
                     },
                  "repository": {
                  "type": "git",
-                 "url": "git+https://github.com/SamPandey001/Secktor-Md.git"
+                 "url": "git+https://github.com/naveeddogar/KING-MD.git"
                   },
                  "bugs": {
-                 "url": "https://github.com/SamPandey001/Secktor-Md/issues"
+                 "url": "https://github.com/naveeddogar/KING-MD/issues"
                   },
-                 "homepage": "https://github.com/SamPandey001/Secktor-Md#readme"
+                 "homepage": "https://github.com/naveeddogar/KING-MD#readme"
                   }
