@@ -56,15 +56,16 @@ Secktor.cmd({
                 let str = `╭────《 𝙆𝙄𝙉𝙂-𝙈𝘿 》────⊷❍\n`
                 str +=
                     '```' + `┇⛥╭──────────────◆
-┇⛥┇User: ${citel.pushName}
-┃⛥┃Theme: ${tlang().title}
-┃⛥┃Prefix: [ ${prefix} ]
-┃⛥┃Owner: Naveed Dogar
+┇⛥┇Owner: Naveed Dogar
+┃⛥┃User: ${citel.pushName}
+┃⛥┃Prefix: ( ${prefix} )
 ┃⛥┃Plugins: ${commands.length}
 ┃⛥┃Uptime: ${runtime(process.uptime())}
-┃⛥┃Mem: ${formatp(os.totalmem() - os.freemem())}/${formatp(os.totalmem())}
-┃⛥┃Time: ${time}
-┇⛥┇Date: ${date}
+┃⛥┃Mem:${formatp(os.totalmem() - os.freemem())}/${formatp(os.totalmem())}
+┃⛥┃Date: ${date}
+┃⛥┃Version:1.0.0
+┃⛥┃
+┇⛥┇Copyright©By:Naveed
 ┇⛥╰━━━━━━━━━━━───◆
 ╰━━━━━━━━━━━──⊷\n
 ` + '```'
