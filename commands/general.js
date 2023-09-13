@@ -3,9 +3,9 @@
  Licensed under the  GPL-3.0 License;
  You may not use this file except in compliance with the License.
  It is supplied in the hope that it may be useful.
- * @project_name : Secktor-Md
- * @author : SamPandey001 <https://github.com/SamPandey001>
- * @description : Secktor,A Multi-functional whatsapp bot.
+ * @project_name : KING-MD
+ * @author : naveeddogar <https://github.com/naveeddogar>
+ * @description : King,A Multi-functional whatsapp bot.
  * @version 0.0.6
  **/
 
@@ -114,14 +114,14 @@ cmd({
         filename: __filename,
     },
     async(Void, citel) => {
-        let { data } = await axios.get('https://api.github.com/repos/SamPandey001/Secktor-Md')
+        let { data } = await axios.get('https://api.github.com/repos/naveeddogar/KING-MD')
         let cap = `Hey ${citel.pushName}\n
 *⭐ Total Stars:* ${data.stargazers_count} stars
 *🍽️ Forks:* ${data.forks_count} forks
-*🍁 Repo:* citel-x.herokuapp.com/repo
-*Group:* citel-x.herokuapp.com/support
-*Deploy Your Own:*-
-citel-x.herokuapp.com`
+*🍁 Repo:* https://github.com/naveeddogar/KING-MD
+*🤝Group:* https://chat.whatsapp.com/JIJplkiYyrFE4dyFGade43
+*🧩Deploy Your Own:*-
+.herokuapp.com`
         let buttonMessaged = {
             image: { url: await botpic() },
             caption: cap,
@@ -129,7 +129,7 @@ citel-x.herokuapp.com`
             headerType: 4,
             contextInfo: {
                 externalAdReply: {
-                    title: "Secktor-Repo",
+                    title: "King-Md-Repo",
                     body: "Easy to Use",
                     thumbnail: log0,
                     mediaType: 4,
