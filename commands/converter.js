@@ -3,9 +3,9 @@
  Licensed under the  GPL-3.0 License;
  You may not use this file except in compliance with the License.
  It is supplied in the hope that it may be useful.
- * @project_name : Secktor-Md
- * @author : SamPandey001 <https://github.com/SamPandey001>
- * @description : Secktor,A Multi-functional whatsapp bot.
+ * @project_name : KING-MD
+ * @author : naveeddogar <https://github.com/naveeddogar>
+ * @description : King,A Multi-functional whatsapp bot.
  * @version 0.0.6
  **/
 
@@ -168,9 +168,9 @@ cmd({
         async(Void, citel, text) => {
             if (isNaN(text.split(" ")[0]) || !text) {
                 let text = tiny(
-                    "Fancy text generator\n\nExample: .fancy 32 Secktor\n\n"
+                    "Fancy text generator\n\nExample: .fancy 32 King-Md\n\n"
                 );
-                listall("Secktor Bot").forEach((txt, num) => {
+                listall("King Md").forEach((txt, num) => {
                     text += `${(num += 1)} ${txt}\n`;
                 });
                 return await citel.reply(text);
