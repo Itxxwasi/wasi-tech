@@ -62,10 +62,11 @@ Secktor.cmd({
 ┃⛥┃Plugins: ${commands.length}
 ┃⛥┃Uptime: ${runtime(process.uptime())}
 ┃⛥┃Mem:${formatp(os.totalmem() - os.freemem())}/${formatp(os.totalmem())}
-┃⛥┃Date: ${fancytext(date)}
+┃⛥┃Date: ${fancytext(date,1)}
 ┃⛥┃Version:1.0.0
-┃⛥┃
-┇⛥┇©By: Naveeddogar
+┃⛥┃ ▎▍▌▌▉▏▎▌▉▐▏▌▎
+┃⛥┃ ▎▍▌▌▉▏▎▌▉▐▏▌▎
+┇⛥┇
 ┇⛥╰━━━━━━━━━━━───◆
 ╰━━━━━━━━━━━──⊷\n
 ` + '```'
