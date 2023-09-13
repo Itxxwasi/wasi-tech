@@ -25,8 +25,8 @@
 
    5. Clone Repo and install required packages
       ```
-      git clone https://github.com/SamPandey001/Secktor-Md
-      cd Secktor-Md
+      git clone https://github.com/naveeddogar/KING-MD
+      cd KING-MD
       yarn install --network-concurrency 1
       ```
 
@@ -38,9 +38,9 @@
       copy paste lines below.
 
       ```
-      OWNER_NUMBER="911234567890"
+      OWNER_NUMBER="923096566451"
       MONGODB_URI="mongodb+srv://*************"
-      SESSION_ID = "secktorbot.herokuapp.com/session"
+      SESSION_ID = ".herokuapp.com/session"
       THUMB_IMAGE = "https://raw.githubusercontent.com/SecktorBot/Brandimages/main/logos/SocialLogo%201.png"
       port = 5000
       email = "sam@secktor.live"
