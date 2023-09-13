@@ -53,7 +53,7 @@ Secktor.cmd({
                     .locale('id')
                 const date = moment.tz('Asia/Kolkata').format('DD/MM/YYYY')
                 let total = await sck1.countDocuments()
-                let str = `╭────《 𝙆𝙄𝙉𝙂-𝙈𝘿 》────⊷❍\n`
+                let str = `╭────《 𝙆𝙄𝙉𝙂-𝙈𝘿 》───⊷❍\n`
                 str +=
                     '```' + `┇⛥╭──────────────◆
 ┇⛥┇Owner: Naveed Dogar
@@ -62,10 +62,10 @@ Secktor.cmd({
 ┃⛥┃Plugins: ${commands.length}
 ┃⛥┃Uptime: ${runtime(process.uptime())}
 ┃⛥┃Mem:${formatp(os.totalmem() - os.freemem())}/${formatp(os.totalmem())}
-┃⛥┃Date: ${date}
+┃⛥┃Date: ${fancytext(date)}
 ┃⛥┃Version:1.0.0
 ┃⛥┃
-┇⛥┇Copyright©By:Naveed
+┇⛥┇©By: Naveeddogar
 ┇⛥╰━━━━━━━━━━━───◆
 ╰━━━━━━━━━━━──⊷\n
 ` + '```'
