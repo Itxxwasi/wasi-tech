@@ -32,12 +32,15 @@
 
 ---
 # 𝒞𝑜𝓂𝒾𝓃𝑔 𝒮𝑜𝑜𝓃...
-# ```Scan QR Code```
+# ```SCAN QR CODE```
+. ***Get [SESSION-ID] by scanning QR code. `Whatapp>Three dots>Linked Devices`*** 
 
-1. ***Get [SESSION-ID](https://replit.com/@naveeddogar/KING-MD-QR?output%20only=1&lite=1#index.js) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
+●. ***[SCAN QR CODE SERVER 1](https://replit.com/@naveeddogar/KING-MD-QR)***     
+.
+●. ***[SCAN QR CODE SERVER 2](https://replit.com/@naveeddogar/KING-MD-QR?output%20only=1&lite=1#index.js)***
 --- 
-# ```Fork Repo```
-2. ***Click [FORK](https://github.com/naveeddogar/KING-MD/fork)***
+# ```FORK REPO```
+2. ***Click To [FORK](https://github.com/naveeddogar/KING-MD/fork)***
  
 ---
 
