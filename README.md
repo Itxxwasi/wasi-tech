@@ -36,7 +36,7 @@
 . ***Get [SESSION-ID] by scanning QR code. `Whatapp>Three dots>Linked Devices`*** 
 
 ●. ***[SCAN QR CODE SERVER 1](https://replit.com/@naveeddogar/KING-MD-QR)***     
-.
+---
 ●. ***[SCAN QR CODE SERVER 2](https://replit.com/@naveeddogar/KING-MD-QR?output%20only=1&lite=1#index.js)***
 --- 
 # ```FORK REPO```
