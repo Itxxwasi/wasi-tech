@@ -9,7 +9,7 @@
  ! I Am A Whatsapp Bot Create By Naveed Dogar To Do Everything That Is Possible On WhatsApp Based On WhatsApp Multi Device(MD) Support.
 
   <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BFFDAFF&center=true&width=910&height=100&lines=THIS IS+KING-MD ;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+NAVEED+DOGAR ;PUBLIC+RELESED; COMING+SOON...;TEAM KING-MD." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BFFDAFF&center=true&width=910&height=100&lines=THIS IS+KING-MD ;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+NAVEED+DOGAR ;PUBLIC+RELESED; COMING+SOON...;" alt="Typing SVG" /></a>
   </p>
   <br>
 
@@ -35,7 +35,7 @@
 # ```SCAN QR CODE```
 . ***Get [SESSION-ID] by scanning QR code. `Whatapp>Three dots>Linked Devices`*** 
 
-●. ***[SCAN QR CODE SERVER 1](https://replit.com/@naveeddogar/KING-MD-QR)***     
+●. ***[SCAN QR CODE SERVER 1](https://replit.com/@naveeddogar/KING-MD-QR?v=1)***     
 ---
 ●. ***[SCAN QR CODE SERVER 2](https://replit.com/@naveeddogar/KING-MD-QR?output%20only=1&lite=1#index.js)***
 --- 
@@ -43,7 +43,7 @@
 2. ***Click To [FORK](https://github.com/naveeddogar/KING-MD/fork)***
  
 ---
-
+Warning ⚠️⚠️⚠️
 # THIS TIME DON'T DEPLOY 
 ---
 
