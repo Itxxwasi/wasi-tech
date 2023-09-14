@@ -15,10 +15,14 @@
 
 </p>
 
-<p align="center">
-  <a href="" target="_blank">
-    <img alt="Forks" src="https://img.shields.io/github/forks/naveeddogar/KING-MD" />
-  </a>
+
+   <p align="left">
+  <a href="https://github.com/naveeddogar/KING-MD/fork">
+    <img src="https://img.shields.io/github/forks/naveeddogar/KING-MD?label=Fork&style=social">
+  <p align="left"> 
+  <a href="https://github.com/naveeddogar/KING-MD/stargazers">
+    <img src="https://img.shields.io/github/stars/naveeddogar/KING-MD?style=social">
+      
   
   
 
