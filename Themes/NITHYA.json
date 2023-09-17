@@ -1,6 +1,6 @@
 {
   "__JSON__": true,
-  "AUTHOR": "yasas",
+  "AUTHOR": "naveeddogar",
   "LANGUAGE": "English",
   "LANGCODE": "en",
   "STRINGS": {
@@ -10,7 +10,7 @@
           "UPDATED_LOCAL": "*Successfully Updated!*"
       },
       "global": {
-          "botName": " Powered by nithya",
+          "botName": " Powered by KING-MD",
           "body": "𝑊ℎ𝑎𝑡𝑠𝑎𝑝𝑝 𝐵𝑜𝑡",
           "greet2" : "Sir",
           "pic1": "https://telegra.ph/file/e737a6573663dcd99f96c.jpg",
@@ -32,9 +32,9 @@
           "antlink": "Link Detected.\n*Good Bye Sir*",
           "session": "\n*This is your session.sam.json,keep it safe and store it properly*\n_Now Upload This json file in Your Forked Repo_\n Connect your repo to Heroku and *Deploy Branch* and Bot will run for Always\n\n*Powered by Nithya*",
           "mention": " Please mention any user Sir",
-          "title": "Nithya",
-          "footer": "Nithya",
-          "by": "Made by: *Nithya*",
+          "title": "KING-MD",
+          "footer": "KING-MD",
+          "by": "Made by: *KING-MD*",
           "chat_desc": "Options Avilable* : 1. mute\n2. unmute\n3. archive\n4. unarchive\n5. read\n6. unread\n7. delete",
           "success": "Done ✓",
           "dot": "Did you mean *help?*",
