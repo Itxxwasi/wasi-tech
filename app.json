@@ -1,18 +1,14 @@
 { 
-   "name": "NITHYA", 
+   "name": "KING-MD", 
    "description": "A Whatsapp md bot built in NodeJs to make experience better", 
-   "logo": "https://telegra.ph/file/e737a6573663dcd99f96c.jpg", 
+   "logo": "https://telegra.ph/file/9f8f9cc205e35e71f5ab8.jpg", 
    "keywords": ["nodejs", "bot", "whatsapp bot", "Zero-Two", "SecktorBot", "Secktor","SecktorMD","theme bot","multi device","baileys","Sam Pandey"], 
    "success_url": "/", 
    "stack": "container", 
  "env": { 
    "OWNER_NAME": { 
    "description": "Name of Bot Owner", 
-       "value": "Dileepa" 
-   }, 
-   "ALIVE_MESSAGE": { 
-     "description": "Alive message for bot", 
-      "required" :false 
+       "value": "NaveedDogar" 
      }, 
      "SESSION_ID": {
       "description": "Please put your SESSION_ID here"
@@ -31,7 +27,7 @@
      }, 
     "THUMB_IMAGE": { 
      "description": "THUMBNAIL for bot.", 
-      "value": "https://telegra.ph/file/e737a6573663dcd99f96c.jpg" 
+      "value": "https://telegra.ph/file/9f8f9cc205e35e71f5ab8.jpg" 
      }, 
      "ANTI_BAD_WORD": { 
      "description": "Put words here. If you want it enabled in your bot otherwise leave it blank", 
@@ -67,7 +63,7 @@
    }, 
    "OWNER_NUMBER": { 
      "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")", 
-        "value": "94705674697" 
+        "value": "923096566451" 
    }, 
      "OPENAI_API_KEY": { 
      "description": "Please put your OPENAI api key here.Get it from beta.openai.com ", 
@@ -113,7 +109,7 @@
    },   
    "PACK_INFO": { 
      "description": "Put packname;authorname.", 
-      "value": "Dileepa;Nithya", 
+      "value": "Naveed;King-MD", 
       "required": false  
    }, 
    "heroku": { 
