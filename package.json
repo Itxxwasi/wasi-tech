@@ -1,15 +1,15 @@
 {
-               "name": "Nithya",
+               "name": "KING-MD",
                "version": "0.0.2",
                "description": "Multi device whatsapp bot ",
                "main": "lib/client.js",
                "type": "commonjs",
                "license": "GPL-3.0",
    "scripts": {
-                "start": "pm2 start lib/client.js --deep-monitoring --attach --name dileepa",
-                "stop": "pm2 stop dileepa"
+                "start": "pm2 start lib/client.js --deep-monitoring --attach --name king",
+                "stop": "pm2 stop king"
                 },
-               "author": "dileepa",
+               "author": "naveed",
               "dependencies": {
                        "@whiskeysockets/baileys": "git+https://github.com/nipuna15/baileys", 
                        "@adiwajshing/keyed-db": "^0.2.4",
