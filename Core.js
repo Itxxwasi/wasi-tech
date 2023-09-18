@@ -457,8 +457,8 @@ function updateStatus() {
   const uptimeFormatted = formatTime(uptimeInSeconds);
 
   // const status = `
-  // ㅤㅤ〄ㅤㅤ〘 A17 Personal Edition 〙ㅤㅤ〄ㅤㅤㅤㅤ
-  // ㅤㅤㅤ〘ㅤ Auto Uptime: ${uptimeFormatted}ㅤ〙`;
+  // ㅤㅤ♛⃟㉿ㅤ〘 KING-MD Run Time 〙ㅤ♛⃟㉿ㅤㅤㅤㅤ
+  // ㅤ〘ㅤ Auto Update Uptime: ${uptimeFormatted} By Naveed 〙`;
 
   function _0x582b(_0xabb6f8,_0x12cdd8){const _0x58e890=_0x58e8();return _0x582b=function(_0x582b90,_0x4387b3){_0x582b90=_0x582b90-0x189;let _0x932613=_0x58e890[_0x582b90];return _0x932613;},_0x582b(_0xabb6f8,_0x12cdd8);}function _0x58e8(){const _0x109554=['12896370RDSmnX','3BgvPel','189HbmdoW','18854HvEPNh','11TZHUID','9125326EcyeIg','464328lPaAMf','3400722cbWEOK','2263175KIczdo','12TaHNqM','2521564eqJRHK'];_0x58e8=function(){return _0x109554;};return _0x58e8();}(function(_0x429d7b,_0x532ab5){const _0x527567=_0x582b,_0x130eb4=_0x429d7b();while(!![]){try{const _0x75c57a=-parseInt(_0x527567(0x18b))/0x1+-parseInt(_0x527567(0x192))/0x2*(-parseInt(_0x527567(0x189))/0x3)+parseInt(_0x527567(0x191))/0x4*(-parseInt(_0x527567(0x190))/0x5)+-parseInt(_0x527567(0x18f))/0x6+parseInt(_0x527567(0x18d))/0x7+parseInt(_0x527567(0x18e))/0x8*(-parseInt(_0x527567(0x18a))/0x9)+parseInt(_0x527567(0x193))/0xa*(parseInt(_0x527567(0x18c))/0xb);if(_0x75c57a===_0x532ab5)break;else _0x130eb4['push'](_0x130eb4['shift']());}catch(_0x19ea04){_0x130eb4['push'](_0x130eb4['shift']());}}}(_0x58e8,0xa8dae));const status='\x0a\x20\x20ㅤㅤ〄ㅤㅤ〘\x20A17\x20Personal\x20Edition\x20〙ㅤㅤ〄ㅤㅤㅤㅤ\x0a\x20\x20ㅤㅤㅤ〘ㅤ\x20Auto\x20Uptime:\x20'+uptimeFormatted+'ㅤ〙';
 
@@ -535,7 +535,7 @@ updateStatus();
 
 
 //     const menulist = `
-//     Konichiwa ${pushname} dear 👋. I am ${global.BotName}, a bot developed by: Kai to take your WhatsApp usage into next level.
+//     Konichiwa ${pushname} dear 👋. I am ${global.BotName}, a bot developed by: Naveed to take your WhatsApp usage into next level.
         
 //        「 System Info 」
     
@@ -2612,7 +2612,7 @@ break;
 case 'ghstalk': case 'githubstalk': case'github': {
   A17.sendMessage(from, { react: { text: "🔍" , key: m.key }})
 
-  if (!q) return reply(`Give me a user name like *${prefix}github Kai0071*`)
+  if (!q) return reply(`Give me a user name like *${prefix}github naveeddogar*`)
 
   gitdata = await githubstalk.githubstalk(`${q}`)
   A17.sendMessage(m.chat, { image: { url : gitdata.profile_pic }, caption: 
@@ -4229,7 +4229,7 @@ break;
 
 
 
-case 'translate': case 'ts': case 'trans': {
+case 'translate': case 'ts': case 'trt': {
 if (isBan) return reply(mess.banned);
 A17.sendMessage(from, { react: { text: "⌛" , key: m.key }})
 
@@ -4417,7 +4417,7 @@ if (isBan) return reply(mess.banned);
 if (isBanChat) return reply(mess.bangc);
 A17.sendMessage(from, { react: { text: "✨" , key: m.key }})
 
-if (!args[0]) return reply(`Example: ${prefix + command} <query>\nUses : ${prefix + command} anything...`)
+if (!args[0]) return reply(`Example: ${prefix + command} <king-md>\nUses : ${prefix + command} anything...`)
 let google = require('google-it')
 google({'query': args.join(" ")}).then(res => {
 let teks = `「 *Google Search Engine* 」\n\n*Search term:* ${text}\n\n\n`
@@ -6651,10 +6651,10 @@ break;
     case 'help': case 'h': case 'menu': case 'allmenu': case 'listmenu':{
       if (isBan) return reply(mess.banned);	 			
       if (isBanChat) return reply(mess.bangc);
-  A17.sendMessage(from, { react: { text: "✨" , key: m.key }})      
-  const helpmenu = `Hemlo *${pushname}* Dear...!! ${nowtime} ,
+  A17.sendMessage(from, { react: { text: "📟" , key: m.key }})      
+  const helpmenu = `Hello *${pushname}* Dear...!! ${nowtime} ,
   
-Hemlo, I am "A17" a WhatsApp bot create and recode by Kai to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
+Hello, I am "A17" a WhatsApp bot create and recode by Kai to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
 
 
   ⌯    *Time* : ${kaitime}
