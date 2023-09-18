@@ -51,7 +51,7 @@ const store = makeInMemoryStore({
 async function startA17() {
   console.log(
     color(
-      figlet.textSync("KING Bot MD", {
+      figlet.textSync("KING MD", {
         font: "Standard",
         horizontalLayout: "default",
         vertivalLayout: "default",
@@ -62,14 +62,14 @@ async function startA17() {
       "green"
     )
   );
-  console.log(color('\nHello, I am NaveedDogar, the Developer of this bot.\n\nThanks for using: KING Bot.', 'aqua'))
+  console.log(color('\nHello, I am Naveed Dogar, The Developer Of This bot.\n\nThanks For Ssing: KING Bot.', 'aqua'))
   console.log(color('\nYou can follow me on GitHub: naveeddogar', 'aqua'))
 
   const { state, saveCreds } = await useMultiFileAuthState("./KING-MD-SESSION");
   const A17 = A17Connect({
     logger: pino({ level: "silent" }),
     printQRInTerminal: true,
-    browser: ["A17 Bot", "Safari", "3.O"],
+    browser: ["KING-MD", "Safari", "3.O"],
     auth: state,
   });
 
@@ -124,11 +124,11 @@ async function startA17() {
       }
       let wm_fatih = { url: ppgc }
       if (pea[0].announce == true) {
-        //A17.send5ButImg(pea[0].id, `Grop has been *Closed!* Only *Admins* can send Messages!`, `A17 Bot`, wm_fatih, [])
+        //A17.send5ButImg(pea[0].id, `Grop has been *Closed!* Only *Admins* can send Messages!`, `King Bot`, wm_fatih, [])
   
         A17.sendMessage(m.chat, { image: wm_fatih, caption: 'Grop has been *Closed!* Only *Admins* can send Messages!' })
       } else if (pea[0].announce == false) {
-        // A17.send5ButImg(pea[0].id, `Grop has been *Opened!* Now *Everyone* can send Messages!`, `A17 Bot`, wm_fatih, [])
+        // A17.send5ButImg(pea[0].id, `Grop has been *Opened!* Now *Everyone* can send Messages!`, `King Bot`, wm_fatih, [])
         A17.sendMessage(m.chat, { image: wm_fatih, caption: 'Grop has been *Opened!* Now *Everyone* can send Messages!' })
       } else if (pea[0].restrict == true) {
         //A17.send5ButImg(pea[0].id, `Group Info modification has been *Restricted*, Now only *Admins* can edit Group Info !`, `A17 Bot`, wm_fatih, [])
@@ -183,7 +183,7 @@ async function startA17() {
             A17text = `
   Hello @${WAuserName.split("@")[0]},
   
-  I am *A17 Bot*, Welcome to ${metadata.subject}.
+  I am *KING-MD*, Welcome to ${metadata.subject}.
   
   *Group Description:*
   ${metadata.desc}
