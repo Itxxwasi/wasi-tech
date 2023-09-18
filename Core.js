@@ -565,7 +565,7 @@ updateStatus();
     
 //     Type *-menu* or press any button below to start using *${global.BotName}*
     
-//     ©️ *${global.BotName}* All Rights Reserved by: *Kai*
+//     ©️ *${global.BotName}* All Rights Reserved by: *Naveed*
 //     `
 //         const qtod = m.quoted? "true":"false"
         
@@ -663,8 +663,8 @@ if (smallinput.includes('hello')) {
 
 // } 
 
-if (smallinput=='kai') {
-    reply (`My Boss is lost in another Multiverse, and I lost the connection with him...`)
+if (smallinput=='naveeddogar') {
+    reply (`My Boss Is Bussy in another Project, and I lost the connection with him...`)
 }
 
 
@@ -683,8 +683,8 @@ if (smallinput=='a17') {
     reply ('Yes I am Alive 🫂')
 }
 
-if (smallinput=='sasha') {
-  reply ('Only you...🫶🏻')
+if (smallinput=='naveed') {
+  reply ('Only you Great...🫶🏻')
 }
 
 if (smallinput=='ping') {
@@ -722,7 +722,7 @@ const responses = {
 
   
   hello: `Hello ${pushname}, I am ${BotName}. My current prefix is "${prefix}". How can I help you?`,
-  kai: `My Boss is lost in another Multiverse, and I lost connection with him...`,
+  naveeddogar: `My Boss is lost in another Multiverse, and I lost connection with him...`,
   runtime: `Hey ${pushname}\n${nowtime}\n\nMy runtime:${runtime(process.uptime())}\n\nPrefix is: *${prefix}*\n\nTime: ${kaitime}\n\nDate: ${kaidate}\n\nToday is ${currentDay}`,
   konichiwa: `Konichiwa ${pushname}, I am ${BotName}. How can I help you?`,
   sasha: 'Only you...🫶🏻',
@@ -757,8 +757,8 @@ if (responses.hasOwnProperty(smallinput)) {
     if (isBanChat) return reply(mess.bangc);
     A17.sendMessage(from, { react: { text: "❤" , key: m.key }})
     
-    let { data } = await axios.get('https://api.github.com/repos/Kai0071/A17');
-    teks = `*A17 Script*\n\n*Total Stars*: ${data.stargazers_count}⭐\n*Total Forks*: ${data.forks_count} forks\n*GitHub*: https://github.com/Kai0071/A17\n\nDont forget to follow me on *GitHub* and give a ⭐️ to my projects. `
+    let { data } = await axios.get('https://api.github.com/repos/naveeddogar/KING-MD');
+    teks = `*KING-MD Script*\n\n*Total Stars*: ${data.stargazers_count}⭐\n*Total Forks*: ${data.forks_count} forks\n*GitHub*: https://github.com/naveeddogar/KING-MD\n\nDont forget to follow me on *GitHub* and give a ⭐️ to my projects. `
   /*  let buttons = [
     {buttonId: `${prefix}owner`, buttonText: {displayText: '🍁 DEVELOPER 🍁'}, type: 1}
     ] */
@@ -770,14 +770,14 @@ if (responses.hasOwnProperty(smallinput)) {
     buttons: buttons,
     headerType: 4, */
     contextInfo:{externalAdreply:{
-    title:"Powered by Kai",
+    title:"Powered by naveeddogar",
     body: " ", 
     thumbnail: fs.readFileSync("Assets/pic2.jpg"),
     mediaType:1,
     //mediaUrl: 'https://wallpapercave.com/wp/wp10524580.jpg',
     //sourceUrl: "https://wallpapercave.com/wp/wp10524580.jpg"
-    mediaUrl: 'github.com/Kai0071/A17',
-    sourceUrl: "github.com/Kai0071/A17"
+    mediaUrl: 'github.com/naveeddogar/KING-MD',
+    sourceUrl: "github.com/naveeddogar/KING-MD"
     }}
 
     }
@@ -790,8 +790,8 @@ if (responses.hasOwnProperty(smallinput)) {
       if (isBan) return reply(mess.banned); 			
       if (isBanChat) return reply(mess.bangc);
 
-      A17.sendMessage(from, { react: { text: "💫" , key: m.key }})
-    reply(`⚙ *My developer's group:* ⚙ http://gg.gg/12ewfs`)
+      A17.sendMessage(from, { react: { text: "🕹️" , key: m.key }})
+    reply(`👨‍💻 *My Support group:* 👨‍💻 https://chat.whatsapp.com/JIJplkiYyrFE4dyFGade43`)
     }
     break;
     
@@ -800,17 +800,36 @@ case 'repo': case 'botrepo': {
   if (isBan) return reply(mess.banned); 			
   if (isBanChat) return reply(mess.bangc);
   
-  A17.sendMessage(from, { react: { text: "💫" , key: m.key }})
-    reply(`⚙ My Source Code is </> - https://github.com/Kai0071/A17`)
-    }
-    break;
+  A17.sendMessage(from, { react: { text: "🔖" , key: m.key }})
+    let { data } = await axios.get('https://api.github.com/repos/naveeddogar/KING-MD');
+    teks = `*KING-MD Script*\n\n*Total Stars*: ${data.stargazers_count}⭐\n*Total Forks*: ${data.forks_count} forks\n*GitHub*: https://github.com/naveeddogar/KING-MD\n\nDont forget to follow me on *GitHub* and give a ⭐️ to my projects. `
+  /*  let buttons = [
+    {buttonId: `${prefix}owner`, buttonText: {displayText: '🍁 DEVELOPER 🍁'}, type: 1}
+    ] */
+    let buttonMessage = {
+    image: Thumb,
+    jpegThumbnail: BotLogo ,
+    caption: teks,
+   /* footer: `${BotName}`,
+    buttons: buttons,
+    headerType: 4, */
+    contextInfo:{externalAdreply:{
+    title:"Powered by naveeddogar",
+    body: " ", 
+    thumbnail: fs.readFileSync("Assets/pic2.jpg"),
+    mediaType:1,
+    //mediaUrl: 'https://wallpapercave.com/wp/wp10524580.jpg',
+    //sourceUrl: "https://wallpapercave.com/wp/wp10524580.jpg"
+    mediaUrl: 'github.com/naveeddogar/KING-MD',
+    sourceUrl: "github.com/naveeddogar/KING-MD"
+    }}
 
 
     case 'owner': case 'creator': case 'mod': case 'mods': {
       if (isBan) return reply(mess.banned); 			
       if (isBanChat) return reply(mess.bangc);
       
-      A17.sendMessage(from, { react: { text: "💫" , key: m.key }})
+      A17.sendMessage(from, { react: { text: "👨‍💻" , key: m.key }})
       A17.sendContact(m.chat, global.Owner, m)
     }
       break;
@@ -986,7 +1005,7 @@ A17.sendMessage(from, { react: { text: '❤', key: m.key }});
     const systemName = os.platform() + ' ' + os.release();
   
     const respon = `
-  🤖 *A17's Server Info* 🤖
+  🤖 *KING-MD' Server Info* 🤖
   
   *System*: ${systemName}
   
