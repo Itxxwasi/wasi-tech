@@ -7,7 +7,12 @@
 </h1>
 <p align="center"> 
  ! A Whatsapp Bot Create By Naveed Dogar To Do Everything That Is Possible On WhatsApp MD)
-
+ 
+  </a>
+</p>
+<p align="center">
+<a href="https://github.com/naveeddogar"><img title="Author" src="https://img.shields.io/badge/KING-MD-black?style=for-the-badge&logo=whatsapp"></a>
+<p/>
   <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BFFDBSS&center=true&width=910&height=100&lines=THIS IS+KING-MD ;MULTI+DEVICE+BOT;CREATED+BY+NAVEED+DOGAR ;PUBLIC+RELESED; COMING+SOON...;" alt="Typing SVG" /></a>
   </p>
@@ -33,6 +38,33 @@
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ Whatsapp Support Group -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </p>
+
+#### SETUP
+
+1. Fork This Repo
+    <br>
+<a href='https://github.com/naveeddogar/KING-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=white&color=black'/></a>
+
+2. Scan the QR and upload ***Creds.json*** file to your KING-MD-SESSION Folder. You Have to Fork The bot to Use The Bot....( You will recieve the ***Creds.json*** on your bot number after scanning the Qr)
+    <br>
+<a href='https://replit.com/naveeddogar/KING-MD?v=1' target="_blank"><img alt='SCAN QR CODE' src='https://img.shields.io/badge/Scan_qr_Code-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+
+
+## Installation 
+
+1.⚙️  Edit Config File 
+
+
+- Edit Your Config Details In Your Own Repo Like -- [`config.js`](https://github.com/naveeddogar/KING-MD/blob/main/config.js)
+```js
+
+global.Owner = ["923096566451"]; 
+global.OwnerNumber = ["923096566451"];
+global.ownertag = ["923096566451"];
+global.OwnerName = "NaveedDogar";
+global.BotName = "KING-MD";
+
+```
 
 ---
 # 𝒞𝑜𝓂𝒾𝓃𝑔 𝒮𝑜𝑜𝓃...
