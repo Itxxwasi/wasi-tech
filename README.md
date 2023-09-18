@@ -39,11 +39,15 @@
   </a>
 </p>
 
+
+<a href='https://king-md-web.vercel.app/' target="_blank"><img alt='King-Md Web' src='https://img.shields.io/badge/King MD Web-100000?style=for-the-badge&logo=scan&logoColor=green&labelColor=white&color=red'/></a>
+
+
 #### SETUP
 
 1. Fork This Repo
     <br>
-<a href='https://github.com/naveeddogar/KING-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=white&color=black'/></a>
+<a href='https://github.com/naveeddogar/KING-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-100000?style=for-the-badge&logo=scan&logoColor=green&labelColor=white&color=black'/></a>
 
 2. Scan the QR and upload ***Creds.json*** file to your KING-MD-SESSION Folder. You Have to Fork The bot to Use The Bot....( You will recieve the ***Creds.json*** on your bot number after scanning the Qr)
     <br>
