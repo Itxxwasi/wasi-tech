@@ -17,12 +17,12 @@
     "keywords": [
         "md-bot"
     ],
-    "author": "Kai",
+    "author": "naveeddogar",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/Kao0071/A17/issues"
+        "url": "https://github.com/naveeddogar/KING-MD/issues"
     },
-    "homepage": "https://github.com/Kao0071/A17#readme",
+    "homepage": "https://github.com/naveeddogar/KING-MD#readme",
     "devDependencies": {
         "@adiwajshing/keyed-db": "^0.2.4",
         "@hapi/boom": "^10.0.1",
