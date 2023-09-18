@@ -47,7 +47,7 @@
 
 2. Scan the QR and upload ***Creds.json*** file to your KING-MD-SESSION Folder. You Have to Fork The bot to Use The Bot....( You will recieve the ***Creds.json*** on your bot number after scanning the Qr)
     <br>
-<a href='https://replit.com/naveeddogar/KING-MD?v=1' target="_blank"><img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://replit.com/naveeddogar/KING-MD?v=1' target="_blank"><img alt='SCAN QR CODE' src='https://img.shields.io/badge/Scan_qr_Code-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
 ## Installation 
@@ -55,7 +55,7 @@
 1.⚙️  Edit Config File 
 
 
-- Edit Your Config Details In Your Own Repo Like -- [`config.js`](https://github.com/naveeddogar/KING-MD/blob/master/config.js)
+- Edit Your Config Details In Your Own Repo Like -- [`config.js`](https://github.com/naveeddogar/KING-MD/blob/main/config.js)
 ```js
 
 global.Owner = ["923096566451"]; 
