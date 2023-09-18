@@ -1,3 +1,3 @@
 {
-	"name": "A17 Bot Multi Device "
+	"name": "KING-MD Bot Multi Device "
 }
