@@ -1,8 +1,8 @@
 {
-    "name": "A17-MD",
-    "description": "A whatsApp bot based on Baileysjs linrary (Ts+Js) with Multi Device support",
-    "repository": "https://github.com/Kai0071/A17",
-    "logo": "https://wallpapercave.com/wp/wp6471201.jpg",
+    "name": "KING-MD",
+    "description": "A whatsApp bot based on Baileys  with Multi Device support",
+    "repository": "https://github.com/naveeddogar/KING-MD",
+    "logo": "https://telegra.ph/file/9f8f9cc205e35e71f5ab8.jpg",
     "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
     "buildpacks": [
       {
