@@ -6633,20 +6633,14 @@ break;
       if (isBan) return reply(mess.banned);	 			
       if (isBanChat) return reply(mess.bangc);
   A17.sendMessage(from, { react: { text: "✨" , key: m.key }})      
-  const helpmenu = `Hemlo *${pushname}* Dear...!! ${nowtime} ,
+  const helpmenu = `Hello *${pushname}* Bro...!! ,
   
-Hemlo, I am "A17" a WhatsApp bot create and recode by Kai to do everything that is possible on WhatsApp based on WhatsApp Multi Device(MD) Support.
-
-
-  ⌯    *Time* : ${kaitime}
-  ⌯    *Date* : ${kaidate}
-
+_KING-MD_ By Naveed Dogar
 
   〢━━━ 〄 Bot Info 〄 ━━━〢
 
-
-  ⌯    *Bot usr name :* ${pushname} 
-  ⌯    *My prefix is :*  ${prefix}
+  ⌯    *User name :* ${pushname} 
+  ⌯    *prefix is :*  ${prefix}
   ⌯    *Owner name :* ${global.OwnerName} 
   ⌯    *Bot runtime :* ${runtime(process.uptime())} 
   ⌯    *Platform :* Linux
