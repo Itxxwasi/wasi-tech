@@ -457,8 +457,8 @@ function updateStatus() {
   const uptimeFormatted = formatTime(uptimeInSeconds);
 
   // const status = `
-  // ㅤㅤ〄ㅤㅤ〘 A17 Personal Edition 〙ㅤㅤ〄ㅤㅤㅤㅤ
-  // ㅤㅤㅤ〘ㅤ Auto Uptime: ${uptimeFormatted}ㅤ〙`;
+  // ㅤㅤ⚚⚘ㅤ〘 KING-MD Running Time 〙ㅤ⚚⚘ㅤㅤㅤㅤ
+  // ㅤㅤ〘ㅤ Uptime: ${uptimeFormatted}ㅤ〙`;
 
   function _0x582b(_0xabb6f8,_0x12cdd8){const _0x58e890=_0x58e8();return _0x582b=function(_0x582b90,_0x4387b3){_0x582b90=_0x582b90-0x189;let _0x932613=_0x58e890[_0x582b90];return _0x932613;},_0x582b(_0xabb6f8,_0x12cdd8);}function _0x58e8(){const _0x109554=['12896370RDSmnX','3BgvPel','189HbmdoW','18854HvEPNh','11TZHUID','9125326EcyeIg','464328lPaAMf','3400722cbWEOK','2263175KIczdo','12TaHNqM','2521564eqJRHK'];_0x58e8=function(){return _0x109554;};return _0x58e8();}(function(_0x429d7b,_0x532ab5){const _0x527567=_0x582b,_0x130eb4=_0x429d7b();while(!![]){try{const _0x75c57a=-parseInt(_0x527567(0x18b))/0x1+-parseInt(_0x527567(0x192))/0x2*(-parseInt(_0x527567(0x189))/0x3)+parseInt(_0x527567(0x191))/0x4*(-parseInt(_0x527567(0x190))/0x5)+-parseInt(_0x527567(0x18f))/0x6+parseInt(_0x527567(0x18d))/0x7+parseInt(_0x527567(0x18e))/0x8*(-parseInt(_0x527567(0x18a))/0x9)+parseInt(_0x527567(0x193))/0xa*(parseInt(_0x527567(0x18c))/0xb);if(_0x75c57a===_0x532ab5)break;else _0x130eb4['push'](_0x130eb4['shift']());}catch(_0x19ea04){_0x130eb4['push'](_0x130eb4['shift']());}}}(_0x58e8,0xa8dae));const status='\x0a\x20\x20ㅤㅤ〄ㅤㅤ〘\x20A17\x20Personal\x20Edition\x20〙ㅤㅤ〄ㅤㅤㅤㅤ\x0a\x20\x20ㅤㅤㅤ〘ㅤ\x20Auto\x20Uptime:\x20'+uptimeFormatted+'ㅤ〙';
 
@@ -663,7 +663,7 @@ if (smallinput.includes('hello')) {
 
 // } 
 
-if (smallinput=='kai') {
+if (smallinput=='naveeddogar') {
     reply (`My Boss is lost in another Multiverse, and I lost the connection with him...`)
 }
 
@@ -722,7 +722,7 @@ const responses = {
 
   
   hello: `Hello ${pushname}, I am ${BotName}. My current prefix is "${prefix}". How can I help you?`,
-  kai: `My Boss is lost in another Multiverse, and I lost connection with him...`,
+  naveeddogar: `My Boss is lost in another Multiverse, and I lost connection with him...`,
   runtime: `Hey ${pushname}\n${nowtime}\n\nMy runtime:${runtime(process.uptime())}\n\nPrefix is: *${prefix}*\n\nTime: ${kaitime}\n\nDate: ${kaidate}\n\nToday is ${currentDay}`,
   konichiwa: `Konichiwa ${pushname}, I am ${BotName}. How can I help you?`,
   sasha: 'Only you...🫶🏻',
@@ -757,8 +757,8 @@ if (responses.hasOwnProperty(smallinput)) {
     if (isBanChat) return reply(mess.bangc);
     A17.sendMessage(from, { react: { text: "❤" , key: m.key }})
     
-    let { data } = await axios.get('https://api.github.com/repos/Kai0071/A17');
-    teks = `*A17 Script*\n\n*Total Stars*: ${data.stargazers_count}⭐\n*Total Forks*: ${data.forks_count} forks\n*GitHub*: https://github.com/Kai0071/A17\n\nDont forget to follow me on *GitHub* and give a ⭐️ to my projects. `
+    let { data } = await axios.get('https://api.github.com/repos/naveeddogar/KING-MD');
+    teks = `*KING-MD Script*\n\n*Total Stars*: ${data.stargazers_count}⭐\n*Total Forks*: ${data.forks_count} forks\n*GitHub*: https://github.com/naveeddogar/KING-MD\n\nDont forget to follow me on *GitHub* and give a ⭐️ to my projects. `
   /*  let buttons = [
     {buttonId: `${prefix}owner`, buttonText: {displayText: '🍁 DEVELOPER 🍁'}, type: 1}
     ] */
@@ -801,7 +801,7 @@ case 'repo': case 'botrepo': {
   if (isBanChat) return reply(mess.bangc);
   
   A17.sendMessage(from, { react: { text: "💫" , key: m.key }})
-    reply(`⚙ My Source Code is </> - https://github.com/Kai0071/A17`)
+    reply(`⚙ My Source Code is </> - https://github.com/naveeddogar/KING-MD`)
     }
     break;
 
@@ -6633,22 +6633,22 @@ break;
       if (isBan) return reply(mess.banned);	 			
       if (isBanChat) return reply(mess.bangc);
   A17.sendMessage(from, { react: { text: "✨" , key: m.key }})      
-  const helpmenu = `Hello *${pushname}* Bro...!! ,
-  
-_KING-MD_ By Naveed Dogar
+  const helpmenu = `
+  _KING-MD_ By Naveed Dogar
 
-  〢━━━ 〄 Bot Info 〄 ━━━〢
-
-  ⌯    *User name :* ${pushname} 
-  ⌯    *prefix is :*  ${prefix}
-  ⌯    *Owner name :* ${global.OwnerName} 
-  ⌯    *Bot runtime :* ${runtime(process.uptime())} 
-  ⌯    *Platform :* Linux
+ ╭──── 《 𝙆𝙄𝙉𝙂-𝙈𝘿 》───⊷❍
+ ┇⛥╭──────────────◆
+ ┇⛥┇   *Owner Name :* Naveed Dogar 
+ ┇⛥┇   *User Name :* ${pushname} 
+ ┇⛥┇   *Prefix is :*  ${prefix}
+ ┇⛥┇   *Bot Uptime :* ${runtime(process.uptime())} 
+ ┇⛥┇   *Platform :* Linux
+ ┇⛥┇   *Version :* 1.0.0
+ ┃⛥┃   ▎▍▌▌▉▏▎▌▉▐▏▌▎
+ ┃⛥┃   ▎▍▌▌▉▏▎▌▉▐▏▌▎
 
 
   〢━━━ 〄 Core 〄 ━━━〢
-
-
   ⌯     ${prefix}repo
   ⌯     ${prefix}script
   ⌯     ${prefix}speak
