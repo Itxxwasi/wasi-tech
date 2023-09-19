@@ -69,7 +69,7 @@ async function startA17() {
   const A17 = A17Connect({
     logger: pino({ level: "silent" }),
     printQRInTerminal: true,
-    browser: ["KING-MD", "Safari", "3.O"],
+    browser: ["KING-MD", "Edge", "3.O"],
     auth: state,
   });
 
