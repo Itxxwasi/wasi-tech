@@ -1083,7 +1083,17 @@ A17.sendMessage(from, { react: { text: '❤', key: m.key }});
       break;
 
 
+case 'alive': {
+      if (isBan) return reply(mess.banned); 			
+      if (isBanChat) return reply(mess.bangc);
 
+      A17.sendMessage(from, { react: { text: "💙" , key: m.key }})
+    reply(` KING-MD: Hey ${pushname}\n${nowtime}\n\nMy Runtime:${runtime(process.uptime())}\n\nPrefix: *${prefix}*\n\nTime: ${kaitime}\n\nDate: ${kaidate}\n\nToday is ${currentDay}`)
+    }
+    break;
+
+
+		    
  //-------------------------------------------------------------------------------------------------------------------------//
 
 
