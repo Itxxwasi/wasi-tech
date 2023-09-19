@@ -6634,20 +6634,19 @@ break;
       if (isBanChat) return reply(mess.bangc);
   A17.sendMessage(from, { react: { text: "✨" , key: m.key }})      
   const helpmenu = `
-  _KING-MD_ By Naveed Dogar
-
- ╭──── 《 𝙆𝙄𝙉𝙂-𝙈𝘿 》───⊷❍
- ┇⛥╭──────────────◆
- ┇⛥┇   *Owner Name :* Naveed Dogar 
- ┇⛥┇   *User Name :* ${pushname} 
- ┇⛥┇   *Prefix is :*  ${prefix}
- ┇⛥┇   *Bot Uptime :* ${runtime(process.uptime())} 
- ┇⛥┇   *Platform :* Linux
- ┇⛥┇   *Version :* 1.0.0
- ┃⛥┃   ▎▍▌▌▉▏▎▌▉▐▏▌▎
- ┃⛥┃   ▎▍▌▌▉▏▎▌▉▐▏▌▎
-
-
+╭──── 《 𝙆𝙄𝙉𝙂-𝙈𝘿 》───⊷❍
+┇⛥╭──────────────◆
+┃⛥┃ *Owner Name :* Naveed Dogar
+┃⛥┃ *User Name :* ${pushname} 
+┃⛥┃ *Prefix is :*  ${prefix}
+┃⛥┃ *Bot Uptime :* ${runtime(process.uptime())} 
+┃⛥┃ *Plugins:* 390
+┃⛥┃ *Version :* 1.0.0
+┃⛥┃ ▎▍▌▌▉▏▎▌▉▐▏▌▎
+┃⛥┃ ▎▍▌▌▉▏▎▌▉▐▏▌▎
+┃⛥┃ *By:Naveed Dogar*
+┇⛥╰━━━━━━━━━━━───◆
+╰━━━━━━━━━━━──⊷
   〢━━━ 〄 Core 〄 ━━━〢
   ⌯     ${prefix}repo
   ⌯     ${prefix}script
