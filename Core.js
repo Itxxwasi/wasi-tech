@@ -6636,72 +6636,73 @@ break;
   const helpmenu = `
 ╭──── 《 𝙆𝙄𝙉𝙂-𝙈𝘿 》───⊷❍
 ┇⛥╭──────────────◆
-┃⛥┃ *Owner Name :* Naveed Dogar
-┃⛥┃ *User Name :* ${pushname} 
-┃⛥┃ *Prefix is :*  ${prefix}
-┃⛥┃ *Bot Uptime :* ${runtime(process.uptime())} 
-┃⛥┃ *Plugins:* 390
-┃⛥┃ *Version :* 1.0.0
+┃⛥┃ 𝙊𝙬𝙣𝙚𝙧: *Naveed Dogar*
+┃⛥┃ 𝙐𝙨𝙚𝙧: ${pushname} 
+┃⛥┃ 𝙋𝙧𝙚𝙛𝙞𝙭:  ${prefix}
+┃⛥┃ 𝙐𝙥𝙩𝙞𝙢𝙚: ${runtime(process.uptime())} 
+┃⛥┃ 𝙋𝙡𝙪𝙜𝙞𝙣𝙨: *390*
+┃⛥┃ 𝙑𝙚𝙧𝙨𝙞𝙤𝙣: *1.0.0*
 ┃⛥┃ ▎▍▌▌▉▏▎▌▉▐▏▌▎
 ┃⛥┃ ▎▍▌▌▉▏▎▌▉▐▏▌▎
-┃⛥┃ *By:Naveed Dogar*
+┃⛥┃
+┃⛥┃ 𝘽𝙮: 𝙉𝙖𝙫𝙚𝙚𝙙 𝘿𝙤𝙜𝙖𝙧
 ┇⛥╰━━━━━━━━━━━───◆
 ╰━━━━━━━━━━━──⊷
-  〢━━━ 〄 Core 〄 ━━━〢
-  ⌯     ${prefix}repo
-  ⌯     ${prefix}script
-  ⌯     ${prefix}speak
-  ⌯     ${prefix}support
-  ⌯     ${prefix}stalk
-  ⌯     ${prefix}setprefix
-  ⌯     ${prefix}auto-status
-  ⌯     ${prefix}auto-typing
-  ⌯     ${prefix}auto-recoding
+╭════♛⃟㉿ 𝙂𝙚𝙣𝙚𝙧𝙖𝙡 ♛⃟㉿════⊷❍
+┃⚝│  ${prefix}repo
+┃⚝│  ${prefix}script
+┃⚝│  ${prefix}speak
+┃⚝│  ${prefix}support
+┃⚝│  ${prefix}stalk
+┃⚝│  ${prefix}setprefix
+┃⚝│  ${prefix}auto-status
+┃⚝│  ${prefix}auto-typing
+┃⚝│  ${prefix}auto-recoding
+┃⚝╰─────────────────❍
+╰══════════════════⊷❍
 
-
-  〢━━━ ⌬ Owner Only ⌬ ━━━〢
-
-
-  ⌯     ${prefix}join
-  ⌯     ${prefix}self
-  ⌯     ${prefix}public
-  ⌯     ${prefix}restart
-  ⌯     ${prefix}sleep
-  ⌯     ${prefix}setbotpp
-  ⌯     ${prefix}post
-  ⌯     ${prefix}listonline
-  ⌯     ${prefix}listgc
-  ⌯     ${prefix}listpc
-  ⌯     ${prefix}getcase
-  ⌯     ${prefix}bangroup
-  ⌯     ${prefix}broadcast
-  ⌯     ${prefix}bye
-  ⌯     ${prefix}block
-  ⌯     ${prefix}unblock
-  ⌯     ${prefix}ban add
-  ⌯     ${prefix}ban del
-
+╭════♛⃟㉿ 𝙊𝙬𝙣𝙚𝙧 ♛⃟㉿════⊷❍
+┃⚝│  ${prefix}join
+┃⚝│  ${prefix}self
+┃⚝│  ${prefix}public
+┃⚝│  ${prefix}restart
+┃⚝│  ${prefix}sleep
+┃⚝│  ${prefix}setbotpp
+┃⚝│  ${prefix}post
+┃⚝│  ${prefix}listonline
+┃⚝│  ${prefix}listgc
+┃⚝│  ${prefix}listpc
+┃⚝│  ${prefix}getcase
+┃⚝│  ${prefix}bangroup
+┃⚝│  ${prefix}broadcast
+┃⚝│  ${prefix}bye
+┃⚝│  ${prefix}block
+┃⚝│  ${prefix}unblock
+┃⚝│  ${prefix}ban add
+┃⚝│  ${prefix}ban del
+┃⚝╰─────────────────❍
+╰══════════════════⊷❍
  
-  〢━━ ❅ Group Moderation ❅ ━━〢
-
-
-  ⌯     ${prefix}add
-  ⌯     ${prefix}invite
-  ⌯     ${prefix}remove
-  ⌯     ${prefix}promote
-  ⌯     ${prefix}demote
-  ⌯     ${prefix}grouplink
-  ⌯     ${prefix}group-event
-  ⌯     ${prefix}groupsetting
-  ⌯     ${prefix}setname
-  ⌯     ${prefix}setgcpp
-  ⌯     ${prefix}setdesc
-  ⌯     ${prefix}revoke
-  ⌯     ${prefix}tagall
-  ⌯     ${prefix}hidetag
-  ⌯     ${prefix}nsfw
-  ⌯     ${prefix}nsnfwmenu
-
+╭════♛⃟㉿ 𝙂𝙧𝙤𝙪𝙥 ♛⃟㉿════⊷❍
+┃⛥┃
+┃⛥┃  ${prefix}add
+┃⛥┃  ${prefix}invite
+┃⛥┃  ${prefix}remove
+┃⛥┃  ${prefix}promote
+┃⛥┃  ${prefix}demote
+┃⛥┃  ${prefix}grouplink
+┃⛥┃  ${prefix}group-event
+┃⛥┃  ${prefix}groupsetting
+┃⛥┃  ${prefix}setname
+┃⛥┃  ${prefix}setgcpp
+┃⛥┃  ${prefix}setdesc
+┃⛥┃  ${prefix}revoke
+┃⛥┃  ${prefix}tagall
+┃⛥┃  ${prefix}hidetag
+┃⛥┃  ${prefix}nsfw
+┃⛥┃  ${prefix}nsnfwmenu
+┃⚝╰─────────────────❍
+╰══════════════════⊷❍
 
   〢━━━❗ *Anti Link ❗* ━━━〢
 
