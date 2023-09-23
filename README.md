@@ -3,7 +3,7 @@
   <a href="https://chat.whatsapp.com/JIJplkiYyrFE4dyFGade43">
     <img alt=Support height="550" src="https://telegra.ph/file/9f8f9cc205e35e71f5ab8.jpg"> 
     </p>
-<h1 align="center"> KING-MULTIDEVICE (Beta)
+<h1 align="center"> KING-MULTIDEVICE (KING)
 </h1>
 <p align="center"> 
  ! A Whatsapp Bot Create By Naveed Dogar To Do Everything That Is Possible On WhatsApp MD)
@@ -13,8 +13,13 @@
 <p align="center">
 <a href="https://github.com/naveeddogar"><img title="Author" src="https://img.shields.io/badge/KING-MD-black?style=for-the-badge&logo=whatsapp"></a>
 <p/>
+
+
+---
+
+  
   <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BFFDBSS&center=true&width=910&height=100&lines=THIS IS+KING-MD ;MULTI+DEVICE+BOT;CREATED+BY+NAVEED+DOGAR ;PUBLIC+RELESED; COMING+SOON...;" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=120&pause=1000&color=1BFFDBSS&center=true&width=990&height=200&lines=KING-MD ;BY+NAVEED; COMING+SOON...;" alt="Typing SVG" /></a>
   </p>
   <br>
 
