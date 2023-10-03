@@ -6935,7 +6935,7 @@ break;
 ┃⚝│ 🍁 To use any of these
 ┃⚝│    commands type.
 ┃⚝│    
-┃⚝│  KING-MD/Extra
+┃⚝│  _KING-MD/Extra_
 ┃⚝│    
 ┃⚝│ 🍁 To get Support Group link
 ┃⚝│    type *${prefix}support*.
