@@ -6649,7 +6649,7 @@ break;
 ┇⛥╰━━━━━━━━━━━───◆
 ╰━━━━━━━━━━━──⊷
 ╭════♛⃟㉿ 𝙂𝙚𝙣𝙚𝙧𝙖𝙡 ♛⃟㉿════⊷❍
-┇⛥╭──────────────◆
+┃⚝╭──────────────◆
 ┃⚝│  ${prefix}repo
 ┃⚝│  ${prefix}script
 ┃⚝│  ${prefix}speak
@@ -6663,7 +6663,7 @@ break;
 ╰══════════════════⊷❍
 
 ╭════♛⃟㉿ 𝙊𝙬𝙣𝙚𝙧 ♛⃟㉿════⊷❍
-┇⛥╭──────────────◆
+┃⚝╭──────────────◆
 ┃⚝│  ${prefix}join
 ┃⚝│  ${prefix}self
 ┃⚝│  ${prefix}public
@@ -6686,239 +6686,242 @@ break;
 ╰══════════════════⊷❍
  
 ╭════♛⃟㉿ 𝙂𝙧𝙤𝙪𝙥 ♛⃟㉿════⊷❍
-┇⛥╭──────────────◆
-┃⛥┃  ${prefix}add
-┃⛥┃  ${prefix}invite
-┃⛥┃  ${prefix}remove
-┃⛥┃  ${prefix}promote
-┃⛥┃  ${prefix}demote
-┃⛥┃  ${prefix}grouplink
-┃⛥┃  ${prefix}group-event
-┃⛥┃  ${prefix}groupsetting
-┃⛥┃  ${prefix}setname
-┃⛥┃  ${prefix}setgcpp
-┃⛥┃  ${prefix}setdesc
-┃⛥┃  ${prefix}revoke
-┃⛥┃  ${prefix}tagall
-┃⛥┃  ${prefix}hidetag
-┃⛥┃  ${prefix}nsfw
-┃⛥┃  ${prefix}nsnfwmenu
+┃⚝╭──────────────◆
+┃⚝│  ${prefix}add
+┃⚝│  ${prefix}invite
+┃⚝│  ${prefix}remove
+┃⚝│  ${prefix}promote
+┃⚝│  ${prefix}demote
+┃⚝│  ${prefix}grouplink
+┃⚝│  ${prefix}group-event
+┃⚝│  ${prefix}groupsetting
+┃⚝│  ${prefix}setname
+┃⚝│  ${prefix}setgcpp
+┃⚝│  ${prefix}setdesc
+┃⚝│  ${prefix}revoke
+┃⚝│  ${prefix}tagall
+┃⚝│  ${prefix}hidetag
+┃⚝│  ${prefix}nsfw
+┃⚝│  ${prefix}nsnfwmenu
 ┃⚝╰─────────────────❍
 ╰══════════════════⊷❍
 
-╭════♛⃟㉿ antilink ♛⃟㉿════⊷❍
-┇⛥╭──────────────◆
-⌯     ${prefix}antilinkgc
-  ⌯     ${prefix}antilinktt
-  ⌯     ${prefix}antilinkytch
-  ⌯     ${prefix}antilinkytch
-  ⌯     ${prefix}antilinkig
-  ⌯     ${prefix}antilinkfb
-  ⌯     ${prefix}antilinktwit
-  ⌯     ${prefix}antiwame
-  ⌯     ${prefix}antilinkall
-  
-  〢━━━ 🔍 *Search* 🔎 ━━━〢
-  
+╭════♛⃟㉿ 𝘼𝙣𝙩𝙞𝙡𝙞𝙣𝙠 ♛⃟㉿════⊷❍
+┃⚝╭──────────────◆
+┃⚝│  ${prefix}antilinkgc
+┃⚝│  ${prefix}antilinktt
+┃⚝│  ${prefix}antilinkytch
+┃⚝│  ${prefix}antilinkytch
+┃⚝│  ${prefix}antilinkig
+┃⚝│  ${prefix}antilinkfb
+┃⚝│  ${prefix}antilinktwit
+┃⚝│  ${prefix}antiwame
+┃⚝│  ${prefix}antilinkall
+┃⚝╰─────────────────❍
+╰══════════════════⊷❍
+
+╭════♛⃟㉿ 𝙎𝙚𝙖𝙧𝙘𝙝 ♛⃟㉿════⊷❍
+┃⚝╭──────────────◆
+┃⚝│  ${prefix}play
+┃⚝│  ${prefix}song
+┃⚝│  ${prefix}video
+┃⚝│  ${prefix}ytmp3
+┃⚝│  ${prefix}ytmp4 
+┃⚝│  ${prefix}yts
+┃⚝│  ${prefix}lyrics
+┃⚝│  ${prefix}movie
+┃⚝│  ${prefix}google
+┃⚝│  ${prefix}gimage
+┃⚝│  ${prefix}pinterest
+┃⚝│  ${prefix}wallpaper
+┃⚝│  ${prefix}image
+┃⚝│  ${prefix}searchgc
+┃⚝│  ${prefix}wikimedia
+┃⚝╰─────────────────❍
+╰══════════════════⊷❍
+
+╭════♛⃟㉿ 𝙀𝙘𝙤𝙣𝙤𝙢𝙮 ♛⃟㉿════⊷❍
+┃⚝╭──────────────◆
+┃⚝│  ${prefix}daily 
+┃⚝│  ${prefix}wallet
+┃⚝│  ${prefix}bank
+┃⚝│  ${prefix}bankupgrade
+┃⚝│  ${prefix}deposit
+┃⚝│  ${prefix}withdraw 
+┃⚝│  ${prefix}rob / attack
+┃⚝│  ${prefix}transfer / give
+┃⚝│  ${prefix}wealth / ritual
+┃⚝╰─────────────────❍
+╰══════════════════⊷❍
+
+╭════♛⃟㉿ 𝙂𝙖𝙢𝙚𝙨 ♛⃟㉿════⊷❍
+┃⚝╭──────────────◆
+┃⚝│  ${prefix}ttt / tictactoe
+┃⚝│  ${prefix}truth
+┃⚝│  ${prefix}dare
+┃⚝│  ${prefix}spin / slot
+┃⚝│  ${prefix}gamble / lottery
+┃⚝╰─────────────────❍
+╰══════════════════⊷❍
+
+╭════♛⃟㉿ 𝘾𝙤𝙣𝙫𝙚𝙧𝙩 ♛⃟㉿════⊷❍
+┃⚝╭──────────────◆ 
+┃⚝│  ${prefix}sticker
+┃⚝│  ${prefix}toimg
+┃⚝│  ${prefix}tovideo
+┃⚝│  ${prefix}togif
+┃⚝│  ${prefix}tourl
+┃⚝│  ${prefix}tomp3
+┃⚝│  ${prefix}toaudio
+┃⚝│  ${prefix}steal
+┃⚝│  ${prefix}stickermeme
+┃⚝│  ${prefix}emojimix
+┃⚝╰─────────────────❍
+╰══════════════════⊷❍
+
+╭════♛⃟㉿ 𝙎𝙤𝙪𝙣𝙙 𝙀𝙙𝙞𝙩 ♛⃟㉿════⊷❍
+┃⚝╭──────────────◆
+┃⚝│  ${prefix}ringtone
+┃⚝│  ${prefix}bass
+┃⚝│  ${prefix}tempo
+┃⚝│  ${prefix}blown
+┃⚝│  ${prefix}robot
+┃⚝│  ${prefix}slow
+┃⚝│  ${prefix}squirrel
+┃⚝│  ${prefix}deep
+┃⚝│  ${prefix}earrape
+┃⚝│  ${prefix}fast
+┃⚝│  ${prefix}fat
+┃⚝│  ${prefix}nightcore
+┃⚝│  ${prefix}reverse
+┃⚝╰─────────────────❍
+╰══════════════════⊷❍
+
+╭════♛⃟㉿ 𝙍𝙚𝙖𝙘𝙩𝙞𝙤𝙣𝙨 ♛⃟㉿════⊷❍
+┃⚝╭──────────────◆ 
+┃⚝│  ${prefix}cuddle
+┃⚝│  ${prefix}hug
+┃⚝│  ${prefix}kiss
+┃⚝│  ${prefix}bonk
+┃⚝│  ${prefix}cry
+┃⚝│  ${prefix}bully
+┃⚝│  ${prefix}slap
+┃⚝│  ${prefix}kill
+┃⚝│  ${prefix}happy
+┃⚝│  ${prefix}lick
+┃⚝│  ${prefix}pat
+┃⚝│  ${prefix}smug
+┃⚝│  ${prefix}nom
+┃⚝│  ${prefix}glomp
+┃⚝│  ${prefix}bite
+┃⚝│  ${prefix}yeet
+┃⚝│  ${prefix}blush
+┃⚝│  ${prefix}smile
+┃⚝│  ${prefix}wave
+┃⚝│  ${prefix}highfive
+┃⚝│  ${prefix}handhold
+┃⚝│  ${prefix}poke
+┃⚝│  ${prefix}wink
+┃⚝│  ${prefix}dance
+┃⚝│  ${prefix}cringe
+┃⚝╰─────────────────❍
+╰══════════════════⊷❍
+
+╭════♛⃟㉿ 𝘿𝙤𝙬𝙣𝙡𝙤𝙖𝙙𝙚𝙧 ♛⃟㉿════⊷❍
+┃⚝╭──────────────◆
+┃⚝│  ${prefix}ytvideo
+┃⚝│  ${prefix}mediafire
+┃⚝│  ${prefix}instagram
+┃⚝│  ${prefix}igtv
+┃⚝│  ${prefix}facebook
+┃⚝│  ${prefix}fbmp3
+┃⚝│  ${prefix}twitter
+┃⚝│  ${prefix}twittermp3
+┃⚝│  ${prefix}tiktok
+┃⚝│  ${prefix}tiktokaudio
+┃⚝│  ${prefix}happymod
+┃⚝│  ${prefix}tiktoknowm
+┃⚝╰─────────────────❍
+╰══════════════════⊷❍
  
-  ⌯     ${prefix}play
-  ⌯     ${prefix}song
-  ⌯     ${prefix}video
-  ⌯     ${prefix}ytmp3
-  ⌯     ${prefix}ytmp4 
-  ⌯     ${prefix}yts
-  ⌯     ${prefix}lyrics
-  ⌯     ${prefix}movie
-  ⌯     ${prefix}google
-  ⌯     ${prefix}gimage
-  ⌯     ${prefix}pinterest
-  ⌯     ${prefix}wallpaper
-  ⌯     ${prefix}image
-  ⌯     ${prefix}searchgc
-  ⌯     ${prefix}wikimedia
+╭════♛⃟㉿ 𝙁𝙪𝙣 ♛⃟㉿════⊷❍
+┃⚝╭──────────────◆
+┃⚝│  ${prefix}reaction
+┃⚝│  ${prefix}cutecheck
+┃⚝│  ${prefix}couple
+┃⚝│  ${prefix}soulmate
+┃⚝│  ${prefix}handsomecheck
+┃⚝│  ${prefix}beautifulcheck
+┃⚝│  ${prefix}awesomecheck
+┃⚝│  ${prefix}greatcheck
+┃⚝│  ${prefix}gaycheck
+┃⚝│  ${prefix}uglycheck
+┃⚝│  ${prefix}charactercheck
+┃⚝│  ${prefix}lesbiancheck
+┃⚝│  ${prefix}hornychec
+┃⚝│  ${prefix}prettycheck
+┃⚝│  ${prefix}lovelycheck
+┃⚝╰─────────────────❍
+╰══════════════════⊷❍
 
+╭════♛⃟㉿ 𝙒𝙚𝙚𝙗 ♛⃟㉿════⊷❍
+┃⚝╭──────────────◆
+┃⚝│  ${prefix}anime
+┃⚝│  ${prefix}animestory
+┃⚝│  ${prefix}awoo
+┃⚝│  ${prefix}manga
+┃⚝│  ${prefix}animewall
+┃⚝│  ${prefix}animewallpaper2
+┃⚝│  ${prefix}crosplay
+┃⚝│  ${prefix}animenom
+┃⚝│  ${prefix}feed
+┃⚝│  ${prefix}foxgirl
+┃⚝│  ${prefix}waifu
+┃⚝│  ${prefix}waifu2
+┃⚝│  ${prefix}waifu3
+┃⚝│  ${prefix}loli
+┃⚝│  ${prefix}coffee
+┃⚝│  ${prefix}tickle
+┃⚝│  ${prefix}meow
+┃⚝│  ${prefix}neko
+┃⚝│  ${prefix}neko2
+┃⚝│  ${prefix}migumin
+┃⚝│  ${prefix}wallpaper
+┃⚝│  ${prefix}animequote
+┃⚝╰─────────────────❍
+╰══════════════════⊷❍
 
-  〢━━━ 📈 *Economy* 📈 ━━━〢
+╭════♛⃟㉿ 𝙄𝙣𝙛𝙤𝙧𝙢𝙖𝙩𝙞𝙫𝙚 ♛⃟㉿════⊷❍
+┃⚝╭──────────────◆
+┃⚝│  ${prefix}quote
+┃⚝│  ${prefix}weather
+┃⚝│  ${prefix}covid
+┃⚝│  ${prefix}earthquake
+┃⚝│  ${prefix}wiki
+┃⚝│  ${prefix}stalknumber
+┃⚝╰─────────────────❍
+╰══════════════════⊷❍
 
-
-  ⌯     ${prefix}daily 
-  ⌯     ${prefix}wallet
-  ⌯     ${prefix}bank
-  ⌯     ${prefix}bankupgrade
-  ⌯     ${prefix}deposit
-  ⌯     ${prefix}withdraw 
-  ⌯     ${prefix}rob / attack
-  ⌯     ${prefix}transfer / give
-  ⌯     ${prefix}wealth / ritual
-
-
-  〢━━━ 🎮 *Games* 🎮 ━━━〢
-
-
-  ⌯     ${prefix}ttt / tictactoe
-  ⌯     ${prefix}truth
-  ⌯     ${prefix}dare
-  ⌯     ${prefix}spin / slot
-  ⌯     ${prefix}gamble / lottery
+╭════♛⃟㉿ 𝙀𝙨𝙨𝙚𝙣𝙩𝙞𝙖𝙡𝙨 ♛⃟㉿════⊷❍
+┃⚝╭──────────────◆
+┃⚝│  ${prefix}qr
+┃⚝│  ${prefix}say
+┃⚝│  ${prefix}fliptext
+┃⚝│  ${prefix}toletter
+┃⚝│  ${prefix}translate, 
+┃⚝╰─────────────────❍
+╰══════════════════⊷❍  
  
-
-  〢━━━ 🛠️ *Convert* 🛠️ ━━━〢
- 
-
-  ⌯     ${prefix}sticker
-  ⌯     ${prefix}toimg
-  ⌯     ${prefix}tovideo
-  ⌯     ${prefix}togif
-  ⌯     ${prefix}tourl
-  ⌯     ${prefix}tomp3
-  ⌯     ${prefix}toaudio
-  ⌯     ${prefix}steal
-  ⌯     ${prefix}stickermeme
-  ⌯     ${prefix}emojimix
-
-
-  〢━━━ ◈ Sound Edit ◈ ━━━〢
-
-
-  ⌯     ${prefix}ringtone
-  ⌯     ${prefix}bass
-  ⌯     ${prefix}tempo
-  ⌯     ${prefix}blown
-  ⌯     ${prefix}robot
-  ⌯     ${prefix}slow
-  ⌯     ${prefix}squirrel
-  ⌯     ${prefix}deep
-  ⌯     ${prefix}earrape
-  ⌯     ${prefix}fast
-  ⌯     ${prefix}fat
-  ⌯     ${prefix}nightcore
-  ⌯     ${prefix}reverse
-
-
-  〢━━━ 📍 *Reactions* 📍 ━━━〢
- 
-
-  ⌯     ${prefix}cuddle
-  ⌯     ${prefix}hug
-  ⌯     ${prefix}kiss
-  ⌯     ${prefix}bonk
-  ⌯     ${prefix}cry
-  ⌯     ${prefix}bully
-  ⌯     ${prefix}slap
-  ⌯     ${prefix}kill
-  ⌯     ${prefix}happy
-  ⌯     ${prefix}lick
-  ⌯     ${prefix}pat
-  ⌯     ${prefix}smug
-  ⌯     ${prefix}nom
-  ⌯     ${prefix}glomp
-  ⌯     ${prefix}bite
-  ⌯     ${prefix}yeet
-  ⌯     ${prefix}blush
-  ⌯     ${prefix}smile
-  ⌯     ${prefix}wave
-  ⌯     ${prefix}highfive
-  ⌯     ${prefix}handhold
-  ⌯     ${prefix}poke
-  ⌯     ${prefix}wink
-  ⌯     ${prefix}dance
-  ⌯     ${prefix}cringe
-
-
-  〢━━ 🌌 *Downloader* 🌌 ━━〢
- 
-
-  ⌯     ${prefix}ytvideo
-  ⌯     ${prefix}mediafire
-  ⌯     ${prefix}instagram
-  ⌯     ${prefix}igtv
-  ⌯     ${prefix}facebook
-  ⌯     ${prefix}fbmp3
-  ⌯     ${prefix}twitter
-  ⌯     ${prefix}twittermp3
-  ⌯     ${prefix}tiktok
-  ⌯     ${prefix}tiktokaudio
-  ⌯     ${prefix}happymod
-  ⌯     ${prefix}tiktoknowm
-
- 
-  〢━━━ 🎐 *Fun* 🎐 ━━━〢
-  
-
-  ⌯     ${prefix}reaction
-  ⌯     ${prefix}cutecheck
-  ⌯     ${prefix}couple
-  ⌯     ${prefix}soulmate
-  ⌯     ${prefix}handsomecheck
-  ⌯     ${prefix}beautifulcheck
-  ⌯     ${prefix}awesomecheck
-  ⌯     ${prefix}greatcheck
-  ⌯     ${prefix}gaycheck
-  ⌯     ${prefix}uglycheck
-  ⌯     ${prefix}charactercheck
-  ⌯     ${prefix}lesbiancheck
-  ⌯     ${prefix}hornychec
-  ⌯     ${prefix}prettycheck
-  ⌯     ${prefix}lovelycheck
-
-
-  〢━━━ 🈴 *Weeb* 🈴 ━━━〢
-
-  
-  ⌯     ${prefix}anime
-  ⌯     ${prefix}animestory
-  ⌯     ${prefix}awoo
-  ⌯     ${prefix}manga
-  ⌯     ${prefix}animewall
-  ⌯     ${prefix}animewallpaper2
-  ⌯     ${prefix}crosplay
-  ⌯     ${prefix}animenom
-  ⌯     ${prefix}feed
-  ⌯     ${prefix}foxgirl
-  ⌯     ${prefix}waifu
-  ⌯     ${prefix}waifu2
-  ⌯     ${prefix}waifu3
-  ⌯     ${prefix}loli
-  ⌯     ${prefix}coffee
-  ⌯     ${prefix}tickle
-  ⌯     ${prefix}meow
-  ⌯     ${prefix}neko
-  ⌯     ${prefix}neko2
-  ⌯     ${prefix}migumin
-  ⌯     ${prefix}wallpaper
-  ⌯     ${prefix}animequote
- 
-
-  〢━━━ ♨️ *Informative* ♨️ ━━━〢
-  
-
-  ⌯     ${prefix}quote
-  ⌯     ${prefix}weather
-  ⌯     ${prefix}covid
-  ⌯     ${prefix}earthquake
-  ⌯     ${prefix}wiki
-  ⌯     ${prefix}stalknumber
-
-
-  〢━━━ 🪁 *Essentials* 🪁 ━━━〢
- 
-  
-  ⌯     ${prefix}qr
-  ⌯     ${prefix}say
-  ⌯     ${prefix}fliptext
-  ⌯     ${prefix}toletter
-  ⌯     ${prefix}translate, 
-  
- 
-  〢━━━ 🎗 *Others* 🎗 ━━━〢
-
-
-  ⌯     ${prefix}stickermeme
-  ⌯     ${prefix}quotes
-  ⌯     ${prefix}report
-  ⌯     ${prefix}afk
-  ⌯     ${prefix}darkjoke
-  
+╭════♛⃟㉿ 𝙊𝙩𝙝𝙚𝙧𝙨 ♛⃟㉿════⊷❍
+┃⚝╭──────────────◆
+┃⚝│  ${prefix}stickermeme
+┃⚝│  ${prefix}quotes
+┃⚝│  ${prefix}report
+┃⚝│  ${prefix}afk
+┃⚝│  ${prefix}alive
+┃⚝│  ${prefix}darkjoke
+┃⚝╰─────────────────❍
+╰══════════════════⊷❍
 
   〢━━━ ⚠️ *NSFW* ⚠️ ━━━〢
  
@@ -6930,7 +6933,7 @@ break;
   ⌯       all NSFW commands.
   ⌯    
   ⌯   『  *${global.BotName}*  』
-  ⌯       Developed By: *Kai*
+  ⌯       Developed By: *Naveed*
   ⌯    
   ⌯   🍁 To use any of these
   ⌯       commands type.
