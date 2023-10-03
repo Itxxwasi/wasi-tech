@@ -6637,10 +6637,11 @@ break;
 ╭──── 《 𝙆𝙄𝙉𝙂-𝙈𝘿 》───⊷❍
 ┇⛥╭──────────────◆
 ┃⛥┃ 𝙊𝙬𝙣𝙚𝙧: *Naveed Dogar*
-┃⛥┃ 𝙐𝙨𝙚𝙧: ${pushname} 
-┃⛥┃ 𝙋𝙧𝙚𝙛𝙞𝙭:  ${prefix}
-┃⛥┃ 𝙐𝙥𝙩𝙞𝙢𝙚: ${runtime(process.uptime())} 
-┃⛥┃ 𝙋𝙡𝙪𝙜𝙞𝙣𝙨: *390*
+┃⛥┃ 𝙐𝙨𝙚𝙧: *${pushname}* 
+┃⛥┃ 𝙋𝙧𝙚𝙛𝙞𝙭:  ${prefix}*
+┃⛥┃ 𝙐𝙥𝙩𝙞𝙢𝙚: *${runtime(process.uptime())}* 
+┃⛥┃ 𝘿𝙖𝙩𝙚:  *${kaidate}*  
+┃⛥┃ 𝙋𝙡𝙪𝙜𝙞𝙣𝙨: *400*
 ┃⛥┃ 𝙑𝙚𝙧𝙨𝙞𝙤𝙣: *1.0.0*
 ┃⛥┃ ▎▍▌▌▉▏▎▌▉▐▏▌▎
 ┃⛥┃ ▎▍▌▌▉▏▎▌▉▐▏▌▎
@@ -6923,30 +6924,26 @@ break;
 ┃⚝╰─────────────────❍
 ╰══════════════════⊷❍
 
-  〢━━━ ⚠️ *NSFW* ⚠️ ━━━〢
- 
- 
-  ⌯   🍁 Type *${prefix}nsfw* then enable 
-  ⌯       NSFW (Admin only!)
-  ⌯    
-  ⌯   🍁 Then type *${prefix}nsfwmenu* for
-  ⌯       all NSFW commands.
-  ⌯    
-  ⌯   『  *${global.BotName}*  』
-  ⌯       Developed By: *Naveed*
-  ⌯    
-  ⌯   🍁 To use any of these
-  ⌯       commands type.
-  ⌯    
-  ⌯   *${prefix}<Command name>*.
-  ⌯    
-  ⌯   🍁 To get Support Group link
-  ⌯     type *${prefix}support*.
-  ⌯    
-  ⌯    
-  ⌯   🍁 Type *${prefix}help* to get
-  ⌯       full command list.
-  ┬│▸
+╭════♛⃟㉿ 𝙆𝙞𝙣𝙜𝙈𝙣 ♛⃟㉿════⊷❍
+┃⚝╭──────────────◆
+┃⚝│ 🍁 Type *${prefix}nsfw* then enable 
+┃⚝│    NSFW (Admin only!)
+┃⚝│    
+┃⚝│ 🍁 Then type *${prefix}nsfwmenu* for
+┃⚝│    all NSFW commands.
+┃⚝│    
+┃⚝│ 🍁 To use any of these
+┃⚝│    commands type.
+┃⚝│    
+┃⚝│  KING-MD/Extra
+┃⚝│    
+┃⚝│ 🍁 To get Support Group link
+┃⚝│    type *${prefix}support*.
+┃⚝│    
+┃⚝│ 🍁 Type *${prefix}help* to get
+┃⚝│    full command list.
+┃⚝│ ♛⃟㉿ 𝙈𝙖𝙙𝙚 𝘽𝙮 : 𝙆𝙄𝙉𝙂-𝙈𝘿
+┃▸┬│▸
   ╰────────────···▸`
           let buttonMessage = {
                       video:fs.readFileSync('./system/A17_3.mp4'),gifPlayback:true,
