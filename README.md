@@ -19,7 +19,7 @@
 
   
   <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=120&pause=1000&color=1BFFDBSS&center=true&width=990&height=200&lines=KING-MD ;BY+NAVEED; COMING+SOON...;" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=120&pause=1000&color=1BFFDBSS&center=true&width=990&height=200&lines=KING-MD; COMING+SOON...;" alt="Typing SVG" /></a>
   </p>
   <br>
 
