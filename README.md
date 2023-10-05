@@ -72,6 +72,15 @@ global.BotName = "KING-MD";
 
 ```
 ---
+#### DEPLOY TO REPLIT
+
+<br>
+<a href='https://replit.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
+
+<br>
+<a href='https://replit.com/github/naveeddogar/KING-MD' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Deploy-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
+
+---
 
 #### DEPLOY TO HEROKU 
 
@@ -164,10 +173,7 @@ global.BotName = "KING-MD";
   
    
   </br> 
-
-<h2 align="center">  Reminder
-</h2>
----
+  
 # ... 𝒞𝑜𝓂𝒾𝓃𝑔 𝒮𝑜𝑜𝓃...
 
 
@@ -176,3 +182,5 @@ global.BotName = "KING-MD";
 ✧ Thanks To `🍧 Adithyan`
 
 ✧ Thanks To `🍧 Jasil/Afx-Abu`
+
+✧ Thanks To `🍧 Prabath-Lk`
