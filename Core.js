@@ -790,8 +790,8 @@ if (responses.hasOwnProperty(smallinput)) {
       if (isBan) return reply(mess.banned); 			
       if (isBanChat) return reply(mess.bangc);
 
-      A17.sendMessage(from, { react: { text: "💫" , key: m.key }})
-    reply(`⚙ *My developer's group:* ⚙ http://gg.gg/12ewfs`)
+      A17.sendMessage(from, { react: { text: "💁‍♂️" , key: m.key }})
+    reply(`🐉 *My Developer's Group:* 🧬 http://gg.gg/12ewfs`)
     }
     break;
     
@@ -801,7 +801,7 @@ case 'repo': case 'botrepo': {
   if (isBanChat) return reply(mess.bangc);
   
   A17.sendMessage(from, { react: { text: "💫" , key: m.key }})
-    reply(`⚙ My Source Code is </> - https://github.com/naveeddogar/KING-MD`)
+    reply(`🐉 My GitHub Repo Is </> - https://github.com/naveeddogar/KING-MD`)
     }
     break;
 
@@ -986,7 +986,7 @@ A17.sendMessage(from, { react: { text: '❤', key: m.key }});
     const systemName = os.platform() + ' ' + os.release();
   
     const respon = `
-  🤖 *A17's Server Info* 🤖
+  🤖 *KING-MD' Server Info* 🤖
   
   *System*: ${systemName}
   
