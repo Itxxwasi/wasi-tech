@@ -6960,20 +6960,20 @@ break;
 ┃ ♛⃟㉿ 𝙆𝙞𝙣𝙜𝙈𝙣 ♛⃟㉿ 
 ┠──═════════─⊷❍
 ┃⚝╭──────────────◆
-┃⚝│ 🍁 Type *${prefix}nsfw* then enable 
-┃⚝│    NSFW (Admin only!)
-┃⚝│ 🍁 Then type *${prefix}nsfwmenu* for
-┃⚝│    all NSFW commands.    
-┃⚝│ 🍁 To use any of these
-┃⚝│    commands type.
+┃⚝│  🌿Type *${prefix}nsfw* then enable 
+┃⚝│   NSFW (Admin only!)
+┃⚝│  🌿Then type *${prefix}nsfwmenu* for
+┃⚝│   all NSFW commands.    
+┃⚝│  🌿To use any of these
+┃⚝│   commands type.
 ┃⚝│    
 ┃⚝│  _KING-MD/Extra_
 ┃⚝│    
-┃⚝│ 🍁 To get Support Group link
-┃⚝│    type *${prefix}support*.
+┃⚝│  🌿To get Support Group link
+┃⚝│   type *${prefix}support*.
 ┃⚝│    
-┃⚝│ 🍁 Type *${prefix}help* to get
-┃⚝│    full command list.
+┃⚝│  🌿Type *${prefix}help* to get
+┃⚝│   full command list.
 ┃⚝│ ♛⃟㉿ 𝙈𝙖𝙙𝙚 𝘽𝙮 : 𝙆𝙄𝙉𝙂-𝙈𝘿
 ┃▸┬│▸
   ╰────────────···▸`
