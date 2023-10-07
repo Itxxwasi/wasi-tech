@@ -49,23 +49,22 @@
 <p/>
 
 
+# ... 𝒞𝑜𝓂𝒾𝓃𝑔 𝒮𝑜𝑜𝓃...
 
 # DEPLOY SETUP
 
 
-1. Fork This Repo
-    <br>
+### 1. Fork This Repo
 <a href='https://github.com/naveeddogar/KING-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-100000?style=for-the-badge&logo=scan&logoColor=green&labelColor=white&color=black'/></a>
 
-2. Scan The QR And Upload ***Creds.json*** File To Your KING-MD-SESSION Folder 📁
-    <br>
+### 2. Scan The QR And Upload ***Creds.json*** File To Your KING-MD-SESSION Folder 📁
 <a href='https://replit.com/naveeddogar/KING-MD?v=1' target="_blank"><img alt='SCAN QR CODE' src='https://img.shields.io/badge/Scan qr Code-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
 
 ### 3. ⚙️  Edit Config File 
 
 
-- Edit Your Config Details In Your Own Repo Like -- [`config.js`](https://github.com/naveeddogar/KING-MD/blob/main/config.js)
+- Edit Your Config Details In Your Fork Repo Like -- [`config.js`]
 ```js
 
 global.Owner = ["923096566451"]; 
@@ -163,7 +162,7 @@ global.BotName = "KING-MD";
 ---
 
 
-<h2 align="center"> Star the repo if u like it🌟
+<h2 align="center"> Star This repo If U like KING-MD🌟
 </h2>
 
 
@@ -181,7 +180,7 @@ global.BotName = "KING-MD";
    
   </br> 
   
-# ... 𝒞𝑜𝓂𝒾𝓃𝑔 𝒮𝑜𝑜𝓃...
+
 
 
 ✧ Thanks To  `🍧 Kai!!!`
@@ -189,5 +188,3 @@ global.BotName = "KING-MD";
 ✧ Thanks To `🍧 Adithyan`
 
 ✧ Thanks To `🍧 Jasil/Afx-Abu`
-
-✧ Thanks To `🍧 Prabath-Lk`
