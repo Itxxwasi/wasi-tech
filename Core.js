@@ -565,7 +565,7 @@ updateStatus();
     
 //     Type *-menu* or press any button below to start using *${global.BotName}*
     
-//     ©️ *${global.BotName}* All Rights Reserved by: *Kai*
+//     ©️ *${global.BotName}* All Rights Reserved by: *naveed*
 //     `
 //         const qtod = m.quoted? "true":"false"
         
