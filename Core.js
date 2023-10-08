@@ -6963,14 +6963,12 @@ break;
 ┃⚝│  🌿Type *${prefix}nsfw* then enable 
 ┃⚝│   NSFW (Admin only!)
 ┃⚝│  🌿Then type *${prefix}nsfwmenu* for
-┃⚝│   all NSFW commands.    
-┃⚝│  🌿To use any of these
-┃⚝│   commands type.
+┃⚝│   all NSFW commands
 ┃⚝│    
-┃⚝│  _KING-MD/Extra_
+┃⚝│  𝑲𝑰𝑵𝑮-𝑴𝑫/𝑬𝒙𝒕𝒓𝒂
 ┃⚝│    
-┃⚝│  🌿To get Support Group link
-┃⚝│   type *${prefix}support*.
+┃⚝│  🌿To get help Group link
+┃⚝│   type *${prefix}support*
 ┃⚝│    
 ┃⚝│  🌿Type *${prefix}help* to get
 ┃⚝│   full command list.
