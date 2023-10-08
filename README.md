@@ -3,11 +3,11 @@
   <a href="https://chat.whatsapp.com/JIJplkiYyrFE4dyFGade43">
     <img alt=Support height="350" src="https://telegra.ph/file/9f8f9cc205e35e71f5ab8.jpg"> 
     </p>
-<h1 align="center"> KING-MULTI-DEVICE (KING)
+<h1 align="center">    KING-MULTI-DEVICE (KING)
 </h1>
 <p align="center"> 
   
- A Whatsapp Bot Create By Naveed Dogar To Do Everything That Is Possible On WhatsApp
+<p align="center"> A Whatsapp Bot Create By Naveed Dogar To Do Everything That Is Possible On WhatsApp
  
   </a>
 </p>
@@ -55,7 +55,7 @@
 
 
 ### 1. Fork This Repo
-<a href='https://github.com/naveeddogar/KING-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-100000?style=for-the-badge&logo=scan&logoColor=green&labelColor=white&color=black'/></a>
+<a href='https://github.com/naveeddogar/KING-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-100000?style=for-the-badge&logo=fork&logoColor=green&labelColor=white&color=black'/></a>
 
 ### 2. Scan The QR And Upload ***Creds.json*** File To Your KING-MD-SESSION Folder 📁
 <a href='https://replit.com/naveeddogar/KING-MD?v=1' target="_blank"><img alt='SCAN QR CODE' src='https://img.shields.io/badge/Scan qr Code-100000?style=for-the-badge&logo=open&logoColor=white&labelColor=black&color=black'/></a>
