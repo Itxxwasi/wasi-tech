@@ -55,7 +55,7 @@
 
 
 ### 1. Fork This Repo
-<a href='https://github.com/naveeddogar/KING-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-100000?style=for-the-badge&logo=fork&logoColor=green&labelColor=white&color=black'/></a>
+<a href='https://github.com/naveeddogar/KING-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-100000?style=for-the-badge&logo=git&logoColor=green&labelColor=white&color=black'/></a>
 
 ### 2. Scan The QR And Upload ***Creds.json*** File To Your KING-MD-SESSION Folder 📁
 <a href='https://replit.com/naveeddogar/KING-MD?v=1' target="_blank"><img alt='SCAN QR CODE' src='https://img.shields.io/badge/Scan qr Code-100000?style=for-the-badge&logo=open&logoColor=white&labelColor=black&color=black'/></a>
@@ -71,7 +71,6 @@ global.Owner = ["923096566451"];
 global.OwnerNumber = ["923096566451"];
 global.ownertag = ["923096566451"];
 global.OwnerName = "NaveedDogar";
-global.BotName = "KING-MD";
 
 ```
 ---
