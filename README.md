@@ -73,6 +73,8 @@ global.ownertag = ["923096566451"];
 global.OwnerName = "NaveedDogar";
 
 ```
+ [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+ 
 ---
 
 
@@ -84,7 +86,7 @@ global.OwnerName = "NaveedDogar";
 
 2. Now Deploy
     <br>
-<a href='htt' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
+<a href='https://heroku.com/deploy' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
 #### DEPLOY TO CODESPACE
 
