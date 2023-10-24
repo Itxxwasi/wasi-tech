@@ -986,7 +986,7 @@ A17.sendMessage(from, { react: { text: '❤', key: m.key }});
     const systemName = os.platform() + ' ' + os.release();
   
     const respon = `
-  🤖 *KING-MD' Server Info* 🤖
+  🌿🍁 *KING-MD' Server Info* 🍁🌿
   
   *System*: ${systemName}
   
