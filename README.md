@@ -160,7 +160,7 @@ global.OwnerName = "NaveedDogar";
 ---
 
 
-<h2 align="center"> Star This repo If U like KING-MD🌟
+<h2 align="center"> Star This Repo If U like KING-MD🌟
 </h2>
 
 
