@@ -41,11 +41,6 @@
 </p>
 
 
-</p>
-<p align="left">
-<a href="https://king-md-web111.vercel.app/"><img title="Website" src="https://img.shields.io/badge/KING_MD-OFFICIAL_WEB-red?style=for-the-badge&logo=replit"></a>
-<p/>
-
 
 # ... 𝒞𝑜𝓂𝒾𝓃𝑔 𝒮𝑜𝑜𝓃...
 
