@@ -1,7 +1,7 @@
 </p>
 <p align="center">
   <a href="https://chat.whatsapp.com/JIJplkiYyrFE4dyFGade43">
-    <img alt=Support height="350" src="https://telegra.ph/file/deee4ae12326975a890da.jpg"> 
+    <img alt=Support height="350" src="https://telegra.ph/file/550e7d3e777334e6a20c8.jpg"> 
     </p>
 <h1 align="center">    KING-MULTI-DEVICE (KING)
 </h1>
