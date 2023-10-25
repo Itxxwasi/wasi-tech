@@ -791,7 +791,7 @@ if (responses.hasOwnProperty(smallinput)) {
       if (isBanChat) return reply(mess.bangc);
 
       A17.sendMessage(from, { react: { text: "💁‍♂️" , key: m.key }})
-    reply(`🐉 *My Developer's Group:* 🧬 http://ggg/12ewfs`)
+    reply(`🐉 *My Developer's Group:* 🧬 https://chat.whatsapp.com/JIJplkiYyrFE4dyFGade43`)
     }
     break;
     
