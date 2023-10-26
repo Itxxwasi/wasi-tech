@@ -5025,7 +5025,7 @@ const YT=require('./lib/ytdl-core')
   let search = await yts(text)
   let anu = search.videos[0]
   const ytmp4play = await YT.mp4(anu.url)
-A17.sendMessage(from, {video:{url:ytmp4play.videoUrl}, mimetype:"video/mp4", caption:anu.title+' By *A17 MD*',}, {quoted:m})
+A17.sendMessage(from, {video:{url:ytmp4play.videoUrl}, mimetype:"video/mp4", caption:anu.title+' By *KING MD*',}, {quoted:m})
 }
 
 break;
@@ -5077,7 +5077,7 @@ case 'ytmp3': {
   const YT=require('./lib/ytdl-core')
   const ytmp3play2 = await YT.mp3(text)
   
-await A17.sendMessage(from, {document: fs.readFileSync(ytmp3play2.path),fileName:'A17_YTmp3_Downloader.mp3',mimetype: 'audio/mpeg',}, {quoted:m})
+await A17.sendMessage(from, {document: fs.readFileSync(ytmp3play2.path),fileName:'KING_YTmp3_Downloader.mp3',mimetype: 'audio/mpeg',}, {quoted:m})
 }
 break;
 
@@ -5088,7 +5088,7 @@ if (isBanChat) return reply(mess.bangc);
 A17.sendMessage(from, { react: { text: "🍁" , key: m.key }})
 const YT=require('./lib/ytdl-core')
   const ytmp4play2 = await YT.mp4(text)
-A17.sendMessage(from, {video:{url:ytmp4play2.videoUrl}, mimetype:"video/mp4", caption:'Downloaded by *A17 MD*',}, {quoted:m})
+A17.sendMessage(from, {video:{url:ytmp4play2.videoUrl}, mimetype:"video/mp4", caption:'Downloaded by *KING MD*',}, {quoted:m})
 }
 break;
 
@@ -5290,7 +5290,7 @@ case 'swm': case 'take': case 'stickerwm': case 'steal':{
   if (isBanChat) return reply(mess.bangc);
 A17.sendMessage(from, { react: { text: "🫡" , key: m.key }})
 
-if (!args.join(" ")) return reply(`Like use -take A17|By: Kai`)
+if (!args.join(" ")) return reply(`Like use -take KING|By: MD`)
 const swn = args.join(" ")
 const pcknm = swn.split("|")[0];
 const atnm = swn.split("|")[1];
