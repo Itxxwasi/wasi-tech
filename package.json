@@ -1,14 +1,14 @@
 {
-  "name": "X-BOT-MD",
+  "name": "KING-MD",
   "version": "1.0.0",
-  "description": "Oru variety sanam created by TEAM EX-BOT-Z 🗿🪐",
+  "description": "A Multi Device WhatsApp Bot Create By Naveed Dogar 🍁",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "pm2 start . --attach --name X-BOT-MD"
+    "start": "pm2 start . --attach --name KING-MD"
   },
   "keywords": [],
-  "author": "TEAM EX-BOT-Z",
+  "author": "naveeddogar",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
