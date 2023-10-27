@@ -3,7 +3,7 @@
   <a href="https://chat.whatsapp.com/JIJplkiYyrFE4dyFGade43">
     <img alt=Support height="350" src="https://telegra.ph/file/550e7d3e777334e6a20c8.jpg"> 
     </p>
-<h1 align="center">    KING-MULTI-DEVICE (KING)
+<h1 align="center">    KING-MULTI-DEVICE
 </h1>
 <p align="center"> 
   
@@ -48,21 +48,10 @@
 ### 1. Fork This Repo
 <a href='https://github.com/naveeddogar/KING-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 
-### 2. Scan The QR And Upload ***Creds.json*** File To Your KING-MD-SESSION Folder 📁
+### 2. Scan The QR Any Copy Session Id 
 <a href='https://king-md-qr.app/' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Scan Qr code-black?style=for-the-badge&logo=opencv&logoColor=white'/></a>
 
-### 3. ⚙️  Edit Config File 
 
-
-- Edit Your Config Details In Your Fork Repo Like -- [`config.js`]
-```js
-
-global.Owner = ["923096566451"]; 
-global.OwnerNumber = ["923096566451"];
-global.ownertag = ["923096566451"];
-global.OwnerName = "NaveedDogar";
-
-```
 ---
 
 
@@ -77,15 +66,15 @@ global.OwnerName = "NaveedDogar";
     <br>
 <a href='https://heroku.com/deploy' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
-#### DEPLOY TO CODESPACE
+#### DEPLOY TO REPLIT
 
-1. If You don't have a account in Codespace. Create a account.
+1. If You don't have a account in Replit. Create a account.
     <br>
-<a href='https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fcodespaces' target="_blank"><img alt='Codespaces' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=visualstudiocode' width="96.35" height="28"/></a></p>
+<a href='https://replit.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
 2. Now Deploy
     <br>
-<a href='https://github.com/codespaces/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=visualstudiocode' width="96.35" height="28"/></a></p>
+<a href='https://replit.com/github/naveeddogar/KING-MD' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Deploy-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
 #### DEPLOY TO OKTETO
 
@@ -139,16 +128,15 @@ global.OwnerName = "NaveedDogar";
 
 ---
 
-#### DEPLOY TO REPLIT
+#### DEPLOY TO CODESPACE
 
-1. If You don't have a account in Replit. Create a account.
+1. If You don't have a account in Codespace. Create a account.
     <br>
-<a href='https://replit.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
+<a href='https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fcodespaces' target="_blank"><img alt='Codespaces' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=visualstudiocode' width="96.35" height="28"/></a></p>
 
 2. Now Deploy
     <br>
-<a href='https://replit.com/github/naveeddogar/KING-MD' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Deploy-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
-
+<a href='https://github.com/codespaces/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=visualstudiocode' width="96.35" height="28"/></a></p>
 ---
 
 
@@ -156,25 +144,11 @@ global.OwnerName = "NaveedDogar";
 </h2>
 
 
- 
- ## 🧬 Author 👨🏻‍🎤
-  <div align="center">
-  
-| [![NaveedDogar](https://github.com/naveeddogar.png?size=150)](https://github.com/naveeddogar) |
-|----|
-| [ N a v e e d   - D o G a R ](https://github.com/naveeddogar) |
-|  Developer, Maker, updater|
 
-  </div>
-  
-   
-  </br> 
   
 
 
 
-✧ Thanks To  `🍧 Kai!!!`
+✧ Thanks To  `🍧 Sparky`
 
 ✧ Thanks To `🍧 Adithyan`
-
-✧ Thanks To `🍧 Jasil/Afx-Abu`
