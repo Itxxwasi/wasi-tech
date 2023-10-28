@@ -1,6 +1,6 @@
 {
-  "name": "inrl",
-  "description": "inrl-wa-bot-md",
+  "name": "king-md",
+  "description": "a multi device whatsapp bot create by naveed dogar",
   "keywords": [],
   "stack": "container",
   "env": {
@@ -27,7 +27,7 @@
     "BOT_INFO": {
       "description": "baasic bot configration",
       "required": true,
-      "value": "INRL-BOT-MD;INRL;https://i.imgur.com/DyLAuEh.jpg"
+      "value": "KING-MD;Naveed;https://i.imgur.com/DyLAuEh.jpg"
     },
     "PREFIX": {
       "description": "bot preifx  ., [.,!], false",
@@ -42,7 +42,7 @@
     "STICKER_DATA": {
       "description": "sticker data",
       "required": true,
-      "value": "inrl;inrl"
+      "value": "king;bot"
     },
     "AUTO_STATUS_VIEW": {
       "description": "automatic read status",
