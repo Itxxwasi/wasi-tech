@@ -76,6 +76,16 @@
     <br>
 <a href='https://replit.com/github/naveeddogar/KING-MD' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Deploy-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
+#### DEPLOY TO KOYEB 
+
+1. If You don't have a account in Koyeb. Create a account.
+    <br>
+<a href='https://signup.koyeb.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
+
+2. Now Deploy
+    <br>
+<a href='https://koyeb.com/deploy' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
+
 #### DEPLOY TO OKTETO
 
 1. If You don't have a account in Okteto. Create a account.
@@ -149,6 +159,6 @@
 
 
 
-✧ Thanks To  `🍧 Sparky`
+✧ Special Thanks And Credit To  `🍧 ASWIN SPARKY
 
-✧ Thanks To `🍧 Adithyan`
+✧ Thanks To `🍧 ADITHYAN`
