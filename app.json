@@ -49,7 +49,6 @@
       "required": false,
       "value": "false"
     },
-    
     "WARN": {
       "description": "warn count",
       "required": false,
