@@ -1,11 +1,11 @@
 {
   "name": "king-md",
-  "description": "a multi device whatsapp bot create by naveed dogar",
+  "description": "A Multi Device Whatsapp Bot Create By Naveed Dogar",
   "keywords": [],
   "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "to run the bot",
+      "description": "put your session I'd",
       "required": true,
       "value": ""
     },
@@ -34,10 +34,10 @@
       "required": true,
       "value": "."
     },
-    "AUDIO_DATA": {
-      "description": "audio metadata",
+    "ALIVE": {
+      "description": "type alive message",
       "required": true,
-      "value": "ᴍᴜꜱɪᴄ;ᴋɪᴅ;https://i.imgur.com/DyLAuEh.jpg"
+      "value": "Hy I Am Online Now"
     },
     "STICKER_DATA": {
       "description": "sticker data",
@@ -49,12 +49,18 @@
       "required": false,
       "value": "false"
     },
-    "REJECT_CALL": {
-      "description": "automatic reject call",
-      "required": false,
-      "value": "false"
-    },
+    
     "WARN": {
+      "description": "warn count",
+      "required": false,
+      "value": "4"
+    },
+    "SUDO": {
+      "description": "secounds owners of bot",
+      "required": true,
+      "value": "null"
+    }
+    "OWNER_NUMBER": {
       "description": "warn count",
       "required": false,
       "value": "4"
