@@ -227,7 +227,7 @@ case prefix + ["menu"]: {
 client.sendMessage(from, { text: `*List menu YanzBotz-MD*
 
 々 *INFO USER*
-• Nama Owner : KING MD
+• Nama Owner : KING-MD
 • Nomer Owner : 7012984396
 
 々 *OWNER MENU*
