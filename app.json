@@ -1,6 +1,6 @@
 {
-  "name": "inrl",
-  "description": "inrl-wa-bot-md",
+  "name": "king-md",
+  "description": "a Multi device Whatsapp bot",
   "keywords": [],
   "stack": "container",
   "env": {
@@ -24,35 +24,35 @@
       "required": true,
       "value": "private"
     },
-    "BOT_INFO": {
+    "BOT_NAME": {
       "description": "baasic bot configration",
       "required": true,
-      "value": "INRL-BOT-MD;INRL;https://i.imgur.com/DyLAuEh.jpg"
+      "value": "KING-MD"
     },
     "PREFIX": {
       "description": "bot preifx  ., [.,!], false",
       "required": true,
       "value": "."
     },
-    "AUDIO_DATA": {
+    "OWNER_NUMBER": {
       "description": "audio metadata",
       "required": true,
-      "value": "ᴍᴜꜱɪᴄ;ᴋɪᴅ;https://i.imgur.com/DyLAuEh.jpg"
+      "value": "92xxxxxxxx"
     },
     "STICKER_DATA": {
       "description": "sticker data",
       "required": true,
-      "value": "inrl;inrl"
+      "value": "king;bot"
     },
     "AUTO_STATUS_VIEW": {
       "description": "automatic read status",
       "required": false,
       "value": "false"
     },
-    "REJECT_CALL": {
+    "OWNER_NAME": {
       "description": "automatic reject call",
       "required": false,
-      "value": "false"
+      "value": "Naveed"
     },
     "WARN": {
       "description": "warn count",
