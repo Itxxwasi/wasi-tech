@@ -404,8 +404,8 @@ client.sendMessage(from, { react: { text: "🎥" , key: msg.key }})
    //=======================================================//
                          /* { cases } */   
    //=======================================================//
-     function _0x37a1(){const _0x106839=['143LtHEdR','4118oVgyNX','8AMhdTL','\x20stars*_\x0a\x0a_*🍭\x20ꜰᴏʀᴋꜱ:*_\x20_*','387DACbjj','https://api.github.com/repos/A-S-W-I-N-S-P-A-R-K-Y/X-BOT-MD','20728ALFoRe','3930KDPRYY','529715bVSQwK','_*ʜᴇy\x20ʙʀᴏ\x20','github','3143oydNcF','get','repo','348785uTnwqy','script','2294470bsWosV','756456nRsTmD','forks_count','stargazers_count','198FVhDZl','*_\x0a\x0a_*⭐\x20ᴛᴏᴛᴀʟ\x20ꜱᴛᴀʀꜱ\x20:*_\x20_*','\x20forks*_\x0a\x0a\x20_*🌹\x20ʀᴇᴩᴏ\x20:*_\x20_*github.com/A-S-W-I-N-S-P-A-R-K-Y/X-BOT-MD*_'];_0x37a1=function(){return _0x106839;};return _0x37a1();}const _0x58cced=_0x2e2f;(function(_0x2e0752,_0x2a061b){const _0x4ef1e3=_0x2e2f,_0x1c6295=_0x2e0752();while(!![]){try{const _0x515869=-parseInt(_0x4ef1e3(0xae))/0x1+parseInt(_0x4ef1e3(0xb8))/0x2*(parseInt(_0x4ef1e3(0xb4))/0x3)+-parseInt(_0x4ef1e3(0xb9))/0x4*(-parseInt(_0x4ef1e3(0xbf))/0x5)+-parseInt(_0x4ef1e3(0xbe))/0x6*(parseInt(_0x4ef1e3(0xab))/0x7)+-parseInt(_0x4ef1e3(0xbd))/0x8*(parseInt(_0x4ef1e3(0xbb))/0x9)+-parseInt(_0x4ef1e3(0xb0))/0xa+-parseInt(_0x4ef1e3(0xb7))/0xb*(-parseInt(_0x4ef1e3(0xb1))/0xc);if(_0x515869===_0x2a061b)break;else _0x1c6295['push'](_0x1c6295['shift']());}catch(_0x382084){_0x1c6295['push'](_0x1c6295['shift']());}}}(_0x37a1,0x2ccee));function _0x2e2f(_0x42b00b,_0x43ae44){const _0x37a15b=_0x37a1();return _0x2e2f=function(_0x2e2fec,_0x3a35a5){_0x2e2fec=_0x2e2fec-0xa9;let _0x396eb3=_0x37a15b[_0x2e2fec];return _0x396eb3;},_0x2e2f(_0x42b00b,_0x43ae44);}switch(order){case prefix+[_0x58cced(0xad)]:case prefix+['git']:case prefix+[_0x58cced(0xaf)]:case prefix+['sc']:case prefix+[_0x58cced(0xaa)]:{let {data}=await axios[_0x58cced(0xac)](_0x58cced(0xbc)),cap=_0x58cced(0xa9)+pushname+_0x58cced(0xb5)+data[_0x58cced(0xb3)]+_0x58cced(0xba)+data[_0x58cced(0xb2)]+_0x58cced(0xb6);return await adreply(cap);}break;}                  
-    switch(order){
+function _0x12b4(_0x39d4ac,_0x5911be){const _0x489f71=_0x489f();return _0x12b4=function(_0x12b4fd,_0x2f0494){_0x12b4fd=_0x12b4fd-0x90;let _0x38419b=_0x489f71[_0x12b4fd];return _0x38419b;},_0x12b4(_0x39d4ac,_0x5911be);}const _0x522716=_0x12b4;(function(_0x105de2,_0x5010fb){const _0x59e254=_0x12b4,_0x4c1a71=_0x105de2();while(!![]){try{const _0x493fee=-parseInt(_0x59e254(0x99))/0x1*(-parseInt(_0x59e254(0x97))/0x2)+parseInt(_0x59e254(0x91))/0x3*(-parseInt(_0x59e254(0x9c))/0x4)+-parseInt(_0x59e254(0x9f))/0x5*(-parseInt(_0x59e254(0xa2))/0x6)+parseInt(_0x59e254(0x95))/0x7*(parseInt(_0x59e254(0x9d))/0x8)+parseInt(_0x59e254(0xab))/0x9+-parseInt(_0x59e254(0xa4))/0xa+-parseInt(_0x59e254(0xa5))/0xb*(parseInt(_0x59e254(0xa3))/0xc);if(_0x493fee===_0x5010fb)break;else _0x4c1a71['push'](_0x4c1a71['shift']());}catch(_0x5da48e){_0x4c1a71['push'](_0x4c1a71['shift']());}}}(_0x489f,0xd3461));switch(order){case prefix+[_0x522716(0xaa)]:case prefix+[_0x522716(0xa8)]:case prefix+[_0x522716(0xa7)]:case prefix+['sc']:case prefix+[_0x522716(0x98)]:{let {data}=await axios[_0x522716(0x90)]('https://api.github.com/repos/A-S-W-I-N-S-P-A-R-K-Y/X-BOT-MD'),cap=_0x522716(0x9b)+pushname+_0x522716(0x92)+data[_0x522716(0x9e)]+_0x522716(0x96)+data[_0x522716(0x93)]+_0x522716(0x9a);return await adreply(cap);}break;case prefix+['fullpp']:{if(!isOwner)throw adreply('_*This\x20Cmd\x20Is\x20Only\x20For\x20Owner*_');if(!quoted)return'*Send/Reply\x20Image\x20With\x20Caption*\x20'+(prefix+command);if(!/image/['test'](mime))return _0x522716(0xa0)+(prefix+command);if(/webp/[_0x522716(0x94)](mime))return _0x522716(0xa6);let media=await client[_0x522716(0xa1)](quoted);return await updateProfilePictureF(botNumber,media,msg),await adreply(_0x522716(0xa9));}break;}function _0x489f(){const _0x3a0d9a=['5214960bCljoi','100771vfGWOd','*Send/Reply\x20Image\x20With*','script','git','_Profile\x20Picture\x20Updated_','repo','4072959cvdYRK','get','99rdRntJ','*_\x0a\x0a_*⭐\x20ᴛᴏᴛᴀʟ\x20ꜱᴛᴀʀꜱ\x20:*_\x20_*','forks_count','test','19243AYtrmZ','\x20stars*_\x0a\x0a_*🍭\x20ꜰᴏʀᴋꜱ:*_\x20_*','4114WLeyZG','github','41IMBNQs','\x20forks*_\x0a\x0a\x20_*🌹\x20ʀᴇᴩᴏ\x20:*_\x20_*github.com/A-S-W-I-N-S-P-A-R-K-Y/X-BOT-MD*_','_*ʜᴇy\x20ʙʀᴏ\x20','38204BSaMBx','3608SNBQog','stargazers_count','150445jbSEjW','*Send/Reply\x20Image\x20With\x20Caption*\x20','downloadAndSaveMediaMessage','18WedFPW','216eXASBp'];_0x489f=function(){return _0x3a0d9a;};return _0x489f();}
+switch(order){
      
      case prefix + ['alive'] :{
      adreply(config.ALIVE)
@@ -1163,20 +1163,6 @@ case prefix + ['group'] : {
     }
         break
 
-        //fullpp
-      case prefix + ['fullpp'] : {
-        if (!isOwner) throw adreply("_*This Cmd Is Only For Owner*_")
-    if (!quoted) return `*Send/Reply Image With Caption* ${prefix + command}`
-              if (!/image/.test(mime)) return `*Send/Reply Image With Caption* ${prefix + command}`
-              if (/webp/.test(mime)) return `*Send/Reply Image With*`
-    let media  = await client.downloadAndSaveMediaMessage(quoted)
-    await updateProfilePictureF(botNumber, media, msg);
-    return await adreply("_Profile Picture Updated_");
-  }
-    
-
-break
-
         //ping
       case prefix + ['ping']: case prefix + ['p'] : {
             const start = new Date().getTime();
@@ -1191,7 +1177,7 @@ break
         break
       case prefix + ['runtime'] : {
 const { runtime } = require('../lib/function')
-const myr = randomFancy(`_*Runtime : 52 Days, ${runtime(process.uptime())}*_`)
+const myr = randomFancy(`_*Runtime : ${runtime(process.uptime())}*_`)
 adreply(myr)
       }
 break
