@@ -227,7 +227,7 @@ setInterval(() => {
                            const textMessage = (type === 'conversation') ? msg.message.conversation : (type === 'extendedTextMessage') ? msg.message.extendedTextMessage.text : ''
                           move(client, msg, store) 
                           smsg(client, msg, store) 
-                     require('./main/X-BOT-MD.js')(msg, client, from, store) 
+                     require('./main/KING-MD.js')(msg, client, from, store) 
                   })
                   
                   
