@@ -712,32 +712,37 @@ const spark = sparky[Math.floor(Math.random()*sparky.length)];
    const xtime = moment.tz('Asia/Kolkata').format('HH:mm:ss')
         const xdate = moment.tz('Asia/Kolkata').format('DD/MM/YYYY')
 
-  let kunna = `╭──〘 *_${botname}_* 〙─┈
-│
-│ _*User*_ : _*${pushname}*_
-│ _*Owner*_ : _*${ownername}*_
-│ _*Time*_  : _*${xtime}*_
-│ _*Date*_  : _*${xdate}*_
-│ _*Version*_ : _*${VERSION}*_
-│
-└─────────────────┈${readMore}
+  let kunna = `╭═══〘 *_${botname}_* 〙═══⊷❍
+┃✦╭━━━━━━━━━━━───◆
+┃✦│ _*USER*_ : _*${pushname}*_
+┃✦│ _*OWNER*_ : _*${ownername}*_
+┃✦│ _*SERVER*_  : _*Private(VPS)*_
+┃✦│ _*DATE*_  : _*${xdate}*_
+┃✦│ _*VERSION*_ : _*${VERSION}*_
+┃✦│
+┃✦│ ▒▓ ▍▌▌▉▏▎▌▉▐▏▌▓▒
+┃✦│ ▒▓ ▍▌▌▉▏▎▌▉▐▏▌▓▒
+┃✦│
+┃✦│ 𝘽𝙮: 𝙉𝙖𝙫𝙚𝙚𝙙 𝘿𝙤𝙜𝙖𝙧
+┃✦╰━━━━━━━━━━━───◆
+╰━━━━━━━━━━━──⊷┈${readMore}
 
 
 
-╭──〘 *_Owner_* 〙─┈
-│${spark} ${prefix} _*Setpp*_
-│${spark} ${prefix} _*Public*_
-│${spark} ${prefix} _*Private*_
-│${spark} ${prefix} _*fullpp*_
-│${spark} ${prefix} _*tobc*_
-│${spark} ${prefix} _*bc*_
-│${spark} ${prefix} _*Join*_
-│${spark} ${prefix} _*Left*_
-│${spark} ${prefix} _*wave*_
-│${spark} ${prefix} _*Fs*_
-│${spark} ${prefix} _*Fi*_
-│${spark} ${prefix} _*>*_
-└───────────────────┈
+╭═══〘 *_Owner_* 〙═══⊷❍
+┃✦│ ${spark} ${prefix} _*Setpp*_
+┃✦│${spark} ${prefix} _*Public*_
+┃✦│${spark} ${prefix} _*Private*_
+┃✦│${spark} ${prefix} _*fullpp*_
+┃✦│${spark} ${prefix} _*tobc*_
+┃✦│${spark} ${prefix} _*bc*_
+┃✦│${spark} ${prefix} _*Join*_
+┃✦│${spark} ${prefix} _*Left*_
+┃✦│${spark} ${prefix} _*wave*_
+┃✦│${spark} ${prefix} _*Fs*_
+┃✦│${spark} ${prefix} _*Fi*_
+┃✦│${spark} ${prefix} _*>*_
+╰━━━━━━━━━━━──⊷
 
 
 ╭──〘 *_Group_* 〙─┈
