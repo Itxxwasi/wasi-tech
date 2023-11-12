@@ -1,14 +1,14 @@
 {
-  "name": "KING-MD",
+  "name": "X-BOT-MD",
   "version": "1.0.0",
-  "description": "A Multi Device WhatsApp Bot Create By Naveed Dogar 🍁",
+  "description": "Using webSocket version in this script✓",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "pm2 start . --attach --name KING-MD"
+    "start": "pm2 start . --attach --name x-bot"
   },
   "keywords": [],
-  "author": "naveeddogar",
+  "author": "TOXIC-KRIZ",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
@@ -16,22 +16,23 @@
     "@develoka/angka-terbilang-js": "^1.4.2",
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
     "@toxickichux/fancytext": "^1.0.3",
-    "@sampandey001/baileys": "latest",
+    "@whiskeysockets/baileys": "^6.4.0",
     "acrcloud": "^1.4.0",
     "awesome-phonenumber": "^2.54.0",
     "axios": "^0.24.0",
     "brainly-scraper": "^1.0.3",
     "btch-downloader": "^2.0.8",
+    "canvacord": "^5.4.10",
     "cfonts": "^2.10.1",
     "chalk": "^4.1.2",
     "cheerio": "^1.0.0-rc.12",
-    "clash-wa-bot-ytdl": "^2.0.0",
+    "clash-wa-bot-ytdl": "latest",
     "color": "^4.0.0",
     "cookie": "^0.4.2",
     "cors": "^2.8.5",
-    "events": "^3.3.0",
     "crypto-js": "latest",
-    "ex-bot-z-downloader": "^10.6.5",
+    "events": "^3.3.0",
+    "ex-bot-z-downloader": "latest",
     "express": "^4.18.2",
     "fake-useragent": "^1.0.1",
     "fb-info-video": "^1.0.2",
@@ -69,6 +70,7 @@
     "reverse-image-search-google": "^1.0.3",
     "secktor-pack": "latest",
     "spinnies": "^0.5.1",
+    "spotifydl-core": "^0.2.0",
     "ssml-builder": "^0.4.3",
     "syntax-error": "^1.4.0",
     "terminal-kit": "^2.4.0",
@@ -80,8 +82,9 @@
     "xml2js": "^0.4.23",
     "youtube-yts": "^2.0.0",
     "yt-search": "^2.10.4",
-    "ytdl-core": "^4.10.0",
+    "ytdl-core": "latest",
     "ytdl-secktor": "latest",
-    "ytsr": "^3.5.0"
+    "ytsr": "^3.5.0",
+    "youtubei.js": "^6.4.0"
   }
 }
