@@ -19,7 +19,7 @@ const { imageToWebp, videoToWebp, writeExifImg, writeExifVid } = require('./lib/
   const { color, bgcolor, ConsoleLog, biocolor } = require(SETTING['file']['color'])
 
 //Session id connect?
-
+/*
 const fs = require('fs')
 const {writeFile} = require('fs/promises')
 const PastebinAPI = require("pastebin-js"),
@@ -44,7 +44,7 @@ async MakeSession(session_id, authFile) {
     })
 
 //End session id
-
+*/
 MakeSession()
 
 const getVersionWaweb = () => {
@@ -75,7 +75,7 @@ const getVersionWaweb = () => {
      }   
              
          async function operate () { 
-const { state, saveCreds } = await useMultiFileAuthState(__dirname + '/auth_info_baileys/')
+const { state, saveCreds } = await useMultiFileAuthState(__dirname + '/session/')
               let { version } = fetchLatestBaileysVersion()
 	      const msgRetryCounterCache = new NodeCache()
            
