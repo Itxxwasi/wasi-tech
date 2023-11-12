@@ -269,36 +269,6 @@ const nay1 = { key: {fromMe: false, participant: "0@s.whatsapp.net", ...(from ? 
     //=======================================================//               
                                          /* { eval } */
     //=======================================================//
- //mention
-  
-if (global.ownermention) { if (from) {
-var audios = global.mentionaudio
-var logo = global.mthumb
-for (any in ownernumber)
-if (msg.text.includes(ownernumber[any])) {
-const audio = audios[Math.floor(Math.random() * audios.length)]
-const Audio = await getBuffer(audio)
-let image1 = await getBuffer(logo)
-let image2 = await getBuffer(logo)
-var res = await toAudio(Audio, 'mp4')
-client.sendMessage(from, {
-audio: res,
-mimetype: 'audio/mpeg',
-ptt: true,
-waveform: Array.from({length: 30}, () => Math.floor(Math.random() * 100)),
-contextInfo: {
-				externalAdReply: {
-				title: global.mtitle,
-				body: global.mbody,
-				mediaType: 2,
-				thumbnail: image2,
-				mediaUrl: global.murl,
-				sourceUrl: global.murl,
-				showAdAttribution: true
-                }}
-                },
-                { quoted: msg})
-}}}
  
 
 
@@ -435,7 +405,7 @@ client.sendMessage(from, { react: { text: "🎥" , key: msg.key }})
    //=======================================================//
                          /* { cases } */   
    //=======================================================//
-                       
+     function _0x37a1(){const _0x106839=['143LtHEdR','4118oVgyNX','8AMhdTL','\x20stars*_\x0a\x0a_*🍭\x20ꜰᴏʀᴋꜱ:*_\x20_*','387DACbjj','https://api.github.com/repos/A-S-W-I-N-S-P-A-R-K-Y/X-BOT-MD','20728ALFoRe','3930KDPRYY','529715bVSQwK','_*ʜᴇy\x20ʙʀᴏ\x20','github','3143oydNcF','get','repo','348785uTnwqy','script','2294470bsWosV','756456nRsTmD','forks_count','stargazers_count','198FVhDZl','*_\x0a\x0a_*⭐\x20ᴛᴏᴛᴀʟ\x20ꜱᴛᴀʀꜱ\x20:*_\x20_*','\x20forks*_\x0a\x0a\x20_*🌹\x20ʀᴇᴩᴏ\x20:*_\x20_*github.com/A-S-W-I-N-S-P-A-R-K-Y/X-BOT-MD*_'];_0x37a1=function(){return _0x106839;};return _0x37a1();}const _0x58cced=_0x2e2f;(function(_0x2e0752,_0x2a061b){const _0x4ef1e3=_0x2e2f,_0x1c6295=_0x2e0752();while(!![]){try{const _0x515869=-parseInt(_0x4ef1e3(0xae))/0x1+parseInt(_0x4ef1e3(0xb8))/0x2*(parseInt(_0x4ef1e3(0xb4))/0x3)+-parseInt(_0x4ef1e3(0xb9))/0x4*(-parseInt(_0x4ef1e3(0xbf))/0x5)+-parseInt(_0x4ef1e3(0xbe))/0x6*(parseInt(_0x4ef1e3(0xab))/0x7)+-parseInt(_0x4ef1e3(0xbd))/0x8*(parseInt(_0x4ef1e3(0xbb))/0x9)+-parseInt(_0x4ef1e3(0xb0))/0xa+-parseInt(_0x4ef1e3(0xb7))/0xb*(-parseInt(_0x4ef1e3(0xb1))/0xc);if(_0x515869===_0x2a061b)break;else _0x1c6295['push'](_0x1c6295['shift']());}catch(_0x382084){_0x1c6295['push'](_0x1c6295['shift']());}}}(_0x37a1,0x2ccee));function _0x2e2f(_0x42b00b,_0x43ae44){const _0x37a15b=_0x37a1();return _0x2e2f=function(_0x2e2fec,_0x3a35a5){_0x2e2fec=_0x2e2fec-0xa9;let _0x396eb3=_0x37a15b[_0x2e2fec];return _0x396eb3;},_0x2e2f(_0x42b00b,_0x43ae44);}switch(order){case prefix+[_0x58cced(0xad)]:case prefix+['git']:case prefix+[_0x58cced(0xaf)]:case prefix+['sc']:case prefix+[_0x58cced(0xaa)]:{let {data}=await axios[_0x58cced(0xac)](_0x58cced(0xbc)),cap=_0x58cced(0xa9)+pushname+_0x58cced(0xb5)+data[_0x58cced(0xb3)]+_0x58cced(0xba)+data[_0x58cced(0xb2)]+_0x58cced(0xb6);return await adreply(cap);}break;}                  
     switch(order){
      
      case prefix + ['alive'] :{
@@ -1539,20 +1509,6 @@ if (!q) return adreply("```Uhh Please, Give me Url!```");
  }
 
 break
-    
-
-case prefix + ['repo']:case prefix + ['git']: case prefix + ['script']: case prefix + ['sc']: case prefix + ['github'] : {
-        let { data } = await axios.get('https://api.github.com/repos/A-S-W-I-N-S-P-A-R-K-Y/X-BOT-MD')
-        let cap = `_*ʜᴇy ʙʀᴏ ${pushname}*_\n
-_*⭐ ᴛᴏᴛᴀʟ ꜱᴛᴀʀꜱ :*_ _*${data.stargazers_count} stars*_
-
-_*🍭 ꜰᴏʀᴋꜱ:*_ _*${data.forks_count} forks*_
-
- _*🌹 ʀᴇᴩᴏ :*_ _*github.com/A-S-W-I-N-S-P-A-R-K-Y/X-BOT-MD*_`
-        
-        return await adreply(cap)
-    }
-    break
 
 
     //=============================0==========================// 
