@@ -1,1 +1,70 @@
-function _0x197a(){const _0x189e2c=['3561408XhtHUn','10003ffAKGJ','end','timedOut','An\x20error\x20occurred,\x20reconnecting🔄','close','exports','Mengkoneksikan\x20ulang\x20dalam\x2010\x20detik....','\x20\x0a\x0a\x20_*ᴛᴇᴀᴍ\x20:\x20ᴛᴇᴀᴍ\x20ᴇx-ʙᴏᴛ-ᴢ*_\x0a\x0a_*ᴍᴏᴅᴇ*_\x20:\x20\x20_*','prefix','worktype','4000eNpFwy','repeat','*_\x0a\x0a_*ᴀᴜᴛᴏ\x20ꜱᴛᴀᴛᴜꜱʀᴇᴀᴅ*_\x20:\x20_*','fromCharCode','108585CiBCwq','error','5374480WwPpJs','Sorry,\x20it\x20looks\x20like\x20the\x20session\x20file\x20is\x20disabled.\x20Please\x20re-scan🙏','https://i.imgur.com/IIHEyLI.jpg','Another\x20connection\x20is\x20replaced,\x20please\x20close\x20this\x20connection\x20first','logout','INFO','218237uKICBP','connected\x20🗿🙌🏻','connectionLost','restartRequired','*_\x0a\x0a_*ᴘʀᴇғɪx*_\x20:\x20','log','sendMessage','Reason\x20:\x20','clear','7291710oyPREp','../config','statusread','@s.whatsapp.net','connectionReplaced','open','Connection\x20reached\x20the\x20limit,\x20please\x20reload🔄','5898cRjocC','Connection\x20lost\x20from\x20the\x20web,\x20trying\x20to\x20reconnect🔄','https://chat.whatsapp.com/JjzEUDkJgke1vPGK3GAvG6','*_\x0a\x0a_*ᴀʟᴡᴀyꜱ\x20ᴏɴʟɪɴᴇ\x20:\x20','2344894JMqcoL','\x20*_x-ʙᴏᴛ-ᴍᴅ\x20ᴄᴏɴɴᴇᴄᴛᴇᴅ!_*'];_0x197a=function(){return _0x189e2c;};return _0x197a();}function _0x13be(_0x44d9d5,_0x52c683){const _0x197a2c=_0x197a();return _0x13be=function(_0x13bec7,_0x4979ad){_0x13bec7=_0x13bec7-0x14b;let _0x5267e=_0x197a2c[_0x13bec7];return _0x5267e;},_0x13be(_0x44d9d5,_0x52c683);}const _0xa85712=_0x13be;(function(_0x3c0f2a,_0x12c77){const _0x5308ce=_0x13be,_0xf5c915=_0x3c0f2a();while(!![]){try{const _0x227f85=parseInt(_0x5308ce(0x15f))/0x1+parseInt(_0x5308ce(0x173))/0x2+parseInt(_0x5308ce(0x175))/0x3+parseInt(_0x5308ce(0x159))/0x4+parseInt(_0x5308ce(0x168))/0x5+parseInt(_0x5308ce(0x16f))/0x6*(parseInt(_0x5308ce(0x176))/0x7)+-parseInt(_0x5308ce(0x153))/0x8*(parseInt(_0x5308ce(0x157))/0x9);if(_0x227f85===_0x12c77)break;else _0xf5c915['push'](_0xf5c915['shift']());}catch(_0x3cee37){_0xf5c915['push'](_0xf5c915['shift']());}}}(_0x197a,0xb7975),require(_0xa85712(0x169)));let {loading}=require('./starting');const more=String[_0xa85712(0x156)](0x200e),readMore=more[_0xa85712(0x154)](0xfa1),Connecting=async({update:_0x59503b,client:_0x2f4681,Boom:_0x1abc9c,DisconnectReason:_0x941676,sleep:_0x47b7da,operate:_0xd1ca73,msg:_0x551cf1})=>{const _0x4dabdd=_0xa85712,{connection:_0x3de027,lastDisconnect:_0x495063}=_0x59503b;_0x3de027==='connecting'&&console[_0x4dabdd(0x164)](_0x4dabdd(0x15e),_0x59503b);if(_0x3de027===_0x4dabdd(0x14d)){let _0x3d82a6=new _0x1abc9c(_0x495063?.[_0x4dabdd(0x158)])?.['output']['statusCode'];if(_0x3d82a6===_0x941676['badSession'])console[_0x4dabdd(0x164)](_0x4dabdd(0x15a)),_0x2f4681[_0x4dabdd(0x15d)](),console[_0x4dabdd(0x164)](_0x4dabdd(0x14f)),setTimeout(()=>{_0xd1ca73();},0x2710);else{if(_0x3d82a6===_0x941676['connectionClosed'])console[_0x4dabdd(0x164)]('Connection\x20lost,\x20trying\x20to\x20reconnect🔄'),_0xd1ca73();else{if(_0x3d82a6===_0x941676[_0x4dabdd(0x16c)])console[_0x4dabdd(0x164)](_0x4dabdd(0x15c)),process['exit']();else{if(_0x3d82a6===_0x941676[_0x4dabdd(0x162)])console[_0x4dabdd(0x164)](_0x4dabdd(0x14c)),setTimeout(()=>{_0xd1ca73();},0x2710);else{if(_0x3d82a6===_0x941676[_0x4dabdd(0x161)])console[_0x4dabdd(0x164)](_0x4dabdd(0x170)),setTimeout(()=>{_0xd1ca73();},0x2710);else{if(_0x3d82a6===_0x941676['loggedOut'])console['log']('Device\x20is\x20out,\x20please\x20re-scan🔄'),process['exit']();else{if(_0x3d82a6===_0x941676[_0x4dabdd(0x14b)])console['log'](_0x4dabdd(0x16e)),_0xd1ca73();else _0x2f4681[_0x4dabdd(0x177)](_0x4dabdd(0x166)+_0x3d82a6+'|'+_0x3de027);}}}}}}}if(_0x3de027===_0x4dabdd(0x16d)){console[_0x4dabdd(0x167)](),loading(),await _0x47b7da(0x157c);for(let _0x15ef28 of ownernumber){let _0x11a847=_0x4dabdd(0x174)+readMore+_0x4dabdd(0x150)+global[_0x4dabdd(0x152)]+_0x4dabdd(0x155)+global[_0x4dabdd(0x16a)]+_0x4dabdd(0x172)+global['alwaysonline']+_0x4dabdd(0x163)+global[_0x4dabdd(0x151)];_0x2f4681[_0x4dabdd(0x165)](_0x15ef28+_0x4dabdd(0x16b),{'text':_0x11a847,'contextInfo':{'externalAdReply':{'title':'X-BOT-MD','sourceUrl':_0x4dabdd(0x171),'mediaUrl':'https://instagram.com/krishnadas.kriz','mediaType':0x1,'showAdAttribution':!![],'renderLargerThumbnail':!![],'thumbnailUrl':_0x4dabdd(0x15b)}}},{'quoted':_0x551cf1});}}console[_0x4dabdd(0x164)](_0x4dabdd(0x160));};module[_0xa85712(0x14e)]={'Connecting':Connecting};
+//kriz
+ require('../config')
+let { loading } = require('./starting')
+
+const Connecting = async ({update, client, Boom, DisconnectReason, sleep, operate, msg}) => {
+
+      const { connection, lastDisconnect } = update
+      if (connection === 'connecting'){
+             console.log('INFO', update) 
+             }  
+       //response if there is a failure/error in connection                       	             
+       if (connection === 'close') {
+         let messageconnect = new Boom(lastDisconnect?.error)?.output.statusCode
+            if (messageconnect === DisconnectReason.badSession) { 
+               console.log(`Sorry, it looks like the session file is disabled. Please re-scan🙏`)
+               client.logout();
+               console.log('Mengkoneksikan ulang dalam 10 detik....')
+               setTimeout( () => {
+                 operate();
+               }, 10000)
+              } else if (messageconnect === DisconnectReason.connectionClosed) { 
+               console.log("Connection lost, trying to reconnect🔄"); 
+               operate(); 
+              } else if (messageconnect === DisconnectReason.connectionReplaced) { 
+               console.log("Another connection is replaced, please close this connection first");    
+              process.exit(); 
+              } else if (messageconnect === DisconnectReason.restartRequired) { 
+               console.log("An error occurred, reconnecting🔄"); 
+               setTimeout( () => {
+                 operate();
+               }, 10000)
+              } else if (messageconnect === DisconnectReason.connectionLost) { 
+               console.log("Connection lost from the web, trying to reconnect🔄"); 
+               setTimeout( () => {
+                 operate();
+               }, 10000)             
+              } else if (messageconnect === DisconnectReason.loggedOut) { 
+              console.log(`Device is out, please re-scan🔄`);    
+              process.exit();               
+              } else if (messageconnect === DisconnectReason.timedOut) { 
+               console.log("Connection reached the limit, please reload🔄"); 
+               operate(); 
+             } else client.end(`Reason : ${messageconnect}|${connection}`)
+        }  
+       if (connection === 'open'){         
+         //clearing logs in terminal
+          console.clear()          
+           //start progress
+            loading()
+             //silent for 5.5 seconds
+              await sleep(5500)
+               //displays information that it is connected
+         for (let i of ownernumber) {
+                        let kunna = ` *_x-ʙᴏᴛ-ᴍᴅ ᴄᴏɴɴᴇᴄᴛᴇᴅ_* \n\n _*ᴛᴇᴀᴍ : ᴛᴇᴀᴍ ᴇx-ʙᴏᴛ-ᴢ*_\n\n_*ᴍᴏᴅᴇ*_ :  _*${global.worktype}*_\n\n_*ᴀᴜᴛᴏ ꜱᴛᴀᴛᴜꜱʀᴇᴀᴅ*_ : _*${global.statusread}*_\n\n_*ᴀʟᴡᴀyꜱ ᴏɴʟɪɴᴇ : ${global.alwaysonline}*_\n\n_*ᴘʀᴇғɪx*_ : ${global.prefix}`
+client.sendMessage(i + "@s.whatsapp.net", {text : kunna,
+contextInfo: { externalAdReply: {
+title: "X-BOT-MD",
+sourceUrl: "https://chat.whatsapp.com/JjzEUDkJgke1vPGK3GAvG6",
+mediaUrl: "https://instagram.com/imxxaswinnn",
+mediaType: 1,
+showAdAttribution: true,
+renderLargerThumbnail: true,
+thumbnailUrl: "https://i.imgur.com/IIHEyLI.jpg" }}}, {quoted: msg})}}
+          
+       
+                console.log('connected 🗿🙌🏻') 
+         }
+ 
+   
+   module.exports = { Connecting }       
