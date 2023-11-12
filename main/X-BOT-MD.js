@@ -688,7 +688,7 @@ var kriz = [
 "《 ███████▒▒▒▒▒》50%",
 "《 ██████████▒▒》80%",
 "《 ████████████》100%",
-"~_*© X-BOT-MD*_~\n_*LOADING COMPLETED*_..."
+"~_*© KING-MD*_~\n_*LOADING COMPLETED*_..."
 ]
 let { key } = await client.sendMessage(from, {text: 'ʟᴏᴀᴅɪɴɢ...'})//Pengalih isu
 
