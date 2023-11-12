@@ -9,7 +9,6 @@ const readMore = more.repeat(4001)
   //=======================================================//
 const { cheerio } = require("cheerio")
   let modul = SETTING['modul'];
-
   let getreq = SETTING['file'];
   const chalk = modul['chalk'];
   const fs = modul['fs'];
