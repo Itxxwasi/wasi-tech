@@ -76,25 +76,6 @@
     <br>
 <a href='https://replit.com/github/naveeddogar/KING-MD' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Deploy-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
-#### DEPLOY TO KOYEB 
-
-1. If You don't have a account in Koyeb. Create a account.
-    <br>
-<a href='https://signup.koyeb.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Create-black?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
-
-2. Now Deploy
-    <br>
-<a href='https://koyeb.com/deploy' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
-
-#### DEPLOY TO OKTETO
-
-1. If You don't have a account in Okteto. Create a account.
-    <br>
-<a href='https://www.okteto.com/pricing/?plan=SaaS' target="_blank"><img alt='Okteto' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=opera' width="96.35" height="28"/></a></p>
-
-2. Now Deploy
-    <br>
-<a href='https://tml' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=opera' width="96.35" height="28"/></a></p>
 
 #### DEPLOY TO RAILWAY
 
@@ -116,27 +97,6 @@
     <br>
 <a href='https://railway.app/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=genius' width="96.35" height="28"/></a></p>
 
-#### DEPLOY TO COOLIFY
-
-1. If You don't have a account in Coolify. Create a account.
-    <br>
-<a href='https://app.coolify.io/register' target="_blank"><img alt='Coolify' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=C' width="96.35" height="28"/></a></p>
-
-2. Now Deploy
-    <br>
-<a href='https://coolify.io/' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=C' width="96.35" height="28"/></a></p>
-
-#### DEPLOY TO RENDER
-
-1. If You don't have a account in Render. Create a account.
-    <br>
-<a href='https://dashboard.render.com/register' target="_blank"><img alt='Render' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=render' width="96.35" height="28"/></a></p>
-
-2. Now Deploy
-    <br>
-<a href='https://dashboard.render.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=render' width="96.35" height="28"/></a></p>
-
----
 
 #### DEPLOY TO CODESPACE
 
