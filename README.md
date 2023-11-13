@@ -152,13 +152,3 @@
 
 <h2 align="center"> Star This Repo If You like KING-MD🌟
 </h2>
-
-
-
-  
-
-
-
-✧ Special Thanks And Credit To  `🍧 ASWIN SPARKY`
-
-✧ Thanks To `🍧 ADITHYAN`
