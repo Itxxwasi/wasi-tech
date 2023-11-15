@@ -1,13 +1,13 @@
 {
-               "name": "Secktor-2.0",
-               "version": "2.0.1",
-               "description": "Multi device whatsapp bot by Slasher-Official.",
+               "name": "KING-Md",
+               "version": "1.0.1",
+               "description": "Multi device whatsapp bot by Naveed.",
                "main": "lib/client.js",
                "type": "commonjs",
                "license": "GPL-3.0",
    "scripts": {
-                "start": "pm2 start lib/client.js --deep-monitoring --attach --name secktor",
-                "stop": "pm2 stop secktor"
+                "start": "pm2 start lib/client.js --deep-monitoring --attach --name king",
+                "stop": "pm2 stop king"
                 },
                "author": "SamPandey001",
               "dependencies": {
@@ -68,10 +68,10 @@
                     },
                  "repository": {
                  "type": "git",
-                 "url": "git+https://github.com/X-S-L-A-S-H-E-R/Secktor-2.0.git"
+                 "url": "git+https://github.com/naveeddogar/KING-MD.git"
                   },
                  "bugs": {
-                 "url": "https://github.com/X-S-L-A-S-H-E-R/Secktor-2.0/issues"
+                 "url": "https://github.com/naveeddogar/KING-MD/issues"
                   },
-                 "homepage": "https://github.com/X-S-L-A-S-H-E-R/Secktor-2.0#readme"
+                 "homepage": "https://github.com/naveeddogar/KING-MD#readme"
                   }
