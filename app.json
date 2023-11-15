@@ -2,7 +2,7 @@
   "name": "KING-MD",
   "description": "A Whatsapp md bot built in NodeJs to make experience better",
   "logo": "https://telegra.ph/file/a6b9bbde7feaa92c69c7b.jpg",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "Zero-Two", "Secktor-2.0", "Secktor","Secktor-Bot","theme bot","multi device","baileys"],
+  "keywords": ["nodejs", "bot", "whatsapp bot", "KING-MD", "King-Md", "king","king-Bot","theme bot","multi device","baileys"],
   "success_url": "/",
   "stack": "container",
 "env": {
