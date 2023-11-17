@@ -1,7 +1,7 @@
 </p>
 <p align="center">
   <a href="https://chat.whatsapp.com/JIJplkiYyrFE4dyFGade43">
-    <img alt=Support height="350" src="https://telegra.ph/file/550e7d3e777334e6a20c8.jpg"> 
+    <img alt=Support height="350" src="https://telegra.ph/file/a6b9bbde7feaa92c69c7b.jpg"> 
     </p>
 <h1 align="center">    KING-MULTI-DEVICE (KING)
 </h1>
@@ -48,22 +48,9 @@
 ### 1. Fork This Repo
 <a href='https://github.com/naveeddogar/KING-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 
-### 2. Scan The QR And Upload ***Creds.json*** File To Your KING-MD-SESSION Folder 📁
+### 2. Scan The QR 
 <a href='https://king-md-qr.app/' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Scan Qr code-black?style=for-the-badge&logo=opencv&logoColor=white'/></a>
 
-### 3. ⚙️  Edit Config File 
-
-
-- Edit Your Config Details In Your Fork Repo Like -- [`config.js`]
-```js
-
-global.Owner = ["923096566451"]; 
-global.OwnerNumber = ["923096566451"];
-global.ownertag = ["923096566451"];
-global.OwnerName = "NaveedDogar";
-
-```
----
 
 
 
@@ -87,15 +74,6 @@ global.OwnerName = "NaveedDogar";
     <br>
 <a href='https://github.com/codespaces/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=visualstudiocode' width="96.35" height="28"/></a></p>
 
-#### DEPLOY TO OKTETO
-
-1. If You don't have a account in Okteto. Create a account.
-    <br>
-<a href='https://www.okteto.com/pricing/?plan=SaaS' target="_blank"><img alt='Okteto' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=opera' width="96.35" height="28"/></a></p>
-
-2. Now Deploy
-    <br>
-<a href='https://tml' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=opera' width="96.35" height="28"/></a></p>
 
 #### DEPLOY TO RAILWAY
 
@@ -117,27 +95,6 @@ global.OwnerName = "NaveedDogar";
     <br>
 <a href='https://railway.app/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=genius' width="96.35" height="28"/></a></p>
 
-#### DEPLOY TO COOLIFY
-
-1. If You don't have a account in Coolify. Create a account.
-    <br>
-<a href='https://app.coolify.io/register' target="_blank"><img alt='Coolify' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=C' width="96.35" height="28"/></a></p>
-
-2. Now Deploy
-    <br>
-<a href='https://coolify.io/' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=C' width="96.35" height="28"/></a></p>
-
-#### DEPLOY TO RENDER
-
-1. If You don't have a account in Render. Create a account.
-    <br>
-<a href='https://dashboard.render.com/register' target="_blank"><img alt='Render' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=render' width="96.35" height="28"/></a></p>
-
-2. Now Deploy
-    <br>
-<a href='https://dashboard.render.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=render' width="96.35" height="28"/></a></p>
-
----
 
 #### DEPLOY TO REPLIT
 
@@ -154,27 +111,3 @@ global.OwnerName = "NaveedDogar";
 
 <h2 align="center"> Star This Repo If You like KING-MD🌟
 </h2>
-
-
- 
- ## 🧬 Author 👨🏻‍🎤
-  <div align="center">
-  
-| [![NaveedDogar](https://github.com/naveeddogar.png?size=150)](https://github.com/naveeddogar) |
-|----|
-| [ N a v e e d   - D o G a R ](https://github.com/naveeddogar) |
-|  Developer, Maker, updater|
-
-  </div>
-  
-   
-  </br> 
-  
-
-
-
-✧ Thanks To  `🍧 Kai!!!`
-
-✧ Thanks To `🍧 Adithyan`
-
-✧ Thanks To `🍧 Jasil/Afx-Abu`
