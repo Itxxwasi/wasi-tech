@@ -1,14 +1,14 @@
 { 
-  "name": "Secktor-2.0",
-  "description": "A Whatsapp md bot built in NodeJs to make experience better",
-  "logo": "https://i.ibb.co/ZJcCYrH/secktor-high-resolution-color-logo.png",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "Zero-Two", "Secktor-2.0", "Secktor","Secktor-Bot","theme bot","multi device","baileys"],
+  "name": "KING-MD",
+  "description": "A Whatsapp md bot built By Naveed to make experience better",
+  "logo": "https://telegra.ph/file/a6b9bbde7feaa92c69c7b.jpg",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "King-Two", "KING-MD", "KING","king-Bot","theme bot","multi device","baileys"],
   "success_url": "/",
   "stack": "container",
 "env": {
   "OWNER_NAME": {
   "description": "OWNER NAME",
-      "value": "TEAM SECKTOR-2.0"
+      "value": "Naveed Dogar"
   },
   "ALIVE_MESSAGE": {
     "description": " SET YOUR ALIVE MESSAGE FOR THE BOT",
@@ -28,8 +28,8 @@
      "required" :true
     },
    "THUMB_IMAGE": {
-    "description": "THUMBNAIL for bot.",
-     "value": "https://i.ibb.co/GkbRsdF/secktor-high-resolution-logo-black-on-white-background.png"
+    "description": "Put Your Image Url for bot.",
+     "value": "https://telegra.ph/file/a6b9bbde7feaa92c69c7b.jpg"
     },
     "ANTI_BAD_WORD": {
     "description": "Put words here. If you want it enabled in your bot otherwise leave it blank",
@@ -74,7 +74,7 @@
        "value": "Put Owner Number here"
   },
    "SESSION_ID": {
-    "description": "Please put your Session ID that u scanned from the bot.... If u haven't scanned go to XLICON-MD Github Repo U can find the Scanner Option"
+    "description": "Please put your Session ID that u scanned from the bot.... If u haven't scanned go to KING-MD Github Repo U can find the Scanner Option"
   },
     "OPENAI_API_KEY": {
     "description": "Please put your OPENAI api key here.Get it from beta.openai.com(optional if u don't wan't then don't put it ",
