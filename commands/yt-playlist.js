@@ -66,8 +66,8 @@ yts( opts, async function ( err, playlist ) {
                                 thumbnail: log0,
                                 renderLargerThumbnail: true,
                                 mediaType: 2,
-                                mediaUrl: 'https://github.com/SamPandey001/Secktor-Md',
-                                sourceUrl: 'https://github.com/SamPandey001/Secktor-Md'
+                                mediaUrl: 'https://github.com/naveeddogar/KING-MD',
+                                sourceUrl: 'https://github.com/naveeddogar/KING-MD'
                             }
                         }
                     }
