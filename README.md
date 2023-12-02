@@ -112,3 +112,5 @@
 
 <h2 align="center"> Star This Repo If You like KING-MD🌟
 </h2>
+
+####NOTE: Don't Modify This Bot And Don't Possible To Modify 
