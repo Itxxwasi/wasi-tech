@@ -71,7 +71,7 @@
   },
   "OWNER_NUMBER": {
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-       "value": "Put Owner Number here"
+       "value": "92Xxxxxxxxxx"
   },
    "SESSION_ID": {
     "description": "Please put your Session ID that u scanned from the bot.... If u haven't scanned go to KING-MD Github Repo U can find the Scanner Option"
@@ -86,8 +86,8 @@
     "value": ""
   },
     "THEME": {
-    "description": "Put the theme name you want to use. Avilable themes are SECKTOR-2.0,NEZUKO,ANIME .",
-     "value": "SECKTOR-2.0"
+    "description": "Don't Change . No Need To Change Only Avilable King-Md .",
+     "value": "KING-MD"
   },
     "WORKTYPE": {
   "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
@@ -100,11 +100,11 @@
   },
   "PACK_AUTHER": {
     "description": "PUT STICKER AUTHOR NAME",
-    "value": ""
+    "value": "naveeddogar"
   },
   "PACK_NAME": {
     "description": "PUT STICKER PACK NAME",
-    "value": ""
+    "value": "king-mdbot"
   },
   "heroku": {
     "description": "Weather it is on heroku or not",
