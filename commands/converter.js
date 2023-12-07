@@ -1,18 +1,19 @@
 /**
 ========================================================
-     █▀ █▀▀ █▀▀ ▀█▀ █▀█ █▀█ ▄▄ ▀█ ░ █▀█           |•|
-     ▄█ ██▄ █▄▄ ░█░ █▄█ █▀▄ ░░ █▄ ▄ █▄█           |•|
+      █▄▀ █ █▄ █ ▄▀     █▄ ▄█ █▀▄
+      █ █ █ █ ▀█ ▀▄█ ▀▀ █ ▀ █ █▄▀
 ========================================================
  Copyright (C) 2022.                                                                                        
  Licensed under the  GPL-3.0 License;                                                      
  You may not use this file except in compliance with the License.    
  It is supplied in the hope that it may be useful                                     
- * @project_name : Secktor-2.0                                                                    
- * @author : Slasher-Official <https://github.com/X-S-L-A-S-H-E-R>   
- * @description : Secktor-2.0 ,A Multi-functional whatsapp bot.       
- * @version 2.0.1                                                                                             
+ * @project_name : KING-MD                                                                    
+ * @author : naveeddogar <https://github.com/naveeddogar>   
+ * @description : KING-MD ,A Multi-functional whatsapp bot.       
+ * @version 1.0.1                                                                                             
  ========================================================
  **/
+
 
 const axios = require('axios')
 const { sck1, tiny, fancytext, listall,cmd,ffmpeg } = require('../lib/')
@@ -166,16 +167,16 @@ cmd({
             pattern: "fancy",
             desc: "Makes stylish/fancy given text",
             category: "converter",
-            use: '56 Secktor',
+            use: '56 King',
             react: "✅",
             filename: __filename
         },
         async(Void, citel, text) => {
             if (isNaN(text.split(" ")[0]) || !text) {
                 let text = tiny(
-                    "Fancy text generator\n\nExample: .fancy 32 Secktor\n\n"
+                    "Fancy text generator\n\nExample: .fancy 32 King-Md\n\n"
                 );
-                listall("Secktor Bot").forEach((txt, num) => {
+                listall("King-Md").forEach((txt, num) => {
                     text += `${(num += 1)} ${txt}\n`;
                 });
                 return await citel.reply(text);
