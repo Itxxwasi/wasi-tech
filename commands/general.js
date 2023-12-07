@@ -119,22 +119,23 @@ cmd({
         filename: __filename,
     },
     async(Void, citel) => {
-        let { data } = await axios.get('https://api.github.com/repos/X-S-L-A-S-H-E-R/Secktor-2.0')
+        let { data } = await axios.get('https://api.github.com/repos/naveeddogar/KING-MD')
         let cap = 
-`🧣 *Sᴇᴄᴋᴛᴏʀ'ꜱ Sᴄʀɪᴘᴛ* 🧣
+`🔥𝙆𝙄𝙉𝙂-𝙈𝘿 *Script*🎯
        
      ⭐ *ᴛᴏᴛᴀʟ ꜱᴛᴀʀꜱ:* ${data.stargazers_count} ꜱᴛᴀʀꜱ
       
-     🎀 *ꜰᴏʀᴋꜱ:* ${data.forks_count} ꜰᴏʀᴋꜱ
+     🪸 *ꜰᴏʀᴋꜱ:*  ${data.forks_count} ꜰᴏʀᴋꜱ
       
-     📁 *ʀᴇᴘᴏ ꜱɪᴢᴇ:* ${(data.size / 1024).toFixed(2)} ᴍʙ
+     🔥𝙆𝙄𝙉𝙂-𝙈𝘿🎯
       
-     📅 *ʟᴀꜱᴛ ᴜᴘᴅᴀᴛᴇᴅ:* ${data.updated_at} 
+     🎠*OWNER:NAVEED DOGAR*🔖
       
-     🔗 *ʀᴇᴘᴏ ʟɪɴᴋ:* https://s.id/1VCta
+     🪇 *ʀᴇᴘᴏ ʟɪɴᴋ:* https://github.com/naveeddogar/KING-MD
       
      
-     ©️ *Team Secktor- 2023*
+     ©️ 𝘽𝙮: 𝙆𝙄𝙉𝙂-𝙈𝘿 𝟮𝟬𝟮𝟯
+
 `
         let buttonMessaged = {
             image: { url: await botpic() },
@@ -143,7 +144,7 @@ cmd({
             headerType: 4,
             contextInfo: {
                 externalAdReply: {
-                    title: "Secktor-Repo",
+                    title: "King-Md-Repo",
                     body: "Easy to Use",
                     thumbnail: log0,
                     mediaType: 4,
@@ -215,7 +216,7 @@ async(Void, citel,text,{isCreator}) => {
 
 if(!isCreator) return citel.reply(tlang().owner);
 let str="*All available themes in Secktor-2.0*"
-str+=`1. SECKTOR-2.0\n2. NEZUKO\n3. ANIME\n\n these are the themes of Secktor-2.0 Userbot.\_Reply ${prefix}setvar THEME:ANIME`
+str+=`1. king-md\n\n these are the themes of Secktor-2.0 Userbot.\_Reply ${prefix}setvar THEME:ANIME`
 return citel.reply(str)
     
 }
