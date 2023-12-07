@@ -67,7 +67,8 @@ Secktor.cmd({
 ┃ ┃ User:- ${citel.pushName}
 ┃ ┃ Owner:- ${Config.ownername}
 ┃ ┃ Prefix:- [ ${prefix} ]
-┃ ┃ Version:- 2.0.1
+┃ ┃ Version:- 1.0.1
+| | Mode : ${global.mode}
 ┃ ┃ Mem:- ${formatp(os.totalmem() - os.freemem())}/${formatp(os.totalmem())}
 ┃ ┃ Time:- ${time}
 ┃ ┃ Date:- ${date}
