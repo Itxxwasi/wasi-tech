@@ -88,7 +88,7 @@ Secktor.cmd({
                 }
                 str+= `*Sᴇᴄᴋᴛᴏʀ-2.0 ʟᴀᴛᴇꜱᴛ ᴠᴇʀꜱɪᴏɴ* 🎯`
                 let buttonMessaged = {
-                    image: { url: await botpic() },
+                    image: { url: THUMB_IMAGE },
                     caption: str
                 };
                 return await Void.sendMessage(citel.chat, buttonMessaged);
