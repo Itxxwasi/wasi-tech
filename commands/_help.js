@@ -60,34 +60,39 @@ Secktor.cmd({
                     .locale('id')
                 const date = moment.tz('Asia/Kolkata').format('DD/MM/YYYY')
                 let total = await sck1.countDocuments()
-                let str = `╭━〔 *${Config.botname}* 〕━◉\n`
+                let str = `╭────《 *𝙆𝙄𝙉𝙂-𝙈𝘿* 》───⊷❍\n`
                 str +=
-                    '```' + `┃ ╭━━━━━━━━━━━━━━◉
-┃ ┃ Plugins:- ${commands.length}
-┃ ┃ User:- ${citel.pushName}
-┃ ┃ Owner:- ${Config.ownername}
-┃ ┃ Prefix:- [ ${prefix} ]
-┃ ┃ Version:- 1.0.1
-| | Mode : ${global.mode}
-┃ ┃ Mem:- ${formatp(os.totalmem() - os.freemem())}/${formatp(os.totalmem())}
-┃ ┃ Time:- ${time}
-┃ ┃ Date:- ${date}
-┃ ╰━━━━━━━━━━━━━━◉\n
+                    '```' + `┃✦╭──────────────◆
+┃✦┃ 𝙋𝙡𝙪𝙜𝙞𝙣𝙨: ${commands.length}
+┃✦┃ 𝙐𝙨𝙚𝙧: ${citel.pushName}
+┃✦┃ 𝙊𝙬𝙣𝙚𝙧: ${Config.ownername}
+┃✦┃ 𝙋𝙧𝙚𝙛𝙞𝙭: [ ${prefix} ]
+┃✦┃ 𝙈𝙚𝙢: ${formatp(os.totalmem() - os.freemem())}/${formatp(os.totalmem())}
+┃✦┃ 𝘿𝙖𝙩𝙚: ${date}
+┃✦┃ 𝙈𝙤𝙙𝙚: ${global.mode}
+┃✦┃ 𝙑𝙚𝙧𝙨𝙞𝙤𝙣: 1.0.1
+┃✦┃ 
+┃✦┃ ▒▓ ▍▌▌▉▏▎▌▉▐▏▌▓▒
+┃✦┃ ▒▓ ▍▌▌▉▏▎▌▉▐▏▌▓▒
+┃✦┃ 
+┃✦┃ ©𝘽𝙮: ${Config.ownername}
+┃✦╰━━━━━━━━━━━───◆
+╰━━━━━━━━━━━━──⊷n
 ` + '```'
                 for (const category in cmds) 
                 {
-                   str += `┠┌─────『   *${tiny(category)}*  』\n` ;
-                   if(text.toLowerCase() == category.toLowerCase()){ str = `┠┌─────『 *${tiny(category)}* 』\n` ;      
-                        for (const plugins of cmds[category]) { str += `┃│◦ ${fancytext(plugins,1)}\n` ; }
-                        str += `┃└───────⭓\n`  ;
+                   str += `╭════〘   *${tiny(category)}*  〙════⊷❍\n` ;
+                   if(text.toLowerCase() == category.toLowerCase()){ str = `╭════〘 *${tiny(category)}* 〙════⊷❍\n` ;      
+                        for (const plugins of cmds[category]) { str += `┃⛥│ ${fancytext(plugins,1)}\n` ; }
+                        str += `╰═══════════════⊷❍\n`  ;
                         break ;
                    }
-                   else { for (const plugins of cmds[category]) { str += `┃│◦ ${fancytext(plugins,1)}\n` ; }
-                         str += `┃└───────⭓\n`  ; 
+                   else { for (const plugins of cmds[category]) { str += `┃⛥│ ${fancytext(plugins,1)}\n` ; }
+                         str += `╰═══════════════⊷❍\n`  ; 
                    }
   
                 }
-                str+= `*Sᴇᴄᴋᴛᴏʀ-2.0 ʟᴀᴛᴇꜱᴛ ᴠᴇʀꜱɪᴏɴ* 🎯`
+                str+= `*𝙆𝙄𝙉𝙂-𝙈𝘿 * 🎯`
                 let buttonMessaged = {
                     image: { url: THUMB_IMAGE },
                     caption: str
