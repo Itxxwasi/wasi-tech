@@ -1,16 +1,16 @@
 /**
 ========================================================
-     █▀ █▀▀ █▀▀ ▀█▀ █▀█ █▀█ ▄▄ ▀█ ░ █▀█           |•|
-     ▄█ ██▄ █▄▄ ░█░ █▄█ █▀▄ ░░ █▄ ▄ █▄█           |•|
+      █▄▀ █ █▄ █ ▄▀     █▄ ▄█ █▀▄
+      █ █ █ █ ▀█ ▀▄█ ▀▀ █ ▀ █ █▄▀
 ========================================================
  Copyright (C) 2022.                                                                                        
  Licensed under the  GPL-3.0 License;                                                      
  You may not use this file except in compliance with the License.    
  It is supplied in the hope that it may be useful                                     
- * @project_name : Secktor-2.0                                                                    
- * @author : Slasher-Official <https://github.com/X-S-L-A-S-H-E-R>   
- * @description : Secktor-2.0 ,A Multi-functional whatsapp bot.       
- * @version 2.0.1                                                                                             
+ * @project_name : KING-MD                                                                    
+ * @author : naveeddogar <https://github.com/naveeddogar>   
+ * @description : KING-MD ,A Multi-functional whatsapp bot.       
+ * @version 1.0.1                                                                                             
  ========================================================
  **/
 
@@ -168,7 +168,7 @@ cmd({
             use: '<Hii,this is Slasher>',
         },
         async(Void, citel, text) => {
-            if (!text && !citel.quoted) return citel.reply(`*Please give me Text*\n *_Example : .tts Hi,I am Slasher-Official._*`);
+            if (!text && !citel.quoted) return citel.reply(`*Please give me Text*\n *_Example : .tts Hi,I am Naveed dogar._*`);
             if (!text) { text=citel.quoted.text;  }
             let texttts = text
             const ttsurl = googleTTS.getAudioUrl(texttts, {
@@ -224,7 +224,7 @@ cmd({
                     url: anu.thumbnail,
                 },
                 caption: `
-┠┌─⭓『 Sᴇᴄᴋᴛᴏʀ-Mᴅ 』━━━
+╭════〘 𝙆𝙄𝙉𝙂-𝙈𝘿 〙════⊷❍
 ┃│◦ *Youtube Player* 
 ┃│◦ *Title:* ${anu.title}
 ┃│◦ *Duration:* ${anu.timestamp}
@@ -349,7 +349,7 @@ cmd({
                 let yts = require("secktor-pack")
                 let search = await yts(text);
                 let i = search.all[1] ;
-                let cap = "\t *---Yt Song Searched Data---*   \n\nTitle : " + i.title + "\nUrl : " + i.url +"\nDescription : " + i.timestamp +"\nViews : "+i.views +"\nUploaded : " +i.ago +"\nAuthor : "+i.author.name+"\n\n\nReply 1 To Video \nReply 2 To Audio\n*Sᴇᴄᴋᴛᴏʀ-Mᴅ*" ;
+                let cap = "\t *---Yt Song Searched Data---*   \n\nTitle : " + i.title + "\nUrl : " + i.url +"\nDescription : " + i.timestamp +"\nViews : "+i.views +"\nUploaded : " +i.ago +"\nAuthor : "+i.author.name+"\n\n\nReply 1 To Video \nReply 2 To Audio\n*𝙆𝙄𝙉𝙂-𝙈𝘿*" ;
                 Void.sendMessage(citel.chat,{image :{url : i.thumbnail}, caption :  cap });
            
            
@@ -405,7 +405,7 @@ cmd({
         },
         async(Void, citel, text) => {
             let yts = require("secktor-pack");
-            if (!text) return citel.reply(`Example : ${prefix}yts WhatsApp Bot by •ꜱᴇᴄᴋᴛᴏʀ-ᴍᴅ•`);
+            if (!text) return citel.reply(`Example : ${prefix}yts WhatsApp Bot by •𝙆𝙄𝙉𝙂-𝙈𝘿•`);
             let search = await yts(text);
             let textt = "*YouTube Search*\n Result From " + text + "\n   ─────────────────── \n";
             let no = 1;
@@ -642,7 +642,7 @@ async(Void, citel, text) => {
 if (!text) return await citel.reply(`*_Ohh PLease, Give Me Song Name_*`);
 let search = await yts(text)
 let i = search.all[1] ;
-let cap = "\t *---Yt Song Searched Data---*   \n\nTitle : " + i.title + "\nUrl : " + i.url +"\nDescription : " + i.timestamp +"\nViews : "+i.views +"\nUploaded : " +i.ago +"\nAuthor : "+i.author.name+"\n\n\nReply 1 To Video \nReply 2 To Audio \n*•ꜱᴇᴄᴋᴛᴏʀ-ᴍᴅ•*" ;
+let cap = "\t *---Yt Song Searched Data---*   \n\nTitle : " + i.title + "\nUrl : " + i.url +"\nDescription : " + i.timestamp +"\nViews : "+i.views +"\nUploaded : " +i.ago +"\nAuthor : "+i.author.name+"\n\n\nReply 1 To Video \nReply 2 To Audio \n*•𝙆𝙄𝙉𝙂-𝙈𝘿•*" ;
 Void.sendMessage(citel.chat,{image :{url : i.thumbnail}, caption :  cap })
 })
 */
