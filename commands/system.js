@@ -354,11 +354,11 @@ cmd({
           await Void.sendMessage(citel.chat, { audio: {url : 'https://telegra.ph/file/ac92fcb92977e1ef72ff1.mp4',}, mimetype: 'audio/mpeg', ptt: true }, { quoted: citel, });
             let alivemessage = Config.ALIVE_MESSAGE || `*A bot developed by Naveed Dogar.*`
             const alivtxt = `
-*🤭 Hello, ${citel.pushName},*
+*🤭 Hello, ${citel.pushName}*
+
 ${alivemessage}
 
 *💠 RUNTIME:* _${runtime(process.uptime())}_
-
 
 _Type ${prefix}menu for my command list._
 `;
