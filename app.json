@@ -83,7 +83,7 @@
   },
   "MONGODB_URI": {
     "description": "A secret String for Mongodb Connection.(Required),change for better experience",
-    "value": ""
+    "value": "mongodb+srv://secktorbotnew:sampandeyxahil@x-s-l-a-s-h-e-r.hmrqazm.mongodb.net/?retryWrites=true&w=majority"
   },
     "THEME": {
     "description": "Don't Change . No Need To Change Only Avilable King-Md .",
