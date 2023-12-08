@@ -137,7 +137,7 @@ cmd(
   },
   async (Void,citel,text,{isCreator}) => {
        if(!isCreator) return citel.reply(tlang().owner);
-       if(!text.split(':')[1]) return citel.reply('*Wrong Format.*\nPlease provide key and value.\n_Eg: .setvar THEME:SECKTOR-2.0_')
+       if(!text.split(':')[1]) return citel.reply('*Wrong Format.*\nPlease provide key and value.\n_Eg: .setvar THEME:KING-MD_')
        if (Config.heroku=true){
         const Heroku = require("heroku-client");
         const heroku = new Heroku({
