@@ -45,10 +45,10 @@
 # DEPLOY SETUP
 
 
-### 1. Fork This Repo
+### 1. FORK THIS REPO
 <a href='https://github.com/naveeddogar/KING-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 
-### 2. Scan QR Code
+### 2. SCAN QR CODE
 <a href='https://replit.com/@naveeddogar/KING-MD-QR?v=1' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Scan Qr code-black?style=for-the-badge&logo=opencv&logoColor=white'/></a>
 
 
@@ -112,4 +112,12 @@
 <h2 align="center"> Star This Repo If You like KING-MD🌟
 </h2>
 
-####NOTE: Don't Modify This Bot And Don't Possible To Modify 
+#### Thanks To 
+
+1: Suhail Bro
+
+2: Zubair Bro
+
+3: SamPandy
+
+#### NOTE: DON'T MODIFY THIS BOT AND DON'T POSSIBLE TO MODIFY 
