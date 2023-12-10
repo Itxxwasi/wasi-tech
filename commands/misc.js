@@ -64,8 +64,8 @@ async(Void, citel, text,{ isCreator }) => {
              filename: __filename,
          },
          async(Void, citel, text) => {
-let a = await getBuffer(`https://citel-x.herokuapp.com/attp/${text}`)
- return citel.reply(a,{packname:'Secktor',author:'ATTP'},"sticker") 
+let a = await getBuffer(`https://api.lolhuman.xyz/api/attp?apikey=GataDios&text=${text}`)
+ return citel.reply(a,{packname:'King-Md',author:'Naveed'},"sticker") 
          }
      )
  cmd({
@@ -75,8 +75,8 @@ let a = await getBuffer(`https://citel-x.herokuapp.com/attp/${text}`)
              filename: __filename,
          },
          async(Void, citel, text) => {
-let a = await getBuffer(`https://citel-x.herokuapp.com/ttp/${text}`)
- return citel.reply(a,{packname:'Secktor',author:'TTP'},"sticker") 
+let a = await getBuffer(`https://api.lolhuman.xyz/api/ttp?apikey=GataDios&text=${text}`)
+ return citel.reply(a,{packname:'King-Md',author:'Naveed'},"sticker") 
          }
      )
      //---------------------------------------------------------------------------
@@ -277,15 +277,26 @@ let a = await getBuffer(`https://citel-x.herokuapp.com/ttp/${text}`)
          },
          async(Void, citel, text,{ isCreator }) => {
              if (!text) return citel.reply(`Example : ${prefix}emix 😅,🤔`);
-             let [emoji1, emoji2] = text.split `,`;
-             let anu = await fetchJson(`https://tenor.googleapis.com/v2/featured?key=AIzaSyAyimkuYQYF_FXVALexPuGQctUWRURdCYQ&contentfilter=high&media_filter=png_transparent&component=proactive&collection=emoji_kitchen_v5&q=${encodeURIComponent(emoji1 )}_${encodeURIComponent(emoji2)}`);
-             for (let res of anu.results) {
-                 let encmedia = await Void.sendImageAsSticker(citel.chat, res.url, citel, {
-                     packname: global.packname,
-                     author: global.author,
-                     categories: res.tags,
-                 });
-                 await fs.unlinkSync(encmedia);
+const { Sticker, createSticker, StickerTypes } = require("wa-sticker-formatter");
+             let emoji1 = text.split(",")[0] ;
+             let emoji2 = text.split(",")[1];
+
+  const response = await fetch(`https://tenor.googleapis.com/v2/featured?key=AIzaSyAyimkuYQYF_FXVALexPuGQctUWRURdCYQ&contentfilter=high&media_filter=png_transparent&component=proactive&collection=emoji_kitchen_v5&q=${emoji1}_${emoji2}`);
+  const data = await response.json();
+  if(data.locale=="") return citel.reply(`Can't Create Mixture, Please Try Other Emojies`)
+  else {
+let media =await getBuffer(data.results[0].url)
+
+let sticker = new Sticker(media, {
+                    pack: global.packname, 
+                    author: global.author, 
+                    type: StickerTypes.FULL ,
+                    categories: ["🤩", "🎉"], 
+                    id: "12345", 
+                    quality: 100,
+                });
+const buffer = await sticker.toBuffer();
+ return Void.sendMessage(citel.chat, {sticker: buffer}, {quoted: citel });
              }
          }
      )
