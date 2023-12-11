@@ -1,16 +1,16 @@
 /**
 ========================================================
-     █▀ █▀▀ █▀▀ ▀█▀ █▀█ █▀█ ▄▄ ▀█ ░ █▀█           |•|
-     ▄█ ██▄ █▄▄ ░█░ █▄█ █▀▄ ░░ █▄ ▄ █▄█           |•|
+      █▄▀ █ █▄ █ ▄▀     █▄ ▄█ █▀▄
+      █ █ █ █ ▀█ ▀▄█ ▀▀ █ ▀ █ █▄▀
 ========================================================
  Copyright (C) 2022.                                                                                        
  Licensed under the  GPL-3.0 License;                                                      
  You may not use this file except in compliance with the License.    
  It is supplied in the hope that it may be useful                                     
- * @project_name : Secktor-2.0                                                                    
- * @author : Slasher-Official <https://github.com/X-S-L-A-S-H-E-R>   
- * @description : Secktor-2.0 ,A Multi-functional whatsapp bot.       
- * @version 2.0.1                                                                                             
+ * @project_name : KING-MD                                                                    
+ * @author : naveeddogar <https://github.com/naveeddogar>   
+ * @description : KING-MD ,A Multi-functional whatsapp bot.       
+ * @version 1.0.1                                                                                             
  ========================================================
  **/
 
@@ -140,7 +140,7 @@ cmd({
     async(Void, citel, text) => {
         await Void.sendMessage(`${citel.chat}`, {
             image: log0,
-            caption: `*Support : Secktor-Support*\n*Web Link:* https://github.com/X-S-L-A-S-H-E-R/Secktor-2.0`,
+            caption: `*Support : Official KING-MD-Support*\n*Group Link:* https://chat.whatsapp.com/JIJplkiYyrFE4dyFGade43`,
         });
 
     }
@@ -481,7 +481,7 @@ cmd({
 *🧩Role:* ${role}
 *🍁Level:* ${userq.level}
 *📥 Total Messages* ${ttms}
-*Powered by ${tlang().title}*
+*Powered by King-Md*
 `;
             let buttonMessage = {
                 image: {
