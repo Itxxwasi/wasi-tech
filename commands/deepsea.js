@@ -14,11 +14,9 @@
  ========================================================
  **/
 
- const { tlang,cmd } = require('../lib')
- const Config = require('../config')
- const prefix = Config.prefix
+ const { tlang,cmd,Config } = require('../lib')
  const maker = require('mumaker')
- let cap = `*_GENERATE BY KING-MD_*`
+ let cap = `*_GENERATE BY ${Config.botname}_*`
      //---------------------------------------------------------------------------
  cmd({ pattern: "deepsea", category: "textpro", desc: "Some text to image feature with various styles." }, async(Void, citel, text) => {
          if (!text) return citel.reply('_Need text._')
