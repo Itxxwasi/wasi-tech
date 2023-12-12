@@ -18,84 +18,84 @@
  const Config = require('../config')
  const prefix = Config.prefix
  const maker = require('mumaker')
- 
+ let cap = `*_GENERATE BY KING-MD_*`
      //---------------------------------------------------------------------------
  cmd({ pattern: "deepsea", category: "textpro", desc: "Some text to image feature with various styles." }, async(Void, citel, text) => {
          if (!text) return citel.reply('_Need text._')
          let anu = await maker.textpro('https://textpro.me/create-3d-deep-sea-metal-text-effect-online-1053.html', text)
-         Void.sendMessage(citel.chat, { image: { url: anu.image }, caption: `Made by ${tlang().title},For my ${tlang().greet}` }, { quoted: citel })
+         Void.sendMessage(citel.chat, { image: { url: anu.image }, caption: cap }, { quoted: citel })
      })
      //---------------------------------------------------------------------------
  cmd({ pattern: "horror", category: "textpro", desc: "Some text to image feature with various styles." }, async(Void, citel, text) => {
          if (!text) return citel.reply('_Need text._')
          let anu = await maker.textpro('https://textpro.me/horror-blood-text-effect-online-883.html', text)
-         Void.sendMessage(citel.chat, { image: { url: anu.image }, caption: `Made by ${tlang().title},For my ${tlang().greet}` }, { quoted: citel })
+         Void.sendMessage(citel.chat, { image: { url: anu.image }, caption: cap }, { quoted: citel })
      })
      //---------------------------------------------------------------------------
  cmd({ pattern: "whitebear", category: "textpro", desc: "Some text to image feature with various styles." }, async(Void, citel, text) => {
          if (!text) return citel.reply('_Need text._')
          let anu = await maker.textpro('https://textpro.me/online-black-and-white-bear-mascot-logo-creation-1012.html', text)
-         Void.sendMessage(citel.chat, { image: { url: anu.image }, caption: `Made by ${tlang().title},For my ${tlang().greet}` }, { quoted: citel })
+         Void.sendMessage(citel.chat, { image: { url: anu.image }, caption: cap }, { quoted: citel })
      })
      //---------------------------------------------------------------------------
  cmd({ pattern: "joker", category: "textpro", desc: "Some text to image feature with various styles." }, async(Void, citel, text) => {
          if (!text) return citel.reply('_Need text._')
          let anu = await maker.textpro('https://textpro.me/create-logo-joker-online-934.html', text)
-         Void.sendMessage(citel.chat, { image: { url: anu.image }, caption: `Made by ${tlang().title},For my ${tlang().greet}` }, { quoted: citel })
+         Void.sendMessage(citel.chat, { image: { url: anu.image }, caption: cap }, { quoted: citel })
      })
      //---------------------------------------------------------------------------
  cmd({ pattern: "metallic", category: "textpro", desc: "Some text to image feature with various styles." }, async(Void, citel, text) => {
          if (!text) return citel.reply('_Need text._')
          let anu = await maker.textpro('https://textpro.me/create-a-metallic-text-effect-free-online-1041.html', text)
-         Void.sendMessage(citel.chat, { image: { url: anu.image }, caption: `Made by ${tlang().title},For my ${tlang().greet}` }, { quoted: citel })
+         Void.sendMessage(citel.chat, { image: { url: anu.image }, caption: cap }, { quoted: citel })
      })
      //---------------------------------------------------------------------------
  cmd({ pattern: "steel", category: "textpro", desc: "Some text to image feature with various styles." }, async(Void, citel, text) => {
          if (!text) return citel.reply('_Need text._')
          let anu = await maker.textpro('https://textpro.me/steel-text-effect-online-921.html', text)
-         Void.sendMessage(citel.chat, { image: { url: anu.image }, caption: `Made by ${tlang().title},For my ${tlang().greet}` }, { quoted: citel })
+         Void.sendMessage(citel.chat, { image: { url: anu.image }, caption: cap }, { quoted: citel })
      })
      //---------------------------------------------------------------------------
  cmd({ pattern: "harrypotter", category: "textpro", desc: "Some text to image feature with various styles." }, async(Void, citel, text) => {
          if (!text) return citel.reply('_Need text._')
          let anu = await maker.textpro('https://textpro.me/create-harry-potter-text-effect-online-1025.html', text)
-         Void.sendMessage(citel.chat, { image: { url: anu.image }, caption: `Made by ${tlang().title},For my ${tlang().greet}` }, { quoted: citel })
+         Void.sendMessage(citel.chat, { image: { url: anu.image }, caption: cap }, { quoted: citel })
      })
      //---------------------------------------------------------------------------
  cmd({ pattern: "underwater", category: "textpro", desc: "Some text to image feature with various styles." }, async(Void, citel, text) => {
          if (!text) return citel.reply('_Need text._')
          let anu = await maker.textpro('https://textpro.me/3d-underwater-text-effect-generator-online-1013.html', text)
-         Void.sendMessage(citel.chat, { image: { url: anu.image }, caption: `Made by ${tlang().title},For my ${tlang().greet}` }, { quoted: citel })
+         Void.sendMessage(citel.chat, { image: { url: anu.image }, caption: cap }, { quoted: citel })
      })
      //---------------------------------------------------------------------------
  cmd({ pattern: "luxury", category: "textpro", desc: "Some text to image feature with various styles." }, async(Void, citel, text) => {
          if (!text) return citel.reply('_Need text._')
          let anu = await maker.textpro('https://textpro.me/3d-luxury-gold-text-effect-online-1003.html', text)
-         Void.sendMessage(citel.chat, { image: { url: anu.image }, caption: `Made by ${tlang().title},For my ${tlang().greet}` }, { quoted: citel })
+         Void.sendMessage(citel.chat, { image: { url: anu.image }, caption: cap }, { quoted: citel })
      })
      //---------------------------------------------------------------------------
  cmd({ pattern: "glue", category: "textpro", desc: "Some text to image feature with various styles." }, async(Void, citel, text) => {
          if (!text) return citel.reply('_Need text._')
          let anu = await maker.textpro('https://textpro.me/create-3d-glue-text-effect-with-realistic-style-986.html', text)
-         Void.sendMessage(citel.chat, { image: { url: anu.image }, caption: `Made by ${tlang().title},For my ${tlang().greet}` }, { quoted: citel })
+         Void.sendMessage(citel.chat, { image: { url: anu.image }, caption: cap }, { quoted: citel })
      })
      //---------------------------------------------------------------------------
  cmd({ pattern: "fabric", category: "textpro", desc: "Some text to image feature with various styles." }, async(Void, citel, text) => {
          if (!text) return citel.reply('_Need text._')
          let anu = await maker.textpro('https://textpro.me/fabric-text-effect-online-964.html', text)
-         Void.sendMessage(citel.chat, { image: { url: anu.image }, caption: `Made by ${tlang().title},For my ${tlang().greet}` }, { quoted: citel })
+         Void.sendMessage(citel.chat, { image: { url: anu.image }, caption: cap }, { quoted: citel })
      })
      //---------------------------------------------------------------------------
  cmd({ pattern: "toxic", category: "textpro", desc: "Some text to image feature with various styles." }, async(Void, citel, text) => {
          if (!text) return citel.reply('_Need text._')
          let anu = await maker.textpro('https://textpro.me/toxic-text-effect-online-901.html', text)
-         Void.sendMessage(citel.chat, { image: { url: anu.image }, caption: `Made by ${tlang().title},For my ${tlang().greet}` }, { quoted: citel })
+         Void.sendMessage(citel.chat, { image: { url: anu.image }, caption: cap }, { quoted: citel })
      })
      //---------------------------------------------------------------------------
  cmd({ pattern: "ancient", category: "textpro", desc: "Some text to image feature with various styles." }, async(Void, citel, text) => {
          if (!text) return citel.reply('_Need text._')
          let anu = await maker.textpro('https://textpro.me/3d-golden-ancient-text-effect-online-free-1060.html', text)
-         Void.sendMessage(citel.chat, { image: { url: anu.image }, caption: `Made by ${tlang().title},For my ${tlang().greet}` }, { quoted: citel })
+         Void.sendMessage(citel.chat, { image: { url: anu.image }, caption: cap }, { quoted: citel })
      })
      //---------------------------------------------------------------------------
  cmd({
@@ -110,7 +110,7 @@
                  image: {
                      url: anu.image
                  },
-                 caption: `Made by ${tlang().title},For my ${tlang().greet}`
+                 caption: cap
              }, {
                  quoted: citel
              })
@@ -129,7 +129,7 @@
                  image: {
                      url: anu.image
                  },
-                 caption: `Made by ${tlang().title},For my ${tlang().greet}`
+                 caption: cap
              }, {
                  quoted: citel
              })
@@ -148,7 +148,7 @@
                  image: {
                      url: anu.image
                  },
-                 caption: `Made by ${tlang().title},For my ${tlang().greet}`
+                 caption: cap
              }, {
                  quoted: citel
              })
@@ -167,7 +167,7 @@
                  image: {
                      url: anu.image
                  },
-                 caption: `Made by ${tlang().title},For my ${tlang().greet}`
+                 caption: cap
              }, {
                  quoted: citel
              })
@@ -186,7 +186,7 @@
                  image: {
                      url: anu.image
                  },
-                 caption: `Made by ${tlang().title},For my ${tlang().greet}`
+                 caption: cap
              }, {
                  quoted: citel
              })
@@ -205,7 +205,7 @@
                  image: {
                      url: anu.image
                  },
-                 caption: `Made by ${tlang().title},For my ${tlang().greet}`
+                 caption: cap
              }, {
                  quoted: citel
              })
@@ -224,7 +224,7 @@
                  image: {
                      url: anu.image
                  },
-                 caption: `Made by ${tlang().title},For my ${tlang().greet}`
+                 caption: cap
              }, {
                  quoted: citel
              })
@@ -243,7 +243,7 @@
                  image: {
                      url: anu.image
                  },
-                 caption: `Made by ${tlang().title},For my ${tlang().greet}`
+                 caption: cap
              }, {
                  quoted: citel
              })
@@ -262,7 +262,7 @@
                  image: {
                      url: anu.image
                  },
-                 caption: `Made by ${tlang().title},For my ${tlang().greet}`
+                 caption: cap
              }, {
                  quoted: citel
              })
@@ -281,7 +281,7 @@
                  image: {
                      url: anu.image
                  },
-                 caption: `Made by ${tlang().title},For my ${tlang().greet}`
+                 caption: cap
              }, {
                  quoted: citel
              })
@@ -300,7 +300,7 @@
                  image: {
                      url: anu.image
                  },
-                 caption: `Made by ${tlang().title},For my ${tlang().greet}`
+                 caption: cap
              }, {
                  quoted: citel
              })
@@ -319,7 +319,7 @@
                  image: {
                      url: anu.image
                  },
-                 caption: `Made by ${tlang().title},For my ${tlang().greet}`
+                 caption: cap
              }, {
                  quoted: citel
              })
@@ -338,7 +338,7 @@
                  image: {
                      url: anu.image
                  },
-                 caption: `Made by ${tlang().title},For my ${tlang().greet}`
+                 caption: cap
              }, {
                  quoted: citel
              })
@@ -357,7 +357,7 @@
                  image: {
                      url: anu.image
                  },
-                 caption: `Made by ${tlang().title},For my ${tlang().greet}`
+                 caption: cap
              }, {
                  quoted: citel
              })
@@ -376,7 +376,7 @@
                  image: {
                      url: anu.image
                  },
-                 caption: `Made by ${tlang().title},For my ${tlang().greet}`
+                 caption: cap
              }, {
                  quoted: citel
              })
@@ -395,7 +395,7 @@
              image: {
                  url: anu.image
              },
-             caption: `Made by ${tlang().title},For my ${tlang().greet}`
+             caption: cap
          }, {
              quoted: citel
          })
