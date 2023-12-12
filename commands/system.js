@@ -1,16 +1,16 @@
 /**
 ========================================================
-      █▄▀ █ █▄ █ ▄▀     █▄ ▄█ █▀▄
-      █ █ █ █ ▀█ ▀▄█ ▀▀ █ ▀ █ █▄▀
+     █▀ █▀▀ █▀▀ ▀█▀ █▀█ █▀█ ▄▄ ▀█ ░ █▀█           |•|
+     ▄█ ██▄ █▄▄ ░█░ █▄█ █▀▄ ░░ █▄ ▄ █▄█           |•|
 ========================================================
  Copyright (C) 2022.                                                                                        
  Licensed under the  GPL-3.0 License;                                                      
  You may not use this file except in compliance with the License.    
  It is supplied in the hope that it may be useful                                     
- * @project_name : KING-MD                                                                    
- * @author : naveeddogar <https://github.com/naveeddogar>   
- * @description : KING-MD ,A Multi-functional whatsapp bot.       
- * @version 1.0.1                                                                                             
+ * @project_name : Secktor-2.0                                                                    
+ * @author : Slasher-Official <https://github.com/X-S-L-A-S-H-E-R>   
+ * @description : Secktor-2.0 ,A Multi-functional whatsapp bot.       
+ * @version 2.0.1                                                                                             
  ========================================================
  **/
 
@@ -344,19 +344,28 @@ cmd({
             desc: "is bot alive??"
         },
         async(Void, citel, text, isAdmins) => {
-            let alivemessage = Config.ALIVE_MESSAGE || `*A bot developed by Naveed Dogar.*`
+		Void.sendMessage(citel.chat, { 
+              react: { 
+                  text: "🪸", 
+                  key: citel.key 
+              } 
+          }) 
+          await Void.sendPresenceUpdate('recording', citel.chat);
+          await Void.sendMessage(citel.chat, { audio: {url : 'https://telegra.ph/file/ac92fcb92977e1ef72ff1.mp3',}, mimetype: 'audio/mpeg', ptt: true }, { quoted: citel, });
+            let alivemessage = Config.ALIVE_MESSAGE || `*A bot developed by Naveed.*`
             const alivtxt = `
-*🤭 Hello, ${citel.pushName}*
-
+*Hello, ${citel.pushName},*
 ${alivemessage}
 
-*💠 RUNTIME:* _${runtime(process.uptime())}_
+*RUNTIME:-* _${runtime(process.uptime())}_
 
-_Type ${prefix}menu for my command list._
+type menu for cmands
+
+
 `;
             let aliveMessage = {
                 image: {
-                    url: THUMB_IMAGE,
+                    url: await botpic(),
                 },
                 caption: alivtxt,
                 footer: tlang().footer,
