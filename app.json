@@ -60,6 +60,11 @@
      "required" :false,
      "value": "true"
     },
+    "BOT_NAME": {
+	    "description": "Choose your bot name",
+	    "required": "true",
+	    "value": "KING-MD"
+},
     "DISABLE_PM": {
       "description": "Disable bot in pm",
       "value": "false",
