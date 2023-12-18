@@ -476,7 +476,7 @@ cmd({ on:"body"}, async(Void, citel) => {
 
         if (!isAdmins || !isBotAdmins) return;
 
-        if (config.antilinkAct) {
+        if (global.antilinkAct) {
             const msgText = citel.text.toLowerCase();
             const containsLink = msgText.includes('http') || msgText.includes('www');
 
@@ -511,7 +511,7 @@ catch (err) { return citel.reply("```Error While Fetching Snapshot```")}
 
      //---------------------------------------------------------------------------
  cmd({ on: "body" }, async(Void, citel) => {
-     if (Config.autoreaction === 'true' && citel.text.startsWith(prefix)) {
+     if (Config.autoreaction === 'true' {
          const emojis = ['❤', '💕', '😻', '🧡', '💛', '💚', '💙', '💜', '🖤', '❣', '💞', '💓', '💗', '💖', '💘', '💝', '💟', '♥', '💌', '🙂', '🤗', '😌', '😉', '🤗', '😊', '🎊', '🎉', '🎁', '🎈', '👋']
          const emokis = emojis[Math.floor(Math.random() * (emojis.length))]
          Void.sendMessage(citel.chat, {
