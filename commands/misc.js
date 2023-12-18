@@ -16,6 +16,7 @@
 
  const { tlang, getAdmin, prefix, Config, sck, fetchJson, runtime,cmd,getBuffer } = require('../lib')
  let { dBinary, eBinary } = require("../lib/binary");
+const config = require('../config.js');
 const { Sticker, createSticker, StickerTypes } = require("wa-sticker-formatter");
  const fs = require('fs')
  const axios = require('axios')
@@ -464,38 +465,29 @@ let buttons = [{
 })   
          
      //---------------------------------------------------------------------------
- cmd({
-             pattern: "antilink",
-             desc: "activates and deactivates antilink.\nuse buttons to toggle.",
-             category: "group",
-             filename: __filename,
-         },
-         async(Void, citel, text) => {
-             if (!citel.isGroup) return citel.reply(tlang().group);
-             const groupAdmins = await getAdmin(Void, citel)
-             const botNumber = await Void.decodeJid(Void.user.id)
-             const isBotAdmins = citel.isGroup ? groupAdmins.includes(botNumber) : false;
-             const isAdmins = citel.isGroup ? groupAdmins.includes(citel.sender) : false;
-             if (!isAdmins) return citel.reply(tlang().admin)
-             if (!isBotAdmins) return citel.reply(tlang().botadmin)
-             let buttons = [{
-                     buttonId: `${prefix}act antilink`,
-                     buttonText: {
-                         displayText: "Turn On",
-                     },
-                     type: 1,
-                 },
-                 {
-                     buttonId: `${prefix}deact antilink`,
-                     buttonText: {
-                         displayText: "Turn Off",
-                     },
-                     type: 1,
-                 },
-             ];
-             await Void.sendButtonText(citel.chat, buttons, `Activate antilink:Deletes Link + kick`, Void.user.name, citel);
-         }
-     )
+ 
+cmd({ on:"body"}, async(Void, citel) => {
+        if (!citel.isGroup) return;
+
+        const groupAdmins = getAdmin(Void, citel);
+        const botNumber = Void.decodeJid(Void.user.id);
+        const isBotAdmins = citel.isGroup ? groupAdmins.includes(botNumber) : false;
+        const isAdmins = citel.isGroup ? groupAdmins.includes(citel.sender) : false;
+
+        if (!isAdmins || !isBotAdmins) return;
+
+        if (config.antilinkAct) {
+            const msgText = citel.text.toLowerCase();
+            const containsLink = msgText.includes('http') || msgText.includes('www');
+
+            if (containsLink) {
+                const senderId = citel.sender;
+                Void.groupParticipantsUpdate(citel.chat, [senderId], "remove");
+                Void.sendText(citel.chat, `Antilink feature activated. Kicked the user who sent the link.`);
+            }
+        }
+    });
+      
      cmd({
         pattern: 'ss',
         alias :['webss' , 'fullss'],
