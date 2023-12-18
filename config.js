@@ -15,6 +15,7 @@ global.devs = '923096566451';
 global.website = 'https://github.com/naveeddogar/KING-MD' // Hello world
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/a6b9bbde7feaa92c69c7b.jpg'
 module.exports = {
+  antilinkAct: process.env.ANTILINKACT === undefined ? 'true' : process.env.ANTILINKACT, // true or false
   botname:   process.env.BOT_NAME === undefined ? '𝙆𝙄𝙉𝙂-𝙈𝘿' : process.env.BOT_NAME,
   ownername: process.env.OWNER_NAME === undefined ? 'Naveed Dogar' : process.env.OWNER_NAME,
   sessionName:  process.env.SESSION_ID === undefined ? false : process.env.SESSION_ID,
