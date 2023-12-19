@@ -7,7 +7,7 @@
   "stack": "container",
 "env": {
   "OWNER_NAME": {
-  "description": "SET OWNER NAME",
+  "description": "OWNER NAME",
       "value": "NAVEED DOGAR"
   },
   "ALIVE_MESSAGE": {
@@ -28,7 +28,7 @@
      "required" :true
     },
    "THUMB_IMAGE": {
-    "description": "Put Your Image Url for bot logo.",
+    "description": "Put Your Image Url for bot.",
      "value": "https://telegra.ph/file/a6b9bbde7feaa92c69c7b.jpg"
     },
     "ANTI_BAD_WORD": {
@@ -60,11 +60,6 @@
      "required" :false,
      "value": "true"
     },
-    "BOT_NAME": {
-	    "description": "CHOOSE YOUR BOT NAME",
-	    "required": "true",
-	    "value": "𝙆𝙄𝙉𝙂-𝙈𝘿"
-},
     "DISABLE_PM": {
       "description": "Disable bot in pm",
       "value": "false",
@@ -76,7 +71,7 @@
   },
   "OWNER_NUMBER": {
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-       "value": "923096566451"
+       "value": "92Xxxxxxxxxx"
   },
    "SESSION_ID": {
     "description": "Please put your Session ID that u scanned from the bot.... If u haven't scanned go to KING-MD Github Repo U can find the Scanner Option"
@@ -99,7 +94,7 @@
          "value": "public"
   },
       "AUTO_REACTION": {
-    "description": "Put true For Reacts emoji to all measeges.",
+    "description": "Reacts emoji to all commands.",
      "value": "false",
      "required": false 
   },
