@@ -466,9 +466,14 @@ let buttons = [{
          
      //---------------------------------------------------------------------------
  
-cmd({ on:"body"}, async(Void, citel) => {
+cmd({
+             pattern: "antilink",
+             desc: "activates and deactivates antilink.\nuse buttons to toggle.",
+             category: "group",
+             filename: __filename,
+         },
+         async(Void, citel, text) => {
         if (!citel.isGroup) return;
-
         const groupAdmins = getAdmin(Void, citel);
         const botNumber = Void.decodeJid(Void.user.id);
         const isBotAdmins = citel.isGroup ? groupAdmins.includes(botNumber) : false;
