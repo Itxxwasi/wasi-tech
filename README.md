@@ -82,13 +82,13 @@ https://heroku.com/deploy?template=https://github.com/Itxxwasi/wasi-tech
 #### ERROR SECATION
 IF YOU FIND ERROR OF CONNECTING DATABASE SO DONT WORRY JUST CHANGE MANGO BATABASE LINK IF YOU DONT HAVE USE THIS
 ```
-WASI
+mongodb+srv://wasimd:wasi@cluster0.nqlpjdu.mongodb.net/?retryWrites=true&w=majority
 ```
 ```
-WASI
+mongodb+srv://Maher:Zubair@sigma-male.ggwx4gc.mongodb.net/?retryWrites=true&w=majority
 ```
 ```
-WASI
+mongodb+srv://xIKRATOSx:xIKRATOSx@ikratosofc.g1ueru5.mongodb.net/?retryWrites=true&w=majority
 ```
 
 
