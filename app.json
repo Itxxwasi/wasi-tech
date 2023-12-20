@@ -87,7 +87,7 @@
   },
     "THEME": {
     "description": "Don't Change . No Need To Change Only Avilable wasi-tech.",
-     "value": "WASI-TECH"
+     "value": "KING-MD"
   },
     "WORKTYPE": {
   "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
