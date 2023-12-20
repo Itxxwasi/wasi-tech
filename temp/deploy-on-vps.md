@@ -45,7 +45,7 @@
       port = 5000
       email = "textnow1pak@gmail.com"
       global_url = "insta url here"
-      OWNER_NAME = "Naveed Dogar"
+      OWNER_NAME = "wasi tech"
       AUTO_REACTION = false
       FAKE_COUNTRY_CODE = 212
       READ_MESSAGE = false
