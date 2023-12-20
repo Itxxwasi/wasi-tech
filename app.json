@@ -1,7 +1,7 @@
 { 
   "name": "WASI-TECH",
   "description": "A Whatsapp md bot built By Naveed to make experience better",
-  "logo": "https://telegra.ph/file/a6b9bbde7feaa92c69c7b.jpg",
+  "logo": "https://telegra.ph/file/0e3ceca721a6e277dbb61.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "wasi-tech", "wasi-md", "wasi","wasimdbot","theme bot","multi device","baileys"],
   "success_url": "/",
   "stack": "container",
@@ -29,7 +29,7 @@
     },
    "THUMB_IMAGE": {
     "description": "Put Your Image Url for bot its also for menu.",
-     "value": "https://telegra.ph/file/a6b9bbde7feaa92c69c7b.jpg"
+     "value": "https://telegra.ph/file/0e3ceca721a6e277dbb61.jpg"
     },
     "ANTI_BAD_WORD": {
     "description": "Put words here. If you want it enabled in your bot otherwise leave it blank",
@@ -83,10 +83,10 @@
   },
   "MONGODB_URI": {
     "description": "A secret String for Mongodb Connection.(Required),change for better experience",
-    "value": "mongodb+srv://KING-MDBot:naveeddogar@cluster0.jkvj760.mongodb.net/?retryWrites=true&w=majority"
+    "value": "mongodb+srv://Maher:Zubair@sigma-male.ggwx4gc.mongodb.net/?retryWrites=true&w=majority"
   },
     "THEME": {
-    "description": "Don't Change . No Need To Change Only Avilable King-Md .",
+    "description": "Don't Change . No Need To Change Only Avilable wasi-tech.",
      "value": "WASI-TECH"
   },
     "WORKTYPE": {
