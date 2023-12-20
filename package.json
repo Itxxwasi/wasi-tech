@@ -1,13 +1,13 @@
 {
-               "name": "KING-MD",
+               "name": "Wasi-tech",
                "version": "1.0.1",
-               "description": "Multi device whatsapp bot by Naveed.",
+               "description": "Multi device whatsapp bot by wasi.",
                "main": "lib/client.js",
                "type": "commonjs",
                "license": "GPL-3.0",
    "scripts": {
-                "start": "pm2 start lib/client.js --deep-monitoring --attach --name king",
-                "stop": "pm2 stop king"
+                "start": "pm2 start lib/client.js --deep-monitoring --attach --name wasi",
+                "stop": "pm2 stop wasi"
                 },
                "author": "SamPandey001",
               "dependencies": {
@@ -69,10 +69,10 @@
                     },
                  "repository": {
                  "type": "git",
-                 "url": "git+https://github.com/naveeddogar/KING-MD.git"
+                 "url": "git+https://github.com/itxxwasi/wasi-tech .git"
                   },
                  "bugs": {
-                 "url": "https://github.com/naveeddogar/KING-MD/issues"
+                 "url": "https://github.com/itxxwasi/wasi-tech/issues"
                   },
-                 "homepage": "https://github.com/naveeddogar/KING-MD#readme"
+                 "homepage": "https://github.com/itxxwasi/wasi-tech#readme"
                   }
