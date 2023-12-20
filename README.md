@@ -67,37 +67,6 @@ https://heroku.com/deploy?template=https://github.com/Itxxwasi/wasi-tech
     <br>
 <a href='https://heroku.com/deploy' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
 
-#### DEPLOY TO CODESPACE
-
-1. If You don't have a account in Codespace. Create a account.
-    <br>
-<a href='https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fcodespaces' target="_blank"><img alt='Codespaces' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=visualstudiocode' width="96.35" height="28"/></a></p>
-
-2. Now Deploy
-    <br>
-<a href='https://github.com/codespaces/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=visualstudiocode' width="96.35" height="28"/></a></p>
-
-
-#### DEPLOY TO RAILWAY
-
-1. If You don't have a account in Railway. Create a account.
-    <br>
-<a href='https://railway.app/login' target="_blank"><img alt='Railway' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=railway' width="96.35" height="28"/></a></p>
-
-2. Now Deploy
-    <br>
-<a href='https://railway.app/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=railway' width="96.35" height="28"/></a></p>
-
-#### DEPLOY TO MONGENIUS
-
-1. If You don't have a account in Mongenius. Create a account.
-    <br>
-<a href='https://studio.mogenius.com/user/registration' target="_blank"><img alt='Mongenius' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=genius' width="96.35" height="28"/></a></p>
-
-2. Now Deploy
-    <br>
-<a href='https://railway.app/new' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=genius' width="96.35" height="28"/></a></p>
-
 
 #### DEPLOY TO REPLIT
 
@@ -110,6 +79,17 @@ https://heroku.com/deploy?template=https://github.com/Itxxwasi/wasi-tech
 <a href='https://replit.com/github/itxxwasi/wasi-tech' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Deploy-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
 ---
+#### ERROR SECATION
+IF YOU FIND ERROR OF CONNECTING DATABASE SO DONT WORRY JUST CHANGE MANGO BATABASE LINK IF YOU DONT HAVE USE THIS
+```
+WASI
+```
+```
+WASI
+```
+```
+WASI
+```
 
 
 <h2 align="center"> Star This Repo If You like WASI-TECH🌟
