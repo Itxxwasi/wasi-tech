@@ -46,7 +46,7 @@
 
 
 ### 1. FORK THIS REPO
-<a href='https://github.com/naveeddogar/KING-MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
+<a href='https://github.com/itxxwasi/wasi-tech/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 
 ### 2. SCAN QR CODE
 <a href='https://replit.com/@naveeddogar/KING-MD-QR?v=1' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Scan Qr code-black?style=for-the-badge&logo=opencv&logoColor=white'/></a>
@@ -103,20 +103,18 @@
 
 2. Now Deploy
     <br>
-<a href='https://replit.com/github/naveeddogar/KING-MD' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Deploy-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
+<a href='https://replit.com/github/itxxwasi/wasi-tech' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-Deploy-black?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
 ---
 
 
-<h2 align="center"> Star This Repo If You like KING-MD🌟
+<h2 align="center"> Star This Repo If You like WASI-TECH🌟
 </h2>
 
 #### Thanks To 
 
-1: Suhail Bro
-
-2: Zubair Bro
+1: NAVEED DOGER 
 
 3: SamPandy Bro
 
-#### NOTE: DON'T MODIFY THIS BOT AND DON'T POSSIBLE TO MODIFY 
+#### NOTE: THIS BOT MODIFIED FROM KING-MD..REASON=STUDY PURPOSE
