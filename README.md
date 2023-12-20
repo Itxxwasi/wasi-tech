@@ -24,7 +24,7 @@
 
    <p align="left">
   <a href="https://github.com/itxxwasi/wasi-tech/fork">
-    <img src="https://img.shields.io/github/forks/wasi/wasi-tech?label=Fork&style=social">
+    <img src="https://img.shields.io/github/forks/itxxwasi/wasi-tech?label=Fork&style=social">
   <p align="left"> 
   <a href="https://github.com/itxxwasi/wasi-tech/stargazers">
     <img src="https://img.shields.io/github/stars/itxxwasi/wasi-tech?style=social">
