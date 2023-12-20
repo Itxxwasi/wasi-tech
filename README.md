@@ -57,7 +57,7 @@
 
 #### JUST COPY THIS TEMPLEAT LINK AND OPEN IT ON THAT BROWSER WHERE YOU HAVE YOUR HEROKU ACCOUNT
 ```
-WASI MD 
+https://heroku.com/deploy?template=https://github.com/Itxxwasi/wasi-tech
 ```
 1. If You don't have a account in Heroku. Create a account.
     <br>
