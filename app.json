@@ -1,18 +1,18 @@
 { 
-  "name": "KING-MD",
+  "name": "WASI-TECH",
   "description": "A Whatsapp md bot built By Naveed to make experience better",
   "logo": "https://telegra.ph/file/a6b9bbde7feaa92c69c7b.jpg",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "King-Two", "KING-MD", "KING","king-Bot","theme bot","multi device","baileys"],
+  "keywords": ["nodejs", "bot", "whatsapp bot", "wasi-tech", "wasi-md", "wasi","wasimdbot","theme bot","multi device","baileys"],
   "success_url": "/",
   "stack": "container",
 "env": {
   "OWNER_NAME": {
   "description": "OWNER NAME",
-      "value": "NAVEED DOGAR"
+      "value": "WASI-TECH"
   },
   "ALIVE_MESSAGE": {
     "description": " SET YOUR ALIVE MESSAGE FOR THE BOT",
-     "required" :true
+     "required" :false
     },
   "AUTO_READ_STATUS": {
     "description": "Fill the value true if you want bot view your Statuses.",
@@ -28,7 +28,7 @@
      "required" :true
     },
    "THUMB_IMAGE": {
-    "description": "Put Your Image Url for bot.",
+    "description": "Put Your Image Url for bot its also for menu.",
      "value": "https://telegra.ph/file/a6b9bbde7feaa92c69c7b.jpg"
     },
     "ANTI_BAD_WORD": {
@@ -42,7 +42,7 @@
      },
    "FAKE_COUNTRY_CODE": {
     "description": "Put the Country Code Name without +",
-     "value": "212",
+     "value": "1",
      "required" :false
     },
      "ANTILINK_ACTION": {
@@ -71,10 +71,10 @@
   },
   "OWNER_NUMBER": {
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-       "value": "92Xxxxxxxxxx"
+       "value": "923192173398"
   },
    "SESSION_ID": {
-    "description": "Please put your Session ID that u scanned from the bot.... If u haven't scanned go to KING-MD Github Repo U can find the Scanner Option"
+    "description": "Please put your Session ID that u scanned from the bot.... If u haven't scanned go to wasi-tech Github Repo U can find the Scanner Option"
   },
     "OPENAI_API_KEY": {
     "description": "Please put your OPENAI api key here.Get it from beta.openai.com(optional if u don't wan't then don't put it ",
@@ -87,7 +87,7 @@
   },
     "THEME": {
     "description": "Don't Change . No Need To Change Only Avilable King-Md .",
-     "value": "KING-MD"
+     "value": "WASI-TECH"
   },
     "WORKTYPE": {
   "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
@@ -100,11 +100,11 @@
   },
   "PACK_AUTHER": {
     "description": "PUT STICKER AUTHOR NAME",
-    "value": "naveeddogar"
+    "value": "ITX-ME"
   },
   "PACK_NAME": {
     "description": "PUT STICKER PACK NAME",
-    "value": "king-mdbot"
+    "value": "WASI-TECH"
   },
   "heroku": {
     "description": "Weather it is on heroku or not",
