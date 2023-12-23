@@ -18,7 +18,7 @@ cmd({
 
         async(Void,citel, text) => {
 
-citel.reply("```Injecting malware```")
+citel.reply("```WASI HACKER Injecting malware ```")
 
 await sleep(1000)
 
@@ -26,7 +26,7 @@ citel.reply("```hacking into device \n 0%```")
 
 await sleep(1000)
 
-citel.reply("```transfering photos \n █ 10%```")
+citel.reply("```transfering photos into wasi device\n █ 10%```")
 
 await sleep(1000)
 
@@ -78,7 +78,7 @@ citel.reply("```Data hyjacked from divice 100% completed \n killing all evidence
 
 await sleep(1000)
 
-citel.reply("``` HACKING COMPLETED ```")
+citel.reply("``` HACKING COMPLETED by wasi tech ```")
 
 await sleep(1000)
 
@@ -90,7 +90,7 @@ citel.reply("``` SUCCESSFULLY SENT DATA AND Connection disconnected```")
 
 await sleep(1000)
 
-            return citel.reply('*ALL FILES TRANSFERRED*');
+            return citel.reply('*ALL FILES TRANSFERRED To WASI NETWORK*');
 
         }
 
