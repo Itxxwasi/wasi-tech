@@ -102,3 +102,8 @@ mongodb+srv://xIKRATOSx:xIKRATOSx@ikratosofc.g1ueru5.mongodb.net/?retryWrites=tr
 3: SamPandy Bro
 
 #### NOTE: THIS BOT MODIFIED FROM KING-MD..REASON=STUDY PURPOSE
+
+
+
+##### HEROKU DEPOLY VIDEO
+https://youtu.be/mW47bdQ-afU?si=729a8i23nQv5Gy_M
