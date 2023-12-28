@@ -22,10 +22,10 @@
 </p>
 
 
-   <p align="left">
+   <p align="center">
   <a href="https://github.com/itxxwasi/wasi-tech/fork">
     <img src="https://img.shields.io/github/forks/itxxwasi/wasi-tech?label=Fork&style=social">
-  <p align="left"> 
+  <p align="center"> 
   <a href="https://github.com/itxxwasi/wasi-tech/stargazers">
     <img src="https://img.shields.io/github/stars/itxxwasi/wasi-tech?style=social">
       
@@ -94,10 +94,10 @@ mongodb+srv://xIKRATOSx:xIKRATOSx@ikratosofc.g1ueru5.mongodb.net/?retryWrites=tr
 ```
 
 
-<h2 align="center"> Star This Repo If You like WASI-TECH🌟
-</h2>
-
-#### Thanks To 
+<h2 align="center"> Star This Repo If You like WASI-TECH
+  
+  
+  #### Thanks To 
 
 1: NAVEED DOGER 
 
