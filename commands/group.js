@@ -140,7 +140,7 @@ cmd({
     async(Void, citel, text) => {
         await Void.sendMessage(`${citel.chat}`, {
             image: log0,
-            caption: `*Support : Official KING-MD-Support*\n*Group Link:* https://chat.whatsapp.com/JIJplkiYyrFE4dyFGade43`,
+            caption: `*Support : Official 𝗪𝗔𝗦𝗜-𝗧𝗘𝗖𝗛-𝗦𝗨𝗣𝗣𝗢𝗥𝗧-*\n*𝗚𝗥𝗢𝗨𝗣 Link:* https://chat.whatsapp.com/IcqWhTW0vgw4A4N1IPA03J`,
         });
 
     }
@@ -217,13 +217,13 @@ cmd({
         if (!isAdmins) return citel.reply(tlang().admin);
 
         let textt = `
-══✪〘   *Tag All*   〙✪══
+══✪〘   *Tag All by Wasi•tech*   〙✪══
 
 ➲ *Message :* ${text ? text : "blank"}\n\n
-➲ *Author:* ${Config.ownername} 🔖
+➲ *Author:* ${Config.ownername} 👑
 `
         for (let mem of participants) {
-            textt += `📍 @${mem.id.split("@")[0]}\n`;
+            textt += `👀 @${mem.id.split("@")[0]}\n`;
         }
         Void.sendMessage(citel.chat, {
             text: textt,
@@ -235,7 +235,7 @@ cmd({
 )
 
 //---------------------------------------------------------------------------
-/*
+
 cmd({
             pattern: "request",
             desc: "Sends requst to main Bot developer.",
@@ -266,9 +266,9 @@ cmd({
             });
 
         }
-    )*/
+    )
     //---------------------------------------------------------------------------
-    /*
+    
 cmd({
             pattern: "retrive",
 	    alias: ["vv"],
@@ -292,7 +292,7 @@ cmd({
                 await citel.reply("please, reply to viewOnceMessage");
             }
         }
-    )*/
+    )
 //---------------------------------------------------------------------------
 cmd({
         pattern: "kik",
