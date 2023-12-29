@@ -481,7 +481,7 @@ cmd({
 *🧩Role:* ${role}
 *🍁Level:* ${userq.level}
 *📥 Total Messages* ${ttms}
-*Powered by King-Md*
+*Powered by WASI---TECH*
 `;
             let buttonMessage = {
                 image: {
@@ -517,7 +517,7 @@ cmd({
             } else if (lvpoints <= 8) {
                 var role = "🌟Captain Knight";
             } else if (lvpoints <= 10) {
-                var role = "🌀 Baby Wizard";
+                var role = "🌀 WASI Wizard";
             } else if (lvpoints <= 12) {
                 var role = "🌀  Wizard";
             } else if (lvpoints <= 14) {
@@ -1127,7 +1127,7 @@ cmd({ on: "text" }, async(Void, citel) => {
 ║ *⚡Level*: ${sck1.level}🌀
 ║ *💫Exp*: ${sck1.xp} / ${Levels.xpFor(sck1.level + 1)}
 ║ *📍Role*: *${role}*
-║ *Enjoy🥳*
+║ *Enjoy WASI BOT🥳*
 ╚
 `,
             }, {
