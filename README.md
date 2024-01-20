@@ -92,6 +92,10 @@ mongodb+srv://Maher:Zubair@sigma-male.ggwx4gc.mongodb.net/?retryWrites=true&w=ma
 ```
 mongodb+srv://xIKRATOSx:xIKRATOSx@ikratosofc.g1ueru5.mongodb.net/?retryWrites=true&w=majority
 ```
+### NEW DATABASE 
+```
+mongodb+srv://wasitech10:WASImd##12@cluster0.eclhxiz.mongodb.net/?retryWrites=true&w=majority
+```
 
 
 <h2 align="center"> Star This Repo If You like WASI-TECH
